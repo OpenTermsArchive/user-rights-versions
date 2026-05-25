@@ -16,13 +16,13 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Engagement bait
 
 Content that incentivises people to click a link or respond to a post through likes, comments or shares.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Soliciting engagement
 
@@ -38,7 +38,7 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Debated social issues
 
@@ -59,7 +59,7 @@ We define "debated social issues" as "social issues that may provoke debate, suc
 
 Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Tragedy or conflict
 
@@ -78,7 +78,7 @@ Examples of this content include:
 *   Emotional abuse
 *   Property damage
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Objectionable activity
 
@@ -102,7 +102,7 @@ We define "objectionable activity" as "substance use, abuse or crimes". Depictio
 
 We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Sexual or suggestive activity
 
@@ -119,7 +119,7 @@ We define "sexual or suggestive" content within the examples below. Content may 
 
 We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Strong language
 
@@ -134,7 +134,7 @@ We define "strong language" as "profanity, derogatory words or vulgar sexual lan
 
 We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1A0618)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1AAED8)
 
 ### Explicit content
 

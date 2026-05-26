@@ -16,12 +16,6 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=DV7aSI6hc0kQ7kNvwEojtCP&_nc_oc=AdonT2xPk4LJV0uJQ2R4ojyw1DjGBvb4z9MvgJzbEpbt6YnVpITcccZWo86T7_dnALI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1B5798)
-
-### Engagement bait
-
-Content that incentivises people to click a link or respond to a post through likes, comments or shares.
-
 Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 

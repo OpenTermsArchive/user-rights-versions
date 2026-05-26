@@ -803,7 +803,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 - - -
 
 Financial Products and Services Advertising
--------------------------------------------
+===========================================
 
 Last updated: 8 months ago
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780401600&v=beta&t=RcyNKDbC7y_YSqyIHmpt9FnEp_Ejc-nuJ5ItlwjOYv8)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780444800&v=beta&t=5edB1A2gtHHCFGUvazgcE_eJQBLwMMb9w3aoaSi7cHE)
 
 Supported languages for LinkedIn Ad sets are:
 

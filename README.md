@@ -1,6 +1,6 @@
 # Versions of terms from the *user-rights* collection
 
-The terms in this collection are tracked by _ _ _ _ _ ✍️ using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by Open Terms Archive Core Team using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
@@ -33,4 +33,4 @@ If not, you may just be the best person to add them by [following the documentat
 
 # License
 
-Any database in this repository is distributed under an [ODC-BY 1.0](https://opendatacommons.org/licenses/by/1-0/) license. That means you are free to share, modify, or transform the database and produce works from it as long as you attribute the resulting works to *_ _ _ _ _ ✍️ and Open Terms Archive contributors*.
+Any database in this repository is distributed under an [ODC-BY 1.0](https://opendatacommons.org/licenses/by/1-0/) license. That means you are free to share, modify, or transform the database and produce works from it as long as you attribute the resulting works to *Open Terms Archive Core Team and Open Terms Archive contributors*.

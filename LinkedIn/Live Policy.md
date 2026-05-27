@@ -1,5 +1,5 @@
 LinkedIn Live Overview
-----------------------
+======================
 
 Last updated: 2 months ago
 
@@ -54,7 +54,7 @@ If you have any other questions related to LinkedIn Live, please [contact us](ht
 - - -
 
 Guidelines for LinkedIn Live Streaming Content
-----------------------------------------------
+==============================================
 
 Last updated: 1 year ago
 
@@ -92,7 +92,7 @@ If you have any other questions related to Live Video, please [contact us](https
 - - -
 
 Create and host LinkedIn Live: Access criteria
-----------------------------------------------
+==============================================
 
 Last updated: 9 months ago
 

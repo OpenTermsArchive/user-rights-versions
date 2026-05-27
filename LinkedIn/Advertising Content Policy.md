@@ -145,7 +145,7 @@ We may run pilot ad campaigns.
 - - -
 
 Edit your ad creatives
-----------------------
+======================
 
 Last updated: 1 month ago
 
@@ -260,7 +260,7 @@ Learn more below about how to edit creatives for the following ad formats:
 - - -
 
 Guidelines for health and weight loss ads
------------------------------------------
+=========================================
 
 Last updated: 2 years ago
 
@@ -297,7 +297,7 @@ In special circumstances, LinkedIn might determine that a previously allowed ad 
 - - -
 
 Political advertising in the European Union
--------------------------------------------
+===========================================
 
 Last updated: 6 months ago
 
@@ -331,7 +331,7 @@ Examples of ads that are of a purely private or purely commercial nature include
 - - -
 
 Guidelines for contest and competition ads
-------------------------------------------
+==========================================
 
 Last updated: 2 years ago
 
@@ -351,7 +351,7 @@ Advertisers are responsible for understanding and complying with applicable laws
 - - -
 
 Healthcare ads policy
----------------------
+=====================
 
 Last updated: 11 months ago
 
@@ -464,7 +464,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 - - -
 
 Healthcare ads policy
----------------------
+=====================
 
 Last updated: 11 months ago
 
@@ -577,7 +577,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 - - -
 
 Healthcare ads policy
----------------------
+=====================
 
 Last updated: 11 months ago
 
@@ -690,7 +690,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 - - -
 
 Healthcare ads policy
----------------------
+=====================
 
 Last updated: 11 months ago
 
@@ -844,7 +844,7 @@ Ads promoting the following financial products and services are prohibited:
 - - -
 
 UK financial services ads verification
---------------------------------------
+======================================
 
 Last updated: 2 years ago
 
@@ -907,7 +907,7 @@ If your ad is rejected, we’ll send an email detailing the reason it wasn’t a
 - - -
 
 Cryptocurrency and Related Products Advertising
------------------------------------------------
+===============================================
 
 Last updated: 7 months ago
 
@@ -960,7 +960,7 @@ We're beginning to introduce consumer ads promoting cryptocurrency products and 
 - - -
 
 Supported languages for LinkedIn Ads sets
------------------------------------------
+=========================================
 
 Last updated: 6 months ago
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780444800&v=beta&t=5edB1A2gtHHCFGUvazgcE_eJQBLwMMb9w3aoaSi7cHE)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780488000&v=beta&t=5ukFwRnNBq3V2PE7EkS1WlTmAeMpp8LgImE3CsUXUHU)
 
 Supported languages for LinkedIn Ad sets are:
 
@@ -1098,7 +1098,7 @@ When selecting a language for your ad set: 
 - - -
 
 Additional Advertising Policy Prohibitions in the European Union
-----------------------------------------------------------------
+================================================================
 
 Last updated: 1 year ago
 

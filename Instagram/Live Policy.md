@@ -91,3 +91,10 @@ Related articles
 [Live](https://www.facebook.com/help/instagram/272122157758915/?helpref=related_articles)
 
 [Assign a moderator to your live broadcast on Instagram](https://www.facebook.com/help/instagram/1175145849979325/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time

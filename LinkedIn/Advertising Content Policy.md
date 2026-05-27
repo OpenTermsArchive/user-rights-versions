@@ -909,7 +909,7 @@ If your ad is rejected, we’ll send an email detailing the reason it wasn’t a
 Cryptocurrency and Related Products Advertising
 ===============================================
 
-Last updated: 7 months ago
+Last updated: 8 months ago
 
 These guidelines are provided to you to help you comply with [LinkedIn’s Advertising Policies](https://www.linkedin.com/legal/ads-policy) when advertising cryptocurrency-related products or services. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780488000&v=beta&t=5ukFwRnNBq3V2PE7EkS1WlTmAeMpp8LgImE3CsUXUHU)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780531200&v=beta&t=AZmn-XjhgUjvy-HlGtBrDj4Qb5c1hszmC9T1-VHtIhs)
 
 Supported languages for LinkedIn Ad sets are:
 

@@ -443,7 +443,7 @@ TikTok is a place to share and learn about all kinds of products and services, b
 
 ### Regulated Goods and Services
 
-**We don’t allow trading, marketing, or providing access to regulated, prohibited, or high-risk goods and services.** For the most harmful goods and services, we prohibit both promotion and showing their use. For certain products like alcohol, we allow some content, but may apply restrictions to reduce potential risks. **Learn more about substance use support [here](https://www.tiktok.com/safety/substance-support/?lang=en), and gambling resources [here](https://www.tiktok.com/safety/gambling-support/?lang=en).**
+**We don’t allow trading, marketing, or providing access to regulated, prohibited, or high-risk goods and services.** For the most harmful goods and services, we prohibit both promotion and showing their use. For certain products like alcohol, we allow some content, but may apply restrictions to reduce potential risks. **Learn more about substance use support [here](https://www.tiktok.com/safety/en/community-support/substance-support), and gambling resources [here](https://www.tiktok.com/safety/en/community-support/gambling-support).**
 
 In some regions and on [LIVE](https://www.tiktok.com/community-guidelines/accounts-features?lang=en&cgversion=2025H2update#2), our treatment of this type of content may be different. We provide limited exceptions for registered business accounts and verified TikTok Shop sellers meeting our standards.
 

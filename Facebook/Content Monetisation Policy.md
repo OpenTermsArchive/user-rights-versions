@@ -16,29 +16,18 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1F4C18)
 
 ### Engagement bait
 
 Content that incentivises people to click a link or respond to a post through likes, comments or shares.
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
-
-### Soliciting engagement
-
-Content that requests compensation in exchange for extreme behaviour, such as:
-
-*   consumption of inedible substances;
-*   showing graphic content;
-*   consumption of drugs, tobacco or alcohol; and
-*   Disrobing or other sexual behaviour
 
 Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1F4C18)
 
 ### Debated social issues
 
@@ -58,69 +47,6 @@ We define "debated social issues" as "social issues that may provoke debate, suc
 *   Legitimacy of elections
 
 Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
-
-### Tragedy or conflict
-
-We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-However, content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
-
-Examples of this content include:
-
-*   Death
-*   Physical injury
-*   Mental disabilities
-*   Illness
-*   Physical abuse
-*   Sexual abuse
-*   Emotional abuse
-*   Property damage
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
-
-### Objectionable activity
-
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
-
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=0wlazoixnxAQ7kNvwG2QvAp&_nc_oc=AdrNkq4VABgpgwAA_OhQXngUQBspaBzEgF7H-Gyy-JWpGx0xwEmtcFMgZqmlAZG7Y_o&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A1EA358)
-
-### Explicit content
-
-We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Wounds
-*   Infections
-*   Bodily fluids
-*   Medical procedures
-*   Food processing
-*   Extreme body modification
-*   Bodily functions
-*   Ingesting substances not intended for consumption
-*   Ingesting nauseating substances
-*   Decay
-*   Infestation
-
-We restrict the monetisation of sensational, disrespectful or excessively graphic content.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

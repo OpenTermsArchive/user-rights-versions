@@ -1,11 +1,11 @@
 Report a live broadcast on Instagram
 ====================================
 
-Report non-live content
+Report a live video
 
 What can I report?
 
-My report is anonymous
+My report is anonymous?
 
 I have a different question
 

@@ -147,7 +147,7 @@ We may run pilot ad campaigns.
 Edit your ad creatives
 ======================
 
-Last updated: 1 month ago
+Last updated: 2 months ago
 
 Once you’ve created and saved ad creatives to a ad set in Campaign Manager, there are options to edit the details of the ad, such as the headline, copy, image, or landing page URL.
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780747200&v=beta&t=xcu1BeaQ5jIW0ePm6SQgmTVm-SLXNLROLEukCAB8Y5g)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780790400&v=beta&t=LK2WKoHklQQ_147aSKcbRUs2PrADv2f6QRvhO76T_6M)
 
 Supported languages for LinkedIn Ad sets are:
 

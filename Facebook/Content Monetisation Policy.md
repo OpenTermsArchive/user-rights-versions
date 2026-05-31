@@ -16,23 +16,12 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A21EF18)
-
-### Soliciting engagement
-
-Content that requests compensation in exchange for extreme behaviour, such as:
-
-*   consumption of inedible substances;
-*   showing graphic content;
-*   consumption of drugs, tobacco or alcohol; and
-*   Disrobing or other sexual behaviour
-
 Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A21EF18)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2297D8)
 
 ### Debated social issues
 
@@ -53,29 +42,42 @@ We define "debated social issues" as "social issues that may provoke debate, suc
 
 Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A21EF18)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2297D8)
 
-### Objectionable activity
+### Sexual or suggestive activity
 
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
+
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2297D8)
+
+### Explicit content
+
+We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
+
+*   Wounds
+*   Infections
+*   Bodily fluids
+*   Medical procedures
+*   Food processing
+*   Extreme body modification
+*   Bodily functions
+*   Ingesting substances not intended for consumption
+*   Ingesting nauseating substances
+*   Decay
+*   Infestation
+
+We restrict the monetisation of sensational, disrespectful or excessively graphic content.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

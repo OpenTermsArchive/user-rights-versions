@@ -1,14 +1,6 @@
 Report a live broadcast on Instagram
 ====================================
 
-Report non-live content
-
-What can I report?
-
-My report is anonymous
-
-I have a different question
-
 Learn how to [report non-live content](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F372161259539444) on Instagram.
 
 Reporting a live broadcast from the Instagram app or from a computer on Instagram.com
@@ -66,31 +58,6 @@ What if there's another live broadcast issue that you want to report
 
 *   If you believe that someone is using your copyrighted work without your permission, you can fill in this form to [report an infringement of your rights](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2Fcontact%2F372592039493026%3Fhelpref%3Dfaq_content). Learn more about [how to report copyright infringement](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F277982542336146%3Fhelpref%3Dfaq_content).
 *   If you're having trouble viewing a live broadcast, you can report it. Bear in mind that if you're having a problem viewing a live broadcast, it could be because of a network or Internet connection issue.
-
-Related articles
-----------------
-
-[Start a live broadcast on Instagram](https://www.facebook.com/help/instagram/292478487812558/?helpref=related_articles)
-
-[Start a live video in a channel on Instagram](https://www.facebook.com/help/instagram/1386836475313335/?helpref=related_articles)
-
-[View someone's live broadcast on Instagram](https://www.facebook.com/help/instagram/699289326902954/?helpref=related_articles)
-
-[Live](https://www.facebook.com/help/instagram/272122157758915/?helpref=related_articles)
-
-[Assign a moderator to your live broadcast on Instagram](https://www.facebook.com/help/instagram/1175145849979325/?helpref=related_articles)
-
-Related articles
-
-[Start a live broadcast on Instagram](https://www.facebook.com/help/instagram/292478487812558/?helpref=related_articles)
-
-[Start a live video in a channel on Instagram](https://www.facebook.com/help/instagram/1386836475313335/?helpref=related_articles)
-
-[View someone's live broadcast on Instagram](https://www.facebook.com/help/instagram/699289326902954/?helpref=related_articles)
-
-[Live](https://www.facebook.com/help/instagram/272122157758915/?helpref=related_articles)
-
-[Assign a moderator to your live broadcast on Instagram](https://www.facebook.com/help/instagram/1175145849979325/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

@@ -299,7 +299,7 @@ In special circumstances, LinkedIn might determine that a previously allowed ad 
 Political advertising in the European Union
 ===========================================
 
-Last updated: 6 months ago
+Last updated: 7 months ago
 
 Political advertising is prohibited on LinkedIn globally. For ads targeted to the EU, this includes ads that constitute “political advertising” as defined in the EU’s Transparency and Targeting of Political Advertising (TTPA) (Regulation 2024/900).
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780920000&v=beta&t=0BdwzZaea-xPp4lF5Q8_s0S_DByNdLk-U6GUbowlx4w)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1780963200&v=beta&t=uI4kFBoRb2hBg3Z9HOxRCyd1ZPvDeHTFGFtxhhvopl0)
 
 Supported languages for LinkedIn Ad sets are:
 

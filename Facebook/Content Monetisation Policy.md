@@ -16,13 +16,13 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Engagement bait
 
 Content that incentivises people to click a link or respond to a post through likes, comments or shares.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Soliciting engagement
 
@@ -38,41 +38,46 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
-### Debated social issues
+### Objectionable activity
 
-We define "debated social issues" as "social issues that may provoke debate, such as personal, civil or political rights". Content may be subject to reduced or disabled monetisation if it depicts or discusses the following subjects in a polarising or inflammatory manner:
+We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Race
-*   Gender
-*   National origin
-*   Age
-*   Political affiliation
-*   Ethnicity
-*   Disability
-*   Sexual orientation
-*   Socioeconomic class
-*   Religion
-*   Immigration
-*   Legitimacy of elections
+*   Substance abuse
+*   Threats
+*   Advocating for harm
+*   Trafficking
+*   Theft
+*   Vandalism
+*   Trespassing
+*   Corruption
+*   Fraud
+*   Bribery
+*   Insider trading
+*   Embezzlement
+*   Hacking
+*   Copyright infringement
+*   Judicial proceedings
 
-Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
+We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
-### Strong language
+### Sexual or suggestive activity
 
-We define "strong language" as "profanity, derogatory words or vulgar sexual language". Content may face reduced or disabled monetisation if it contains this language, either spoken, written or otherwise represented.
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Profanity
-*   Derogatory words
-*   Sexual words
-*   Innuendos
-*   Crude gestures
-*   Vulgar motions
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
-We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

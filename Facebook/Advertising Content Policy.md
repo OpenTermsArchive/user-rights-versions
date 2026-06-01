@@ -3473,7 +3473,7 @@ Advertisers running these ads, regardless of location, targeting, or news exempt
 
 If ads do not include a disclaimer and we determine the ad content includes content about social issues, elections or politics, it will be disapproved during ad review. If an ad is already running, it can be flagged by automated systems or reported by our community and, if found to be violating our policy by missing a disclaimer, it will be disapproved and added to the Ad Library.
 
-Advertisers must also disclose when a social issue, elections, or political ad contains a photorealistic image or video, or realistic sounding audio, that was digitally created or altered to:
+Advertisers must also disclose when a social issue, elections, or political ad contains a photorealistic image or video, or realistic sounding audio, that was created or edited using third-party generative AI tools to:
 
 *   Depict a real person as saying or doing something they did not say or do; or
     
@@ -3483,6 +3483,10 @@ Advertisers must also disclose when a social issue, elections, or political ad c
     
 
 If we determine that an advertiser has not disclosed as required, we will reject the ad, and repeated failure to disclose may result in penalties against the advertiser.
+
+**Note:** This feature may not be available in your region.
+
+In addition to self-disclosure, beginning June 1, 2026, Meta will also use automated detection technology to identify when ad media has been created or edited using third-party generative AI tools. No advertiser action is required - when AI-generated content is detected, an "AI Info" label will appear in the "About this Ad" transparency hub, accessible via the three-dot menu on the ad.
 
 Ads must not run in or be targeted at the state of Washington when the ads relate to Washington's state or local elected officials, candidates, elections or ballot initiatives. In addition, ads must not run in or be targeted at the state of Washington when the ads relate to Seattle legislation.
 
@@ -3792,7 +3796,7 @@ When you run financial products and services ads, you may need to choose Special
 *   You're running ads for credit opportunities in the US, Canada or certain parts of Europe, or reaching audiences in these regions
     
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Certain parts of Europe include:
 
@@ -3904,7 +3908,7 @@ Example ads for housing, employment and financial products and services
 
 If you're unsure whether your ad is covered under Meta's Discriminatory Practices policy for housing, employment or financial products and services ads, you can review examples of covered ads below.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Ads for financial products and services
 
@@ -3970,7 +3974,7 @@ Here are some examples of ads for credit, a subset of financial products and ser
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Ads for housing
 
@@ -4023,7 +4027,7 @@ Here are some examples of ads for housing under our policies:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=wmMnVaQXo5wQ7kNvwGe-LRr&_nc_oc=AdrAlfg5IPZ0fna1ohqEisa36BljMv8ouGJHTqu7N-XgJobp9ZrTAFa-zyc3kL6e3-k&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A234098)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=yIATK_mT_CIQ7kNvwE4bxy4&_nc_oc=AdqAPD4ACW6WYyBh5jzVChzlIpb56bVOTX2e--mRD5U0nlxko4UfRlVbryi76P6PFsU&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A23E958)
 
 ### Ads for employment
 

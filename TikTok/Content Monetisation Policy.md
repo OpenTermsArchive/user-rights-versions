@@ -958,7 +958,7 @@ Content showing or promoting dangerous activities that involve - or are likely t
 
 ·Risky behaviors that require formal training and professional skills, or inappropriate use of dangerous objects (such as fireworks, knife, scissors, or axes).
 
-·Performing actions that are demeaning/reckless in exchange for Gifts.
+·Performing actions that are demeaning/reckless
 
 ·Consumption of food or drink which is not made for human consumption, or which is consumed in excessive amounts that might lead to health risks or physical harm (including alcohol).
 

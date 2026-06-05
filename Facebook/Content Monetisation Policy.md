@@ -16,13 +16,13 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A27DDD8)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A288698)
 
 ### Engagement bait
 
 Content that incentivises people to click a link or respond to a post through likes, comments or shares.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A27DDD8)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A288698)
 
 ### Soliciting engagement
 
@@ -38,7 +38,7 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A27DDD8)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A288698)
 
 ### Tragedy or conflict
 
@@ -57,40 +57,22 @@ Examples of this content include:
 *   Emotional abuse
 *   Property damage
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A27DDD8)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A288698)
 
-### Strong language
+### Sexual or suggestive activity
 
-We define "strong language" as "profanity, derogatory words or vulgar sexual language". Content may face reduced or disabled monetisation if it contains this language, either spoken, written or otherwise represented.
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Profanity
-*   Derogatory words
-*   Sexual words
-*   Innuendos
-*   Crude gestures
-*   Vulgar motions
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
-We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A27DDD8)
-
-### Explicit content
-
-We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Wounds
-*   Infections
-*   Bodily fluids
-*   Medical procedures
-*   Food processing
-*   Extreme body modification
-*   Bodily functions
-*   Ingesting substances not intended for consumption
-*   Ingesting nauseating substances
-*   Decay
-*   Infestation
-
-We restrict the monetisation of sensational, disrespectful or excessively graphic content.
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

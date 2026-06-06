@@ -353,7 +353,7 @@ Advertisers are responsible for understanding and complying with applicable laws
 Healthcare ads policy
 =====================
 
-Last updated: 11 months ago
+Last updated: 1 year ago
 
 These guidelines are provided to help advertisers comply with [LinkedIn’s Ad Policies](https://www.linkedin.com/legal/ads-policy) when advertising healthcare-related products, services, and matters. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -466,7 +466,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 Healthcare ads policy
 =====================
 
-Last updated: 11 months ago
+Last updated: 1 year ago
 
 These guidelines are provided to help advertisers comply with [LinkedIn’s Ad Policies](https://www.linkedin.com/legal/ads-policy) when advertising healthcare-related products, services, and matters. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -579,7 +579,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 Healthcare ads policy
 =====================
 
-Last updated: 11 months ago
+Last updated: 1 year ago
 
 These guidelines are provided to help advertisers comply with [LinkedIn’s Ad Policies](https://www.linkedin.com/legal/ads-policy) when advertising healthcare-related products, services, and matters. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -692,7 +692,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 Healthcare ads policy
 =====================
 
-Last updated: 11 months ago
+Last updated: 1 year ago
 
 These guidelines are provided to help advertisers comply with [LinkedIn’s Ad Policies](https://www.linkedin.com/legal/ads-policy) when advertising healthcare-related products, services, and matters. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1781352000&v=beta&t=M1d_D71d-7Xl0H9wxg-AZMN6gqPgNSG5DTKgHb4iQnI)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1781395200&v=beta&t=P-nfzRfMfRuIgNfKslgIc5swO-mLABioISsuQX4mQjw)
 
 Supported languages for LinkedIn Ad sets are:
 

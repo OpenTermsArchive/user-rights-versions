@@ -1,13 +1,13 @@
 Report a live broadcast on Instagram
 ====================================
 
-Report a live video
+Rapportare un video non in diretta
 
-What can I report?
+Tipi di trasmissioni in diretta
 
-My report is anonymous?
+Cosa succede dopo la segnalazione?
 
-I have a different question
+Ho una domanda diversa
 
 Learn how to [report non-live content](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F372161259539444) on Instagram.
 

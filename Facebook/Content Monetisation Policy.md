@@ -16,46 +16,34 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2B2998)
-
-### Engagement bait
-
-Content that incentivises people to click a link or respond to a post through likes, comments or shares.
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2B2998)
-
-### Soliciting engagement
-
-Content that requests compensation in exchange for extreme behaviour, such as:
-
-*   consumption of inedible substances;
-*   showing graphic content;
-*   consumption of drugs, tobacco or alcohol; and
-*   Disrobing or other sexual behaviour
-
 Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=3icqDJi0faEQ7kNvwEERaWg&_nc_oc=Adoe_CxPFOZwab16zIi2Tri--14_vVCcKcKB2AoP5p76CyDt21V8n0eCzaDeMW4kpOg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2B2998)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=8M78v7HEY40Q7kNvwH80Oeh&_nc_oc=AdqEAISeMt_DHs4bHFsYvbUW-KARlvZ0klXpX8QU5TUsIH-xtWWpkTpIBXtRoJT4A30&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A2BD258)
 
-### Tragedy or conflict
+### Objectionable activity
 
-We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-However, content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
+*   Substance abuse
+*   Threats
+*   Advocating for harm
+*   Trafficking
+*   Theft
+*   Vandalism
+*   Trespassing
+*   Corruption
+*   Fraud
+*   Bribery
+*   Insider trading
+*   Embezzlement
+*   Hacking
+*   Copyright infringement
+*   Judicial proceedings
 
-Examples of this content include:
-
-*   Death
-*   Physical injury
-*   Mental disabilities
-*   Illness
-*   Physical abuse
-*   Sexual abuse
-*   Emotional abuse
-*   Property damage
+We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

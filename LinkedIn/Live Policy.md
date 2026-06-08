@@ -1,7 +1,7 @@
 LinkedIn Live Overview
 ======================
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 ### Important to know
 

@@ -1,14 +1,6 @@
 Report a live broadcast on Instagram
 ====================================
 
-Report a live video
-
-What can I report?
-
-My report is anonymous?
-
-I have a different question
-
 Learn how to [report non-live content](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F372161259539444) on Instagram.
 
 Reporting a live broadcast from the Instagram app or from a computer on Instagram.com
@@ -91,10 +83,3 @@ Related articles
 [Live](https://www.facebook.com/help/instagram/272122157758915/?helpref=related_articles)
 
 [Assign a moderator to your live broadcast on Instagram](https://www.facebook.com/help/instagram/1175145849979325/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time

@@ -94,7 +94,7 @@ If you have any other questions related to Live Video, please [contact us](https
 Create and host LinkedIn Live: Access criteria
 ==============================================
 
-Last updated: 9 months ago
+Last updated: 10 months ago
 
 All members can join LinkedIn Lives as viewers. Eligible members and Pages can create and broadcast a LinkedIn Live.
 

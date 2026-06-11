@@ -974,7 +974,7 @@ For Sponsored Messaging ad sets: 
 
 *   When you select any language, your ads will appear to member accounts that meet your target audience criteria and match your language selection.
 
-![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1781784000&v=beta&t=dFBtrZTcQ7GZN8NNbl6Fkn9Y1rYieGEd2p-dKmvNynU)
+![Campaign language setting in audiences](https://media.licdn.com/dms/image/v2/D4D08AQFvE8dkVn_9FQ/croft-frontend-shrinkToFit1920/croft-frontend-shrinkToFit1920/0/1667241789923?e=1781827200&v=beta&t=tDjeKaZ-qv2capISViq2Eu_bHC7oZMrkYc08NtYTWkk)
 
 Supported languages for LinkedIn Ad sets are:
 

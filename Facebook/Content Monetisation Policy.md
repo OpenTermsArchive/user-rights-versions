@@ -16,40 +16,57 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A346418)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A350CD8)
 
-### Soliciting engagement
+### Engagement bait
 
-Content that requests compensation in exchange for extreme behaviour, such as:
-
-*   consumption of inedible substances;
-*   showing graphic content;
-*   consumption of drugs, tobacco or alcohol; and
-*   Disrobing or other sexual behaviour
+Content that incentivises people to click a link or respond to a post through likes, comments or shares.
 
 Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A346418)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A350CD8)
 
-### Tragedy or conflict
+### Objectionable activity
 
-We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-However, content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
+*   Substance abuse
+*   Threats
+*   Advocating for harm
+*   Trafficking
+*   Theft
+*   Vandalism
+*   Trespassing
+*   Corruption
+*   Fraud
+*   Bribery
+*   Insider trading
+*   Embezzlement
+*   Hacking
+*   Copyright infringement
+*   Judicial proceedings
 
-Examples of this content include:
+We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
-*   Death
-*   Physical injury
-*   Mental disabilities
-*   Illness
-*   Physical abuse
-*   Sexual abuse
-*   Emotional abuse
-*   Property damage
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A350CD8)
+
+### Sexual or suggestive activity
+
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
+
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

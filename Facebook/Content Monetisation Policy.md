@@ -16,7 +16,7 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Engagement bait
 
@@ -27,7 +27,7 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Debated social issues
 
@@ -48,7 +48,7 @@ We define "debated social issues" as "social issues that may provoke debate, suc
 
 Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
+![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Tragedy or conflict
 

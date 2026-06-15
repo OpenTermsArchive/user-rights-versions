@@ -3672,8 +3672,6 @@ Outside experts, academics, NGOs and policymakers help inform the Facebook Commu
 About advertising restrictions
 ==============================
 
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=438223955063449&version=1666716831&transcode_extension=webp)
-
 Refer to the [Meta Transparency Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2F) for comprehensive policy guidance.
 
 At Meta, we have policies and standards that we ask our advertisers to follow in order to advertise on our platforms. When advertisers go against these policies and standards, or if Meta observes any unusual or high-risk activity, we may place restrictions on businesses by limiting their ability to advertise.
@@ -3759,8 +3757,6 @@ Learn more
 About ads for housing, employment or financial products and services
 ====================================================================
 
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=438223955063449&version=1666716831&transcode_extension=webp)
-
 As part of our ongoing efforts to promote fairness on our advertising platform, we have introduced a new "Financial products and services" Special Ad Category for advertisers promoting financial products and services. Starting from 21 January 2025, using this category is required for financial products and services campaigns for advertisers based in the United States or showing ads to audiences in the United States. Ads may be rejected if an appropriate category is not chosen. [Learn more about the update here](https://www.facebook.com/business/help/510724041294968).
 
 To help prevent discrimination, our Discriminatory Practices advertising policy has special requirements for ads related to housing, employment or financial products and services.
@@ -3776,8 +3772,6 @@ Mute
 Enter fullscreen
 
 Sharing and reporting options
-
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/-PAXP-deijE.gif)
 
 Something went wrong
 
@@ -3795,8 +3789,6 @@ When you run financial products and services ads, you may need to choose Special
     
 *   You're running ads for credit opportunities in the US, Canada or certain parts of Europe, or reaching audiences in these regions
     
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
 
 ### Certain parts of Europe include:
 
@@ -3908,17 +3900,11 @@ Example ads for housing, employment and financial products and services
 
 If you're unsure whether your ad is covered under Meta's Discriminatory Practices policy for housing, employment or financial products and services ads, you can review examples of covered ads below.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
-
 ### Ads for financial products and services
 
 ### Ads that promote or directly link to a financial product or service offer, including credit
 
 Here are some examples of ads for credit, a subset of financial products and services, under our policies:
-
-![Advertisement for Mod Electrica service offer showcasing financial product details.](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1193348248141073&version=1750308667&transcode_extension=webp)
-
-![Advertisement for BankCard loan highlighting loan features and benefits.](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=530134651944020&version=1750308667&transcode_extension=webp)
 
 **They can include offers for the following and more in the US, Canada or certain parts of Europe:**
 
@@ -3972,19 +3958,13 @@ Here are some examples of ads for credit, a subset of financial products and ser
 
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ads for housing
 
 Ads that promote or directly link to a housing opportunity or related service.
 
 Here are some examples of ads for housing under our policies:
-
-![Smartphone screen displaying a Facebook ad for rentohome.io with an apartment building photo and text promoting finding a new home in a favorite neighborhood.](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1107504479980209&version=1750308656&transcode_extension=webp)
-
-![Smartphone screen displaying a Facebook ad for StayAway, featuring a modern house and text promoting short term rentals.](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1490777171338844&version=1750308656&transcode_extension=webp)
 
 **They can include offers for the following and more:**
 
@@ -4025,19 +4005,13 @@ Here are some examples of ads for housing under our policies:
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289&oe=6A35B598)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ads for employment
 
 Ads that promote or directly link to an employment opportunity.
 
 Here are some examples of ads for employment under our policies:
-
-![Example of ad for employment ](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=331648662273734&version=1750304711&transcode_extension=webp)
-
-![Example of ad for employment](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=1448981215539756&version=1750304711&transcode_extension=webp)
 
 **They can include offers for the following and more:**
 
@@ -4076,7 +4050,7 @@ Here are some examples of ads for employment under our policies:
 
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Remember that the examples in the sections above aren't comprehensive and don't constitute legal advice.
 

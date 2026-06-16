@@ -1016,7 +1016,7 @@ We enforce our LIVE Monetization Guidelines using a combination of technology an
 
 Creator code of conduct
 
-Views: 2.1MLast updated: May 18, 2026
+Views: 2.2MLast updated: May 18, 2026
 
 It's our priority to maintain a safe and welcoming environment for everyone on TikTok. We expect all creators to follow our Community Guidelines, Terms of Service, and any other agreed-upon creator terms or program terms, so we can all stay protected and keep fostering community on our platform.
 

@@ -1,8 +1,6 @@
 Content Monetisation Policies
 =============================
 
-![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=438223955063449&version=1666716831&transcode_extension=webp)
-
 This article defines Facebook's Content Monetisation Policies for creators and publishers. These rules determine whether your content is eligible to earn money through Facebook's monetisation features.
 
 All content on Facebook must comply with our [Terms of Service](https://www.facebook.com/terms/) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fen-gb%2Fpolicies%2Fad-standards%2Fcommunity-standards%2F). These are our high-level rules against sexual, violent, profane or hateful content. However, content suitable for Facebook in general is not necessarily appropriate for monetisation.
@@ -16,13 +14,9 @@ Prohibited monetisation behaviours on Facebook
 
 The following behaviours are not eligible for monetisation:
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
-
 ### Engagement bait
 
 Content that incentivises people to click a link or respond to a post through likes, comments or shares.
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Soliciting engagement
 
@@ -37,8 +31,6 @@ Restricted content categories for Facebook monetisation
 -------------------------------------------------------
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Tragedy or conflict
 
@@ -56,8 +48,6 @@ Examples of this content include:
 *   Sexual abuse
 *   Emotional abuse
 *   Property damage
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Objectionable activity
 
@@ -81,8 +71,6 @@ We define "objectionable activity" as "substance use, abuse or crimes". Depictio
 
 We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
-
 ### Sexual or suggestive activity
 
 We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
@@ -98,8 +86,6 @@ We define "sexual or suggestive" content within the examples below. Content may 
 
 We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
-
 ### Strong language
 
 We define "strong language" as "profanity, derogatory words or vulgar sexual language". Content may face reduced or disabled monetisation if it contains this language, either spoken, written or otherwise represented.
@@ -112,8 +98,6 @@ We define "strong language" as "profanity, derogatory words or vulgar sexual lan
 *   Vulgar motions
 
 We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
-
-![](https://scontent-dub4-1.xx.fbcdn.net/v/t39.8562-6/146597050_455534749152435_1802453867954835002_n.svg?_nc_cat=1&ccb=1-7&_nc_sid=f537c7&_nc_ohc=kTNAkmzUr9kQ7kNvwHLKg85&_nc_oc=AdqceLSg0N4EA-vuSqJ7clN3_uqfBFCoSEchvlY-yclFR-qTcosYvPGMs9qoDhqMb3s&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_ss=7f289)
 
 ### Explicit content
 

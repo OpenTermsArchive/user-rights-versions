@@ -962,7 +962,7 @@ We're beginning to introduce consumer ads promoting cryptocurrency products and 
 Supported languages for LinkedIn Ads sets
 =========================================
 
-Last updated: 6 months ago
+Last updated: 7 months ago
 
 When you create a LinkedIn advertising campaign, you can select from one of 35 profile languages for your target audience. Keep in mind:
 

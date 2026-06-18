@@ -51,60 +51,6 @@ We define "debated social issues" as "social issues that may provoke debate, suc
 
 Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
 
-### Tragedy or conflict
-
-We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-However, content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
-
-Examples of this content include:
-
-*   Death
-*   Physical injury
-*   Mental disabilities
-*   Illness
-*   Physical abuse
-*   Sexual abuse
-*   Emotional abuse
-*   Property damage
-
-### Objectionable activity
-
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
-
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
-
-### Sexual or suggestive activity
-
-We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Nudity
-*   Sexual activity
-*   Sexual poses
-*   Suggestive dancing
-*   Simulations of sexual activity
-*   Sex objects
-*   Suggestive language
-*   Revealing or absent items of clothing
-
-We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
-
 ### Strong language
 
 We define "strong language" as "profanity, derogatory words or vulgar sexual language". Content may face reduced or disabled monetisation if it contains this language, either spoken, written or otherwise represented.

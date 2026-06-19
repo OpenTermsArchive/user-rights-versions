@@ -32,42 +32,6 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-### Debated social issues
-
-We define "debated social issues" as "social issues that may provoke debate, such as personal, civil or political rights". Content may be subject to reduced or disabled monetisation if it depicts or discusses the following subjects in a polarising or inflammatory manner:
-
-*   Race
-*   Gender
-*   National origin
-*   Age
-*   Political affiliation
-*   Ethnicity
-*   Disability
-*   Sexual orientation
-*   Socioeconomic class
-*   Religion
-*   Immigration
-*   Legitimacy of elections
-
-Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
-
-### Tragedy or conflict
-
-We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-However, content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
-
-Examples of this content include:
-
-*   Death
-*   Physical injury
-*   Mental disabilities
-*   Illness
-*   Physical abuse
-*   Sexual abuse
-*   Emotional abuse
-*   Property damage
-
 ### Objectionable activity
 
 We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
@@ -90,21 +54,6 @@ We define "objectionable activity" as "substance use, abuse or crimes". Depictio
 
 We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
 
-### Sexual or suggestive activity
-
-We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Nudity
-*   Sexual activity
-*   Sexual poses
-*   Suggestive dancing
-*   Simulations of sexual activity
-*   Sex objects
-*   Suggestive language
-*   Revealing or absent items of clothing
-
-We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
-
 ### Strong language
 
 We define "strong language" as "profanity, derogatory words or vulgar sexual language". Content may face reduced or disabled monetisation if it contains this language, either spoken, written or otherwise represented.
@@ -117,24 +66,6 @@ We define "strong language" as "profanity, derogatory words or vulgar sexual lan
 *   Vulgar motions
 
 We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
-
-### Explicit content
-
-We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Wounds
-*   Infections
-*   Bodily fluids
-*   Medical procedures
-*   Food processing
-*   Extreme body modification
-*   Bodily functions
-*   Ingesting substances not intended for consumption
-*   Ingesting nauseating substances
-*   Decay
-*   Infestation
-
-We restrict the monetisation of sensational, disrespectful or excessively graphic content.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

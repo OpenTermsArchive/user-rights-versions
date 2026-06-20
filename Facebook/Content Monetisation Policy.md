@@ -68,27 +68,20 @@ Examples of this content include:
 *   Emotional abuse
 *   Property damage
 
-### Objectionable activity
+### Sexual or suggestive activity
 
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
 ### Strong language
 

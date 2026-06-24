@@ -118,24 +118,6 @@ We define "strong language" as "profanity, derogatory words or vulgar sexual lan
 
 We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
 
-### Explicit content
-
-We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Wounds
-*   Infections
-*   Bodily fluids
-*   Medical procedures
-*   Food processing
-*   Extreme body modification
-*   Bodily functions
-*   Ingesting substances not intended for consumption
-*   Ingesting nauseating substances
-*   Decay
-*   Infestation
-
-We restrict the monetisation of sensational, disrespectful or excessively graphic content.
-
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------
 

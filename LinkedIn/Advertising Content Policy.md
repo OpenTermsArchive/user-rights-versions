@@ -761,7 +761,7 @@ When selecting a language for your ad set: 
 Additional Advertising Policy Prohibitions in the European Union
 ================================================================
 
-Last updated: 1 year ago
+Last updated: 2 years ago
 
 In addition to the global prohibitions set out in the [Advertising Policies](https://www.linkedin.com/legal/ads-policy), our Advertising Policies prohibit ads and content in the European Union that run afoul of the Ireland Online Safety Code, including the following:
 

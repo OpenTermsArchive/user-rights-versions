@@ -68,28 +68,6 @@ Examples of this content include:
 *   Emotional abuse
 *   Property damage
 
-### Objectionable activity
-
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
-
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
-
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
-
 ### Sexual or suggestive activity
 
 We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
@@ -117,6 +95,24 @@ We define "strong language" as "profanity, derogatory words or vulgar sexual lan
 *   Vulgar motions
 
 We restrict the monetisation of [hateful conduct](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fhate-speech%2F).
+
+### Explicit content
+
+We define "explicit content" as "injury, gore or bodily functions or conditions". Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
+
+*   Wounds
+*   Infections
+*   Bodily fluids
+*   Medical procedures
+*   Food processing
+*   Extreme body modification
+*   Bodily functions
+*   Ingesting substances not intended for consumption
+*   Ingesting nauseating substances
+*   Decay
+*   Infestation
+
+We restrict the monetisation of sensational, disrespectful or excessively graphic content.
 
 Prohibited content categories for Facebook monetisation
 -------------------------------------------------------

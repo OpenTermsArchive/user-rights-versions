@@ -1540,28 +1540,24 @@ Advertisers can run ads for online dating services as long as they have written 
 *   Dating facilitation, including dating profile management and dating aggregator services
     
 
-All ads for online dating services must target audiences 18 years or older. Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to our Advertising Standards.
+All ads for online dating services must target audiences 18 years or older. Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to the rest of our Advertising Standards. This includes our policies on [Adult Sexual Solicitation and Sexually Explicit Language](https://transparency.meta.com/policies/community-standards/sexual-solicitation/) and [Adult Nudity and Sexual Activity](https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/), which prohibit content promoting prostitution and sexual encounters, as well as our policies on [Privacy Violations and Personal Attributes](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/) and [Fraud, Scams, and Deceptive Practices](https://transparency.meta.com/policies/community-standards/fraud-and-scams/).
 
 Guidelines
 
-Ads can’t promote the following products or services:
+Ads can’t promote products or services that promote the following:
 
-*   Dating sites with an emphasis on sexual encounters
+*   Dating based on monetary or other financial transactions, such as mail-order brides
     
-*   Dating with casual sexual themes or monetary or other financial transactions, such as mail-order brides or “sugar babies”
-    
-*   Services offering to facilitate affairs, infidelity or non-monogamous connections
+*   Offers to facilitate affairs or infidelity
     
 *   Connections with fictitious groups or individuals
     
 
 Additionally, dating ads can’t include the following in their creatives:
 
-*   An emphasis on sexual encounters
+*   Monetary or other financial transactions, such as mail-order brides
     
-*   Monetary or other financial transactions, such as mail-order brides or “sugar babies”
-    
-*   Facilitating affairs or infidelity, or non-monogamous connections
+*   Facilitating affairs or infidelity
     
 *   Indicating people will meet or connect with fictitious groups or individuals
     

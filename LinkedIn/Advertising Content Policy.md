@@ -570,7 +570,7 @@ If your ad is rejected, we’ll send an email detailing the reason it wasn’t a
 Cryptocurrency and Related Products Advertising
 ===============================================
 
-Last updated: 8 months ago
+Last updated: 9 months ago
 
 These guidelines are provided to you to help you comply with [LinkedIn’s Advertising Policies](https://www.linkedin.com/legal/ads-policy) when advertising cryptocurrency-related products or services. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 

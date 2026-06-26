@@ -1,11 +1,11 @@
 LinkedIn Live Overview
 ======================
 
-Last updated: 3 months ago
+Last updated: 7 hours ago
 
 ### Important to know
 
-We’re evolving LinkedIn Live to make it simpler, more discoverable, and more impactful for our members. Starting June 22, 2026 all live events must be scheduled ahead of time. While the ability to go live spontaneously will no longer be available, you can still go live on short notice by scheduling your event just minutes in advance. Learn more about how to [create a LinkedIn Event](https://www.linkedin.com/help/linkedin/answer/a554183) or [Schedule from a third-party broadcast tool](https://www.linkedin.com/help/linkedin/answer/a570487).
+As of June 22, 2026, the ability to go live spontaneously is no longer available. All events must be scheduled ahead of time. You can still go live on short notice by scheduling your event minutes before going live to preserve the same real-time, in-the-moment experience. Learn more about how to [create a LinkedIn Event](https://www.linkedin.com/help/linkedin/answer/a554183) or [Schedule from a third-party broadcast tool](https://www.linkedin.com/help/linkedin/answer/a570487).
 
 LinkedIn Live allows eligible members and Pages to broadcast live video content to a LinkedIn profile, LinkedIn Page, or Event. If you’d like to become a LinkedIn Live broadcaster, review the [create and host LinkedIn Live: access criteria](https://www.linkedin.com/help/linkedin/answer/a568503).
 

@@ -106,8 +106,6 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 How we enforce our Professional Community Policies
 ==================================================
 
-Last updated: 1 year ago
-
 Violating our [User Agreement](https://www.linkedin.com/legal/user-agreement) and our [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) can result in action against your account, or content, or access to certain features. Depending on the severity of the violation, we may limit the visibility of certain content, label it, or remove it entirely.
 
 When we do this, we also generally send you a notice that your content violates our policies, how your content violates our policies, and the action we’re taking. These notices are sent in line with relevant laws in the regions where we operate. Repeated violations may result in the restriction of your access to certain LinkedIn features. [Click here](https://www.linkedin.com/help/linkedin/answer/a7428062) to learn more about feature restrictions. If you believe your content has been removed in error, you’ll have the opportunity to submit an appeal after each violation.   
@@ -120,8 +118,6 @@ Content that would normally violate the letter of our policies may be allowed in
 
 Harassment and abusive content
 ==============================
-
-Last updated: 11 months ago
 
 As a professional network, LinkedIn maintains a high standard for safe and civil conversations between members. Our policies prohibit a wide range of actions and behaviors associated with harassment, bullying, or other abusive conduct.
 
@@ -149,8 +145,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 Violent and graphic content
 ===========================
-
-Last updated: 3 years ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
@@ -183,8 +177,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Restricted goods and services
 =============================
 
-Last updated: 3 months ago
-
 We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or otherwise restricted goods and services.
 
 Examples of restricted goods and services content
@@ -216,8 +208,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Dangerous organizations and individuals
 =======================================
 
-Last updated: 4 years ago
-
 We do not allow organizations or individuals that espouse violence on LinkedIn, including terrorist organizations, violent extremist groups, and individuals affiliated with such groups or activity. We also restrict profiles and pages associated with dangerous organizations and individuals regardless of whether they have posted violative content.
 
 Examples of dangerous organizations and individuals content types
@@ -242,8 +232,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 False or misleading content
 ===========================
-
-Last updated: 2 years ago
 
 It is a violation of [LinkedIn’s Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) to post false or misleading content. We remove specific claims, presented as fact, that are demonstrably false or substantially misleading and likely to cause harm. We also remove content that is synthetic or manipulated in a way to misrepresent or distort real-life events without clear disclosure of the fake or altered nature of the material. Content that is false or substantially misleading but not likely to cause harm is not eligible for distribution beyond the author’s network.
 
@@ -290,8 +278,6 @@ To learn more about when we remove content that violates our Professional Commun
 Profile photo guidelines and conditions
 =======================================
 
-Last updated: 1 year ago
-
 Profile photo
 -------------
 
@@ -324,8 +310,6 @@ If we remove your photo, you can upload a different photo to replace it. If you 
 Scams and fraud content
 =======================
 
-Last updated: 4 years ago
-
 We don’t tolerate content intended to scam, defraud, or deceive others for monetary gain. We remove phishing links, malware, known or suspected scam content, and fraudulent content and permanently restrict the accounts of known fraudsters or scammers.
 
 Examples of scams and fraud
@@ -351,8 +335,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 Hateful and derogatory content
 ==============================
-
-Last updated: 11 months ago
 
 Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
 
@@ -380,8 +362,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Sexual innuendos and unwanted advances
 ======================================
 
-Last updated: 4 years ago
-
 Members come to LinkedIn to foster professional connections, learn new skills, and connect to economic opportunity, not to be sexually harassed or subjected to unwanted advances. We remove content that expresses physical or sexual attraction towards others, requests a romantic relationship, or subjects others to sexually suggestive or explicit content.
 
 Examples of sexual innuendos and unwanted advances
@@ -404,8 +384,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Nudity and adult content
 ========================
 
-Last updated: 2 months ago
-
 We remove content containing nudity or sexual activity.
 
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous. Do not share intimate imagery produced or distributed without consent.
@@ -425,8 +403,6 @@ Learn more about [how we enforce violations of our Professional Community Polici
 
 Spam
 ====
-
-Last updated: 1 year ago
 
 The quality of conversations on LinkedIn depends on healthy, relevant content. We may remove or limit the distribution of content designed to artificially increase engagement through misuse or misrepresentation of LinkedIn’s features.
 

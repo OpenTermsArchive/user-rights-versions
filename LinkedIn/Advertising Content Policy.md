@@ -147,8 +147,6 @@ We may run pilot ad campaigns.
 Edit your ad creatives
 ======================
 
-Last updated: 2 months ago
-
 Once you’ve created and saved ad creatives to a ad set in Campaign Manager, there are options to edit the details of the ad, such as the headline, copy, image, or landing page URL.
 
 **Note**: The ability to edit ad creatives varies by ad format. Sponsored Content creatives can't be edited after your ad set has completed.
@@ -262,8 +260,6 @@ Learn more below about how to edit creatives for the following ad formats:
 Guidelines for health and weight loss ads
 =========================================
 
-Last updated: 2 years ago
-
 These guidelines are provided to help advertisers comply when advertising weight loss products or services. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes about their ads.
 
 Ads must meet the following requirements:
@@ -299,8 +295,6 @@ In special circumstances, LinkedIn might determine that a previously allowed ad 
 Political advertising in the European Union
 ===========================================
 
-Last updated: 7 months ago
-
 Political advertising is prohibited on LinkedIn globally. For ads targeted to the EU, this includes ads that constitute “political advertising” as defined in the EU’s Transparency and Targeting of Political Advertising (TTPA) (Regulation 2024/900).
 
 Advertisers targeting the EU are responsible for identifying whether their ads qualify as “political advertising” under the TTPA and for accurately declaring whether an ad set is political advertising during the ad set setup process. If you’re uncertain whether your ad constitutes political advertising under EU law, we recommend consulting your legal advisor.   
@@ -333,8 +327,6 @@ Examples of ads that are of a purely private or purely commercial nature include
 Guidelines for contest and competition ads
 ==========================================
 
-Last updated: 2 years ago
-
 Ads for contests and competitions on LinkedIn must comply with the below guidelines. In addition, your contest or competition cannot be run or conducted in a way that conflicts with LinkedIn's agreements or policies, including our [Ads Agreement](https://www.linkedin.com/legal/sas-terms), [Advertising Policies](https://www.linkedin.com/legal/ads-policy), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy), or [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies).
 
 Non-betting contest and competition ads with a specific offer are allowed, provided they adhere to the following criteria:
@@ -352,8 +344,6 @@ Advertisers are responsible for understanding and complying with applicable laws
 
 Healthcare ads policy
 =====================
-
-Last updated: 1 year ago
 
 These guidelines are provided to help advertisers comply with [LinkedIn’s Ad Policies](https://www.linkedin.com/legal/ads-policy) when advertising healthcare-related products, services, and matters. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
@@ -466,8 +456,6 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 Financial Products and Services Advertising
 ===========================================
 
-Last updated: 9 months ago
-
 These guidelines are provided to you to help you comply with [LinkedIn’s Advertising Policies](https://www.linkedin.com/legal/ads-policy) when advertising financial products or services. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
 LinkedIn restricts the promotion of financial products and services, as outlined below. In addition to these requirements, the promotion of cryptocurrency products and services must also comply with LinkedIn’s Cryptocurrency policy.
@@ -506,8 +494,6 @@ Ads promoting the following financial products and services are prohibited:
 
 UK financial services ads verification
 ======================================
-
-Last updated: 2 years ago
 
 Ads promoting financial services or products to audiences in the United Kingdom (UK) may come from UK Financial Conduct Authority (UK FCA)-authorized advertisers only. LinkedIn requires advertisers who wish to serve ads for financial services or products targeting UK audiences to go through a pre-approval process to verify UK FCA authorization. This requirement for UK FCA authorization encompasses all ads for financial services targeted at UK audiences on LinkedIn, both on-platform and via the LinkedIn Audience Network (LAN), across all ad formats. 
 
@@ -570,8 +556,6 @@ If your ad is rejected, we’ll send an email detailing the reason it wasn’t a
 Cryptocurrency and Related Products Advertising
 ===============================================
 
-Last updated: 9 months ago
-
 These guidelines are provided to you to help you comply with [LinkedIn’s Advertising Policies](https://www.linkedin.com/legal/ads-policy) when advertising cryptocurrency-related products or services. Advertisers are responsible for understanding and complying with all applicable laws, regulations, and industry codes pertaining to their ads.
 
 LinkedIn restricts ads that promote the purchase, sale, holding, storage, management, borrowing, lending, or exchange of cryptocurrencies, as outlined below.
@@ -622,8 +606,6 @@ We're beginning to introduce consumer ads promoting cryptocurrency products and 
 
 Supported languages for LinkedIn Ads sets
 =========================================
-
-Last updated: 7 months ago
 
 When you create a LinkedIn advertising campaign, you can select from one of 35 profile languages for your target audience. Keep in mind:
 
@@ -760,8 +742,6 @@ When selecting a language for your ad set: 
 
 Additional Advertising Policy Prohibitions in the European Union
 ================================================================
-
-Last updated: 2 years ago
 
 In addition to the global prohibitions set out in the [Advertising Policies](https://www.linkedin.com/legal/ads-policy), our Advertising Policies prohibit ads and content in the European Union that run afoul of the Ireland Online Safety Code, including the following:
 

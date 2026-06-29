@@ -32,25 +32,6 @@ Restricted content categories for Facebook monetisation
 
 Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
-### Debated social issues
-
-We define "debated social issues" as "social issues that may provoke debate, such as personal, civil or political rights". Content may be subject to reduced or disabled monetisation if it depicts or discusses the following subjects in a polarising or inflammatory manner:
-
-*   Race
-*   Gender
-*   National origin
-*   Age
-*   Political affiliation
-*   Ethnicity
-*   Disability
-*   Sexual orientation
-*   Socioeconomic class
-*   Religion
-*   Immigration
-*   Legitimacy of elections
-
-Content that exploits controversial political or social issues for commercial purposes is restricted from monetisation.
-
 ### Tragedy or conflict
 
 We define "tragedy or conflict" as "physical or emotional distress, such as death, injury, abuse, illness or destructive events". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
@@ -68,27 +49,20 @@ Examples of this content include:
 *   Emotional abuse
 *   Property damage
 
-### Objectionable activity
+### Sexual or suggestive activity
 
-We define "objectionable activity" as "substance use, abuse or crimes". Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
+We define "sexual or suggestive" content within the examples below. Content may face reduced or disabled monetisation if it contains this subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
-*   Substance abuse
-*   Threats
-*   Advocating for harm
-*   Trafficking
-*   Theft
-*   Vandalism
-*   Trespassing
-*   Corruption
-*   Fraud
-*   Bribery
-*   Insider trading
-*   Embezzlement
-*   Hacking
-*   Copyright infringement
-*   Judicial proceedings
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
-We restrict the monetisation of content that promotes the sale or misuse of illegal, prescription or recreational drugs.
+We restrict the monetisation of gratuitous nudity, depictions of people in explicit positions or activities that are overly suggestive or sexually provocative.
 
 ### Strong language
 

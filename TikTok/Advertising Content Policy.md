@@ -109,8 +109,6 @@ Principle
 
 At TikTok, we strive to provide our viewers with a positive experience by requiring that advertisements on our platform follow certain technical formatting and functionality guidelines to ensure quality, consistency, and clarity.
 
-> 
-
   
 
 Landing page
@@ -478,8 +476,6 @@ Principle
 
 At TikTok, we are committed to maintaining a safe and positive environment for our community We aim to make our ad content appropriate for everyone. Therefore, as an advertiser, it is your responsibility to follow all advertising regulations, laws, and standards for adult sexual products, services, dating services, and entertainment.
 
-> 
-
   
 
 **Policy**
@@ -753,8 +749,6 @@ We want our platform to be a place that respects animals and celebrates the ways
 Policy
 ------
 
-> 
-
 We do not allow the promotion, sale, solicitation, or facilitation of access to live animals, livestock, pets, carcasses, or animal parts.
 
   
@@ -809,8 +803,6 @@ Our policies aim to prevent the promotion or advertisement of products that coul
 
 Weapons, ammunition, and explosives
 -----------------------------------
-
-> 
 
 **Policy**
 
@@ -874,8 +866,6 @@ We do not allow ad content and landing pages to display, promote, sell, solicit,
 Tobacco and nicotine-related products
 -------------------------------------
 
-> 
-
 **Policy**
 
 We do not allow ad content and landing pages to show, promote, or sell tobacco, nicotine, or related products.
@@ -910,8 +900,6 @@ We do not allow ad content and landing pages to show, promote, or sell tobacco, 
 
 Drugs
 -----
-
-> 
 
 **Policy**
 
@@ -956,8 +944,6 @@ Principle
 ---------
 
 Our policies prohibit behaviors that are misleading, inauthentic, and deceptive in order to protect the integrity, authenticity, and safety of our viewers and our platform. Accounts that engage in these behaviors or exhibit patterns of abuse may be suspended or banned.
-
-> 
 
   
 
@@ -1216,8 +1202,6 @@ At TikTok, our aim is to provide our users with the necessary details to allow t
   
 
 **Policy**
-
-> 
 
 This policy requires enhanced transparency from you, as an advertiser, that promotes financial products and services, such as banking, insurance, trusts, securities, and leases that deal with financial commodities, financing, payments, investments, information exchange, or debt relief.
 
@@ -4745,8 +4729,6 @@ Many people around the world find entertainment through games of chance. To supp
   
 
 We prioritize audience safety by restricting gambling and any monetized content directly encouraging gambling activities. Our policies aim to ensure a secure and positive environment for our community.
-
-> 
 
   
 
@@ -9126,8 +9108,6 @@ Principle
 
 At TikTok, we prioritize safeguarding creators and their original products. Ads that infringe on the intellectual property rights of others, including copyright, trademark, and distributing or selling counterfeit goods, are not allowed.
 
-> 
-
   
 
 Copyright and Trademark
@@ -9487,8 +9467,6 @@ Principle
 ---------
 
 At TikTok, our aim is to provide a reliable and trustworthy space for our diverse community. By prohibiting content that is inaccurate, misleading, or false, we aim to create an environment where users can engage with authentic, credible, and reliable information, fostering a positive and informed community experience.
-
-> 
 
   
 
@@ -10520,8 +10498,6 @@ Principle
 ---------
 
 At TikTok, we welcome our community to participate in fun and creative trends. Most activities or challenges are appropriate for everyone and bring people together, but some may carry a risk of injury. Because we aim to ensure a safe and enjoyable experience for everyone, we restrict behaviors and content that may be harmful and do not allow the promotion of dangerous activities and challenges for our users.
-
-> 
 
 **Policy**
 

@@ -703,8 +703,6 @@ Principle
 
 We are committed to the safety and well-being of our community. Our focus is to prioritize and protect community interests when allowing the promotion of alcohol.
 
-> 
-
 Policy
 ------
 

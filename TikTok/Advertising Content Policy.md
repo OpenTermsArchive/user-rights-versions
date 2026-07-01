@@ -9948,7 +9948,7 @@ We do not allow products or services that claim to provide exact predictions, gu
 Politics, Governments, and Elections
 ====================================
 
-Last updated: June 2026
+Last updated: July 2026
 
 Principle
 ---------
@@ -10072,7 +10072,7 @@ Landing pages
 
 Our policies apply to both ad creatives and landing pages. Here are more specific rules which apply to landing pages:
 
-*   The landing pages of news organizations may include references to content that is otherwise prohibited by our policies, provided the primary focus of the landing page is not prohibited content, entities, or individuals.
+*   The landing pages of advertisers may include references to content, entities, or individuals that are otherwise prohibited by this policy, provided the primary focus of the landing page is not prohibited content, entities, or individuals.
     
 *   The landing pages of official entities responsible for overseeing elections may include factual information regarding the procedures and methods for participating in elections or referendums.
     

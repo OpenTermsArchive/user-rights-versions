@@ -392,3 +392,35 @@ These Terms of Service ("Terms") apply when you access and use Meta AIs and othe
 *   **Effective date**
     
     Effective from 13 May 2026
+    
+
+English (UK)
+
+Русский
+
+Українська
+
+Suomi
+
+中文(简体)
+
+Deutsch
+
+العربية
+
+Türkçe
+
+Français (France)
+
+Español
+
+Português (Brasil)
+
+[Sign up](https://www.facebook.com/reg/)[Log in](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)[Facebook Lite](https://www.facebook.com/lite/)[Video](https://www.facebook.com/watch/)[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)[About](https://www.facebook.com/about/)[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)[Developers](https://developers.facebook.com/?ref=pf)[Careers](https://www.facebook.com/careers/?ref=pf)[Cookies](https://www.facebook.com/policies/cookies/)[AdChoices](https://www.facebook.com/help/568137493302217)[Terms](https://www.facebook.com/policies?ref=pf)[Help](https://www.facebook.com/help/?ref=pf)[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
+
+*   [Privacy](https://mbasic.facebook.com/privacy/policy/?entry_point=comet_dropdown)  ·
+*   [Terms](https://mbasic.facebook.com/policies?ref=pf)  ·
+*   [Advertising](https://mbasic.facebook.com/business/)  ·
+*   [Ad choices](https://mbasic.facebook.com/help/568137493302217)   ·
+*   [Cookies](https://mbasic.facebook.com/policies/cookies/)  ·
+*   More

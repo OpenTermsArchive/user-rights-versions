@@ -3363,6 +3363,13 @@ We may let people know when they're about to engage with an entity that meets an
 
 A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Events and Live

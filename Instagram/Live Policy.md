@@ -58,3 +58,10 @@ What if there's another live broadcast issue that you want to report
 
 *   If you believe that someone is using your copyrighted work without your permission, you can fill in this form to [report an infringement of your rights](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2Fcontact%2F372592039493026%3Fhelpref%3Dfaq_content). Learn more about [how to report copyright infringement](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F277982542336146%3Fhelpref%3Dfaq_content).
 *   If you're having trouble viewing a live broadcast, you can report it. Bear in mind that if you're having a problem viewing a live broadcast, it could be because of a network or Internet connection issue.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time

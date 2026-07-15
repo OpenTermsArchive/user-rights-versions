@@ -3452,7 +3452,7 @@ Any advertiser running ads about social issues, elections or politics who is loc
 *   Is regulated as political advertising
     
 
-Requirements vary [by country](https://www.facebook.com/business/help/2150157295276323?id=288762101909005). Ads about social issues, elections or politics are not allowed to run in the European Union; read [here](https://about.fb.com/news/2025/07/ending-political-electoral-and-social-issue-advertising-in-the-eu/) to learn more.
+Requirements vary [by country](https://www.facebook.com/business/help/2150157295276323?id=288762101909005). Ads about social issues, elections or politics are not allowed to run in the European Union, except for ads containing information about the time, place, and manner of voting or voter registration when placed by election authorities in the EU; read [here](https://about.fb.com/news/2025/07/ending-political-electoral-and-social-issue-advertising-in-the-eu/) to learn more.
 
 Advertisers must include a verified "Paid for by" disclaimer on these ads to show the entity or person responsible for running the ad across Meta technologies. The disclaimer is subject to [restrictions](https://www.facebook.com/business/help/2150157295276323?id=288762101909005).
 

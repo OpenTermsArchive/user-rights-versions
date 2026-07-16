@@ -1229,4 +1229,4 @@ Remove original sounds
 
 Sounds
 
-A sound I added to TikTok was removed
+A sound was removed from my video

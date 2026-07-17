@@ -469,7 +469,7 @@ The following list details the acceptable languages by market:
 Adult content
 =============
 
-Last updated: June 2026
+Last updated: มิถุนายน 2026
 
 Principle
 ---------

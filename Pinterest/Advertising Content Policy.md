@@ -1874,7 +1874,7 @@ _Lead ads are not available to everyone on Pinterest just yet. If you’re inter
 
 Lead ads help you reach people who are actively looking for, and interested in your goods and services. People on Pinterest share their information with you by filling out a form within your Lead ad, without having to leave the Pinterest app or website. You’re in control of what text appears on the lead form’s description, questions and confirmation sections. Once people have filled out the form, you can download the responses for up to 30 days via the Pinterest Ads Manager or Pinterest API, or by using our integration with Zapier, Salesforce, or Salesforce Sales Cloud.
 
-You’ll set up your conversions campaign first, then create a Lead ad with corresponding lead form made up of the following components:
+You’ll set up your leads campaign first, then create a Lead ad with corresponding lead form made up of the following components:
 
 *   **Call to action:** The button someone clicks to fill out the form, such as “Sign up”. You’ll select your preferred call to action from a range of options.
 *   **Privacy policy link:** A link to your company’s privacy policy so people know how their information will be used.
@@ -1882,7 +1882,7 @@ You’ll set up your conversions campaign first, then create a Lead ad with corr
 *   **Questions:** Mandatory prompts people respond to with their information, such as “Email”. You’ll select your preferred questions from a range of options or write your own.
 *   **Completion message:** The customized message people see once they’ve filled out and submitted the form.
 
-Set up a conversions campaign for Lead ads
+Set up a leads campaign for Lead ads
 
 *   Log in to your Pinterest business account
 *   Click  the hamburger icon  at the top-left of the page
@@ -1906,7 +1906,7 @@ _It looks like you're reading this from a mobile device. At the moment, you'll n
 
 Create a Lead ad
 
-After you’ve set up your conversions campaign, you’ll see a **Lead ad** section under **Choose a format**. After selecting **Lead ad**, follow the steps below to create a Lead ad.
+After you’ve set up your leads campaign, you’ll see a **Lead ad** section under **Choose a format**. After selecting **Lead ad**, follow the steps below to create a Lead ad.
 
 *   Enter your **Ad Name** (which will only be visible to you)
 *   Enter your **Destination URL** for people to visit after they complete your lead form
@@ -2137,7 +2137,7 @@ _Lead ads are not available to everyone on Pinterest just yet. If you’re inter
 
 Lead ads help you reach people who are actively looking for, and interested in your goods and services. People on Pinterest share their information with you by filling out a form within your Lead ad, without having to leave the Pinterest app or website. You’re in control of what text appears on the lead form’s description, questions and confirmation sections. Once people have filled out the form, you can download the responses for up to 30 days via the Pinterest Ads Manager or Pinterest API, or by using our integration with Zapier, Salesforce, or Salesforce Sales Cloud.
 
-You’ll set up your conversions campaign first, then create a Lead ad with corresponding lead form made up of the following components:
+You’ll set up your leads campaign first, then create a Lead ad with corresponding lead form made up of the following components:
 
 *   **Call to action:** The button someone clicks to fill out the form, such as “Sign up”. You’ll select your preferred call to action from a range of options.
 *   **Privacy policy link:** A link to your company’s privacy policy so people know how their information will be used.
@@ -2145,7 +2145,7 @@ You’ll set up your conversions campaign first, then create a Lead ad with corr
 *   **Questions:** Mandatory prompts people respond to with their information, such as “Email”. You’ll select your preferred questions from a range of options or write your own.
 *   **Completion message:** The customized message people see once they’ve filled out and submitted the form.
 
-Set up a conversions campaign for Lead ads
+Set up a leads campaign for Lead ads
 
 *   Log in to your Pinterest business account
 *   Click  the hamburger icon  at the top-left of the page
@@ -2169,7 +2169,7 @@ _It looks like you're reading this from a mobile device. At the moment, you'll n
 
 Create a Lead ad
 
-After you’ve set up your conversions campaign, you’ll see a **Lead ad** section under **Choose a format**. After selecting **Lead ad**, follow the steps below to create a Lead ad.
+After you’ve set up your leads campaign, you’ll see a **Lead ad** section under **Choose a format**. After selecting **Lead ad**, follow the steps below to create a Lead ad.
 
 *   Enter your **Ad Name** (which will only be visible to you)
 *   Enter your **Destination URL** for people to visit after they complete your lead form

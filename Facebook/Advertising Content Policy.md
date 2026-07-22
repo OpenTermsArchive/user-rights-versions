@@ -240,15 +240,15 @@ Ads must not promote the sale of hazardous goods and materials. Advertisers must
 
 Health and Wellness
 
-This policy covers two categories of ads: Weight Loss and Cosmetic Products and Procedures, and Adult Products and Reproductive Health.
+This policy covers two categories of ads: Adult Products and Reproductive Health.
 
-**Weight Loss and Cosmetic Products and Procedures**
+**Health and Wellbeing**
 
-Ads promoting or marketing dietary, health or weight loss products and services must be targeted to people at least 18 years or older.
+Ads promoting or marketing dietary, health or weight loss or weight gain products and services must be targeted to people at least 18 years or older.
 
 Ads promoting or marketing cosmetic products, procedures or surgeries, must be targeted to people at least 18 years or older.
 
-Ads must not imply or attempt to generate negative self-perception or declare there is a perfect body type or appearance one should aspire to in order to promote diet, weight loss, cosmetic procedures or any other health-related products.
+Ads must not contain certain claims prohibited by our policy, as outlined below.
 
 [**Learn more**](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/)
 
@@ -1625,19 +1625,19 @@ CHANGE LOG
 
 Health and Wellness
 
-This policy covers two categories of ads: Weight Loss and Cosmetic Products and Procedures, and Adult Products and Reproductive Health.
+This policy covers two categories of ads: Adult Products and Reproductive Health.
 
-**Weight Loss and Cosmetic Products and Procedures**
+**Health and Wellbeing**
 
-Ads promoting or marketing dietary, health or weight loss products and services must be targeted to people at least 18 years or older.
+Ads promoting or marketing dietary, health, or weight loss or weight gain products and services must be targeted to people at least 18 years or older.
 
 Ads promoting or marketing cosmetic products, procedures or surgeries, must be targeted to people at least 18 years or older.
 
-Ads must not imply or attempt to generate negative self-perception or declare there is a perfect body type or appearance one should aspire to in order to promote diet, weight loss, cosmetic procedures or any other health-related products.
+Ads must not contain certain claims prohibited by our policy, as outlined below.
 
 Overview
 
-Meta aims to be a body positive and inclusive environment. We want to create an environment where our community feels comfortable, confident, and safe to be exactly who they are while expressing themselves freely. As such, we allow weight loss products or services, and cosmetic products or procedures ads only when targeting people who are 18 years or older. And ads must not imply any negative self perception of body image as part of promotion of personal health products.
+Meta restricts advertising content that promotes weight loss or weight gain products, cosmetic procedures, and dietary or health supplements from targeting users under 18 years of age. Content must not contain certain claims prohibited by our policy, as outlined below.
 
 Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to our Advertising Standards.
 
@@ -1645,32 +1645,30 @@ Guidelines
 
 Ads can’t:
 
-*   Promote weight loss products and services, or cosmetic products or procedures that:
+*   Promote weight loss or weight gain products and services, or cosmetic products or procedures that:
     
 
-*   Contain distasteful messaging that could make people feel negatively about the way they look, exploit insecurities to conform to certain beauty standards, reinforce negative or unhealthy body images, or feature body-shaming
+*   Contains statements of inferiority about physical appearance (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene).
     
 
-*   Promote weight loss products or services, depicting:
+*   Promote weight loss or weight gain products or services, that depict:
     
 
-*   Side-by-side comparison after the use of a product or transformation for weight loss with exception to fitness classes impact (i.e., Pilates)
-    
 *   Close up on specific body area by pinching fat
     
-
-*   Promote cosmetic products, procedures, or surgeries, depicting:
-    
-
-*   Side-by-side comparison after the use of a product or transformation for wrinkles treatment such as; Botox, dermal fillers, or any other anti-aging treatment.
+*   Claims that results can be achieved solely by using wearable products
     
 
 *   Promote skin whitening or bleaching products that cause permanent skin color change.
     
+*   Claims (including those from health professionals or health organizations) to cure, heal, or eliminate any of the following incurable diseases and/or terminal illnesses (exhaustive list): Diabetes, Herpes, Thyroid, Psoriasis, Ebola, Cancer, Autism, Alzheimer's, Parkinson's, Amyotrophic Lateral Sclerosis (ALS), Human immunodeficiency virus (HIV) Note: This does not apply to claims about treating or managing symptoms of these conditions.
+    
+*   Employ clickbait tactics in a health, weight loss, or weight gain context, such as sensational language with exaggerated or extreme claims, or promises of specific outcomes within a set timeframe without disclaimers or qualifiers.
+    
 
 When targeting people 18 years or older, advertisers can run ads that promote:
 
-*   Dietary weight loss products and services such as weight loss pills, or supplements. The ad can illustrate people using the product or the service, and its impact of using it, and clearly indicate the time taken to achieve noticeable results without employing negative self-perception tactics.
+*   Dietary weight loss or weight gain products and services such as supplements or pills. The ad can illustrate people using the product or the service, and its impact of using it, and clearly indicate the time taken to achieve noticeable results.
     
 *   Cosmetic products, procedures, or surgeries such as:
     
@@ -1678,31 +1676,25 @@ When targeting people 18 years or older, advertisers can run ads that promote:
 *   Breast augmentation, breast reduction, abdominoplasty, blepharoplasty, rhinoplasty, rhytidectomy, labiaplasty, hair restoration surgery, dermal fillers, skin rejuvenation treatments, injectable treatments, chemical peels, micro-needling, non-ablative laser treatments, laser or light treatments, or micropigmentation
     
 
-*   General cosmetic products, procedures, surgeries depicting before and after transformation, without employing negative self-perception tactics.
-    
-*   Skin anti-aging products or services, including treatments for wrinkles such as Botox injectables, may display zoomed-in or close-up images or highlight specific areas of the skin to demonstrate the promoted results. These depictions must reflect realistic outcomes over time and should not include side-by-side comparisons.
-    
-*   Gender reassignment services and procedures.
+*   General cosmetic products, procedures, surgeries depicting before and after transformation.
     
 
 **Note: For weight loss products that require prescription, please refer to Drugs and Pharmaceuticals ads policy and comply with the geo-targeting, and written permission requirements.**
 
-**The age targeting restrictions above don’t apply to ads that promote or sell, even when depicting side-by side comparison:**
+**The age targeting restrictions above don’t apply to ads that promote or sell:**
 
 *   Products and services marketed for general wellbeing, such as fitness services and equipments, health clubs
     
-*   General food products
+*   General food products, including protein products
     
-*   Cosmetic products such as creams, makeup, and hair products
+*   Non-permanent cosmetic and beauty products such as creams, makeup, hair products, and digital editing apps
     
 *   Dental products, such as teeth whitening products
     
 
-**Note:** Ads for cosmetics, hair extensions, other similar cosmetic or non-permanent beauty products or digital editing apps aren’t within scope of this policy, and can display before and after transformation without employing negative self-perception tactics.
-
 Adult Products and Reproductive Health
 
-Ads must not promote the sale or use of adult sexual arousal products or services. Ads promoting sexual and reproductive health or wellness products or services, like contraception and family planning, must be targeted to people 18 years or older and must not focus on sexual pleasure.
+Ads must not promote the sale or use of adult sexual arousal products or services, provided that the ads are focused on health and wellness, not sexual pleasure or enhancements, and are targeted to people 18 years or older.
 
 Overview
 
@@ -1725,9 +1717,7 @@ Ads can't:
 
 *   Adult entertainment businesses, such as strip clubs
     
-*   Adult sexual encounter businesses, such as cabarets and adult movie theaters
-    
-*   Other adult establishments, such as hotels for sexual fantasies
+*   Adult establishments, such as cabarets, adult movie theaters, and hotels for sexual fantasies
     
 *   Instructional sexual services, such as tantric services, orgasmic therapy or tantric retreats for orgasmic therapy
     
@@ -1762,6 +1752,8 @@ When targeting people 18 years or older, advertisers can run ads that:
 *   Vaginoplasty
     
 *   Vasectomy
+    
+*   Gender reassignment surgeries
     
 
 *   Contraceptive products, including condoms

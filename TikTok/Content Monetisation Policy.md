@@ -1220,3 +1220,13 @@ Was this helpful?
 Yes
 
 No
+
+Related articles
+
+Report a sound
+
+Remove original sounds
+
+Sounds
+
+A sound was removed from my video

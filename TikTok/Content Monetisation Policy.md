@@ -1080,12 +1080,6 @@ If you believe your account has been restricted in error, you can appeal the dec
 
 Promoting a brand, product or service
 
-AI-translated
-
-### **Jump to a section**
-
-### [Promoting a brand, product or service on TikTok](#1) • [Requirements for promoting a brand, product or service](#2) • [What is the content disclosure setting?](#3) • [What happens when you turn on the content disclosure setting?](#4) • [How to turn on the content disclosure setting](#5)
-
 ### **Promoting a brand, product or service on TikTok**
 
 You can post content that promotes a brand, product or service on TikTok. This includes:
@@ -1201,36 +1195,12 @@ You can turn on the content disclosure setting before or after you post your con
 
 When you tag a **brand partner** in content disclosure settings, in addition to easier discovery by brands, you can grant ads authorisation (60-day by default) for easier activation as an advertiser ad—in addition to anchor authorisation, which allows a brand to add their applicable links to the video for their campaign.
 
-Was this helpful?
-
-Yes
-
-No
-
 - - -
 
 Commercial use of music on TikTok
-
-AI-translated
 
 When you post content that promotes a brand, product or service, we recommend that you only use music from our [Commercial Music Library (CML)](https://ads.tiktok.com/business/creativecenter/music/pc/en), as it's pre-cleared for commercial use. The licences we hold for music outside of the CML don't cover the commercial use of music in content.
 
 If you decide to use an original sound or music from outside of our CML, you must agree to our Music Usage Confirmation when the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service#5) is turned on. This confirms that there's no copyright-protected music in the post, or that you've obtained and paid for all necessary licences to use the music.
 
 Learn more about the [Commercial Music Library](https://ads.tiktok.com/help/article/commercial-music-library) in our Business Help Centre.
-
-Was this helpful?
-
-Yes
-
-No
-
-Related articles
-
-Report a sound
-
-Remove original sounds
-
-Sounds
-
-A sound was removed from my video

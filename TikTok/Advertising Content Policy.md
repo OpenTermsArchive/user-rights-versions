@@ -10492,7 +10492,7 @@ We reserve the right to take a variety of actions, such as the rejection of ads 
 Violence and Dangerous Activities
 =================================
 
-Last updated: January 2026
+Last updated: 2026 년 1 월
 
 Principle
 ---------

@@ -2125,13 +2125,7 @@ collection\_fields
 
 How can we make this article better?
 
-Additional Response
-
-  
-
-       
-
-Leave this field blank 
+Additional Response         
 
 _Lead ads are not available to everyone on Pinterest just yet. If you’re interested in trying them out, reach out to your account manager._
 
@@ -2387,9 +2381,3 @@ collection\_fields
 How can we make this article better?
 
 Additional Response
-
-  
-
-       
-
-Leave this field blank

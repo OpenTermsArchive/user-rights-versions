@@ -934,7 +934,7 @@ The authentic creativity on TikTok LIVE is what makes it great, which is why LIV
 
 ·Pre-recorded videos, spliced videos and looping videos that are presented to the viewers as if they are real-time content.
 
-·Content featuring continuous and monotonous actions without clear objectives or direct interaction with viewers.
+·Content featuring continuous and monotonous actions without clear objectives or direct interaction with viewers, including repeated or prolonged actions that lack direct interaction to keep viewers engaged, such as repeatedly directing viewers off platform.
 
 ·Content with little motion or real-time activity, such as presenting a sign or screen with text as the primary content.
 

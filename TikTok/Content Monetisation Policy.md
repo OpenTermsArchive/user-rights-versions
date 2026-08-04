@@ -597,13 +597,11 @@ Branded Content Policy
 *   Prohibited Industries and Products
 *   Restricted Industries and Products
 
-  
-
-_Published: 31 July 2026_
+_Published: 4 August 2026_
 
 _Effective date: 31 August 2026_
 
-Our new Branded Content Policy comes into effect on 31 August 2026. Click here (hyperlink) to view our current Branded Content Policy.
+Our new Branded Content Policy comes into effect on 31 August 2026. Click [here](https://www.tiktok.com/legal/bc-policy-archive) to view our current Branded Content Policy.
 
 **What is Branded Content?**
 ----------------------------

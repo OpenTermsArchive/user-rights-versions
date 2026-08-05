@@ -1017,7 +1017,7 @@ We do not allow the promotion of deceptive, false, or misleading claims about a 
 Discrimination, Harassment, and Bullying
 ========================================
 
-Last updated: junio de 2026
+Last updated: June 2026
 
 Principle
 ---------

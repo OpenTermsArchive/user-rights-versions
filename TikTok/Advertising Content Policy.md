@@ -4719,7 +4719,7 @@ Examples of what is not allowed:
 Gambling and Games
 ==================
 
-Last updated: June 2026
+Last updated: August 2026
 
 Principle
 ---------
@@ -5947,7 +5947,7 @@ Cyprus
 
 *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-*   Games must be free-to-play (F2P); in-app purchases are not allowed.
+*   Games must be free-to-play (F2P); in-app purchases are allowed if there are no money-out options.
     
 *   Do not involve real money or financial rewards. It should be clear from the presentation of the ad that players cannot win real money.
     
@@ -6588,7 +6588,7 @@ Exception: National lotteries are allowed if the following requirements are met:
 
 *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-*   Games must be free-to-play (F2P); in-app purchases are not allowed.
+*   Games must be free-to-play (F2P); in-app purchases are allowed if there are no money-out options.
     
 *   Do not involve real money or financial rewards. It should be clear from the presentation of the ad that players cannot win real money.
     
@@ -6620,7 +6620,7 @@ Exception: National lotteries are allowed if the following requirements are met:
 
 *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-*   Games must be free-to-play (F2P); in-app purchases are not allowed.
+*   Games must be free-to-play (F2P); in-app purchases are allowed if there are no money-out options.
     
 *   Do not involve real money or financial rewards. It should be clear from the presentation of the ad that players cannot win real money.
     
@@ -7636,7 +7636,7 @@ Examples of what is not allowed:
 
 *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-*   Games must be free-to-play (F2P); in-app purchases are not allowed.
+*   Games must be free-to-play (F2P); in-app purchases are allowed if there are no money-out options.
     
 *   Do not involve real money or financial rewards. It should be clear from the presentation of the ad that players cannot win real money.
     
@@ -7938,7 +7938,7 @@ Exception: National lotteries are allowed if the following requirements are met:
 
 *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-*   Games must be free-to-play (F2P); in-app purchases are not allowed.
+*   Games must be free-to-play (F2P); in-app purchases are allowed if there are no money-out options.
     
 *   Do not involve real money or financial rewards. It should be clear from the presentation of the ad that players cannot win real money.
     

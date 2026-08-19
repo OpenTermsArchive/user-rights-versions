@@ -469,12 +469,12 @@ The following list details the acceptable languages by market:
 Adult content
 =============
 
-Last updated: June 2026
+Last updated: August 2026
 
 Principle
 ---------
 
-At TikTok, we are committed to maintaining a safe and positive environment for our community We aim to make our ad content appropriate for everyone. Therefore, as an advertiser, it is your responsibility to follow all advertising regulations, laws, and standards for adult sexual products, services, dating services, and entertainment.
+At TikTok, we are committed to maintaining a safe and positive environment for our community We aim to make our ad content appropriate for everyone. Therefore, as an advertiser, it is your responsibility to follow all advertising regulations, laws, and standards for the promotion of adult sexual products, services, dating services, entertainment, and depictions of sexual content.
 
   
 
@@ -490,13 +490,9 @@ The following sections outline our Adult Content policy by category:
     
 *   Sexual products
     
-*   Sexual activity
-    
-*   Sexually explicit content, text, and audio
+*   Sexually explicit content
     
 *   Sexually suggestive content
-    
-*   Nudity and body exposure
     
 
   
@@ -594,10 +590,10 @@ Examples of what is not allowed:
 
   
 
-Sexual activity
----------------
+Sexually explicit content
+-------------------------
 
-Sexual activity is not allowed.
+Sexually explicit content is not allowed.
 
   
 
@@ -607,27 +603,7 @@ Examples of what is not allowed:
     
 *   Fetish and kink activity
     
-
-  
-
-Sexually explicit content, text, and audio
-------------------------------------------
-
-Sexually explicit content, text, and audio are not allowed.
-
-  
-
-Examples of what is not allowed:
-
-*   Grinding
-    
-*   Humping
-    
-*   Rubbing, squeezing, pinching, spanking, or slapping of clothed sensitive regions or sensitive body parts
-    
-*   Imitating sexual positions outside of sexual activity taking place
-    
-*   Mimicking sexual acts
+*   Displaying nudity
     
 *   Sexually explicit text, audio or term that directly describes or references specific sexual activity, body parts, or sexual products
     
@@ -653,25 +629,11 @@ Examples of what is not allowed:
     
 *   Flirtatious movements
     
-*   Wearing underwear, stripping, or undressing
+*   Stripping or undressing
     
 *   Swimsuits, lingerie, or clothing that exposes or implies exposure of intimate areas
     
-
-  
-
-Nudity and body exposure
-------------------------
-
-Nudity and body exposure is not allowed.
-
-  
-
-Examples of what is not allowed:
-
-*   Displaying nudity
-    
-*   Displaying excessive visible skin
+*   Imitating sexual positions or sexual acts
     
 
   
@@ -1192,7 +1154,7 @@ Advertisers are expected to comply with our Terms of Service, Community Guidelin
 Financial Services
 ==================
 
-Last updated: June 2026
+Last updated: August 2026
 
 Principle
 ---------
@@ -1992,7 +1954,7 @@ Ads for financial services and products may be allowed if the following requirem
 
 Examples of what may be allowed:
 
-*   Cryptocurrencies
+*   Cryptocurrencies and cryptocurrency mining devices
     
 *   The exchange, management, or investment of funds, such as fiat or virtual
     
@@ -2016,8 +1978,6 @@ Examples of what is not allowed:
 *   Credit repair services
     
 *   Cryptocurrency ATMs
-    
-*   Cryptocurrency mining devices
     
 *   Get-rich-quick schemes
     
@@ -2560,6 +2520,8 @@ Examples of what may be allowed:
     
 *   Loans
     
+*   Foreign Exchange (FX) services
+    
 
 Ads for cryptocurrency exchange services and custodial wallets may be allowed if the following requirements are met:
 
@@ -2589,7 +2551,7 @@ Examples of what is not allowed:
     
 *   Get-rich-quick schemes
     
-*   High-risk investment products, such as forex trading and binary options
+*   High-risk investment products, such as binary options
     
 *   Multi-level marketing
     
@@ -5153,14 +5115,27 @@ Austria
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -5995,14 +5970,27 @@ Denmark
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -6304,14 +6292,27 @@ Germany
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -6527,14 +6528,27 @@ Ireland
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -6562,14 +6576,29 @@ Israel
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
     *   Advertisers must use scheduling restrictions as required by law.
         
+
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
   
 
@@ -7038,14 +7067,27 @@ Netherlands
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -7120,14 +7162,27 @@ Norway
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -7493,14 +7548,29 @@ Portugal
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
     *   Advertisers must use scheduling restrictions as required by law
         
+
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
   
 
@@ -7549,14 +7619,27 @@ Romania
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -7807,14 +7890,29 @@ Spain
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
     *   Advertisers must use scheduling restrictions as required by law
         
+
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
   
 
@@ -7879,14 +7977,27 @@ Sweden
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
@@ -8338,7 +8449,7 @@ Exception: National lotteries are allowed if the following requirement is met:
 Healthcare and Pharmaceuticals
 ==============================
 
-Last updated: June 2026
+Last updated: August 2026
 
 Principle
 ---------
@@ -8562,10 +8673,10 @@ Market-specific requirements
 | --- | --- |
 | **Prescription medicine** | May be allowed if the following requirements are met:<br><br>\- Provide proof of approval and certification from appropriate local regional regulating authorities, such as Health Canada<br><br>\- The ad must be restricted to users aged 18 years or older |
 | **Over-the-counter medicines** | Over-the-counter medicines and veterinary medicinal products may be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Certifications from appropriate local regional regulating authorities may be required<br><br>\- Obtain necessary approval and certification from appropriate local regional regulating authorities, such as Health Canada<br><br>\- The ad must be restricted to users aged 18 years or older |
-| **Medical devices** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- The ad must be restricted to users aged 18 years or older |
+| **Medical devices** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Certifications from appropriate local regional regulating authorities may be required<br><br>\- The ad must be restricted to users aged 18 years or older<br><br>  <br>  <br><br>Examples of what may be allowed:<br><br>\- Covid test home kits<br><br>\- Glucometer home kit<br><br>\- Ovulation predictor kits (e.g. LH surge strips)<br><br>  <br>  <br><br>Examples of what is not allowed:<br><br>\- Medical devices that generate results requiring professional interpretation to be meaningful (e.g. hormone panel tests) |
 | **Cosmetic clinics** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Certifications from appropriate local regional regulating authorities may be required<br><br>\- The ad must be restricted to users aged 18 years or older<br><br>  <br><br>Examples of what may be allowed:<br><br>\- Fillers<br><br>\- Microdermabrasion services |
 | **Cosmetic surgeries** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Restrict the ads to audiences aged 18 years or older |
-| **Medical institutions** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Certifications from appropriate local regional regulating authorities may be required<br><br>\- The ad must be restricted to users aged 18 years or older |
+| **Medical institutions** | May be allowed if the following requirements are met:<br><br>\- Comply with local laws and regulations<br><br>\- Certifications from appropriate local regional regulating authorities may be required<br><br>\- The ad must be restricted to users aged 18 years or older<br><br>  <br>  <br><br>Examples of what is not allowed:<br><br>\- Abortion<br><br>\- Surrogacy<br><br>\- Purchase/sale of sperm or ova from a donor or a person acting on their behalf<br><br>\- Purchase/ sale of an in vitro embryo<br><br>\- Purchase/sale of a human cell or gene from a donor (or representative) with the intention of using it to create a human being |
 | **Pharmacies** | Ads for brick-and-mortar pharmacies and online pharmacies may be allowed if the following requirements are met:<br><br>\- Provide proof of certification by a third-party licensing organization, such as the NABP or LegitScript, or regional equivalent<br><br>\- Proof of licensing may be necessary for approval |
 | **Condoms and lubricants** | May be allowed if the following requirements are met:<br><br>\- The ad must be restricted to users aged 18 years or older<br><br>\- Do not focus on sexual pleasure or be overtly sexual in nature |
 
@@ -9625,7 +9736,7 @@ We are committed to protecting people's privacy. We do not allow content that us
 Other Products and Services
 ===========================
 
-Last updated: March 2026
+Last updated: August 2026
 
 Principle
 ---------
@@ -9938,6 +10049,47 @@ We do not allow products or services that claim to provide exact predictions, gu
     
     *   Algeria, Argentina, Bahrain, Bangladesh, Belarus, Brunei, El Salvador, Ethiopia, Honduras, Iraq, Jordan, Kuwait, Kyrgyzstan, Laos, Lebanon, Libya, Mali, Mauritius, Monaco, Morocco, Myanmar, Nicaragua, Oman, Qatar, Saudi Arabia, Senegal, Tanzania, Turkey, Uganda, Ukraine, United Arab Emirates
         
+
+  
+
+Prediction Markets
+------------------
+
+Ads related to prediction markets or event outcome trading platforms may be allowed with restrictions in the following markets:
+
+*   Canada, United States, Philippines, Bolivia, Ecuador, Guatemala, Dominican Republic, Paraguay, Colombia, Panama, Peru, United Kingdom, Ireland, Denmark, Finland, Sweden, Israel
+    
+*   Markets not listed above are currently not eligible for Prediction Market advertising.
+    
+
+**Market-specific requirements**
+
+Ads for Prediction Markets may be allowed if the following requirements are met:
+
+*   Work with a TikTok Sales Representative to obtain permission via an application process.
+    
+*   The ads must be age-targeted to the appropriate audience.
+    
+*   Comply with disclosure requirements, including disclaimers.
+    
+
+**Examples of what may be allowed:**
+
+*   Platforms using financial trading or event contract terminology
+    
+*   Regulated event outcome trading platforms
+    
+*   Platforms where users trade contracts with other participants
+    
+
+**Examples of what is not allowed:**
+
+*   Platforms that refer to users as "placing bets" or use gambling terminology
+    
+*   Odds-based or sportsbook-style betting products
+    
+*   Products not licensed or permitted as required by local regulation in the target market
+    
 
   
 
@@ -10626,7 +10778,7 @@ We do not allow anyone to promote or provide material support to violent or hate
 Weight Management and Body Image
 ================================
 
-Last updated: June 2026
+Last updated: August 2026
 
 Principle
 ---------
@@ -10674,6 +10826,19 @@ Examples of what is allowed in select countries\* (subject to age restrictions, 
     
 *   Meal replacement products
     
+*   Weight management supplements
+    
+
+**Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Israel, Latvia, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom**
+
+Examples of what is allowed in select countries\* (subject to age restrictions, and full compliance with all advertising policies):
+
+*   Weight loss supplements
+    
+*   Meal replacement products
+    
+
+  
 
 Body image
 ----------

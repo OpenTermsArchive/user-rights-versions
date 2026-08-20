@@ -934,99 +934,109 @@ This Agreement has been entered into as of the Effective Date.
 
 Overview
 
-On TikTok, all creators must follow our Community Guidelines and Terms of Service, which are the rules and standards that keep our platform safe, trustworthy, and vibrant. These policies prohibit content that could cause significant physical, psychological, financial, and privacy harms, as well as societal harms—including hate speech, dangerous activities or challenges, adult nudity, and harmful misinformation. We remove content when we find that it violates our rules, and ban accounts if they have repeated content violations or engage in a single severe content violation. Our Community Guidelines also set standards for which content is appropriate for a broad audience and thus eligible for recommendation to For You feeds and age-restrict content that is not suitable for youth. Accordingly, violations of these standards may lead to enforcement actions against your LIVE monetization eligibility, as outlined in our broader enforcement approach. Creators with access to Creator Activities like monetization features are held to a higher standard through our Creator Code of Conduct.Additionally, we have LIVE Monetization Guidelines that help promote authentic, positive, and interactive LIVE communities.
+On TikTok, all creators must follow our Community Guidelines and Terms of Service, which are the rules and standards that keep our platform safe, trustworthy, and vibrant. These policies prohibit content that could cause significant physical, psychological, financial, and privacy harms, as well as societal harms. Creators with access to Creator Activities like monetization features are held to a higher standard through our Creator Code of Conduct.Additionally, we have LIVE Monetization Guidelines, which set out how certain types of LIVE content may be ineligible for monetization in order to promote authentic, positive, and interactive LIVE communities.Government, Politician, and Political Party Accounts (GPPPAs) are ineligible to monetize on LIVE, including receiving Gifts. For more information regarding our policies for GPPPAs, including in-depth monetization policies and GPPPA definitions, please see here.
 
 Why does TikTok have LIVE Monetization Guidelines?
 
-TikTok LIVE enables creators and viewers to connect, create, and build communities together in real-time. To do this, we offer LIVE features that allow creators and viewers to interact meaningfully and help creators monetize from their LIVE content.To ensure that LIVE monetization features promote the positive interactions they're intended for, our LIVE Monetization Guidelines lay out how some content is not eligible for monetization. We organize them by topic area below, along with examples, to help you read through the Guidelines. This is a non-exhaustive list and the examples do not cover everything.We may temporarily restrict access to monetization features for content or creators who violate these Guidelines, with repeated or severe violations potentially leading to permanent restriction. Applications of LIVE Monetization Guidelines may vary slightly across regions, in order to ensure we're respecting local context while maintaining consistent standards across our community.
+TikTok LIVE enables creators and viewers to connect, create, and build communities together in real-time. To do this, we offer LIVE features that allow creators and viewers to interact meaningfully and help creators monetize from their LIVE content.To ensure that LIVE monetization features are used in ways that promote the positive interactions they're intended for, our LIVE Monetization Guidelines lay out how some content is not eligible for monetization. These Guidelines are organized by topic area, with examples to explain how they are applied. This is a non-exhaustive list, and the examples do not cover everything.LIVE content that involves monetization-related features is held to a higher integrity standard. Content or behavior that misleads users, manipulates engagement or rewards, or exploits platform mechanisms for unfair gain is ineligible for LIVE monetization. This principle applies to all current and future LIVE monetization features, which may be further detailed in feature-specific policies. We may temporarily restrict access to monetization features for content or creators who violate these Guidelines, with repeated or severe violations potentially leading to permanent restrictions. Applications of LIVE Monetization Guidelines may vary slightly across regions to reflect local context while maintaining consistent standards across our community.
 
 What areas do LIVE Monetization Guidelines cover?
 
+Our LIVE Monetization Guidelines are organized around three core areas: Safety, Quality, and Integrity. Together, these principles define when LIVE content is eligible for monetization and help ensure that monetization features are used in ways that promote safe, positive, and trustworthy LIVE experiences.
+
+Content safety and harm prevention
+
+Our Community Guidelines set out the standards that define what content is not allowed on the platform and help prevent physical, psychological, financial, and societal harm. Since monetization introduces financial incentives that may amplify the reach and impact of content, content that does not meet these baseline safety expectations will be ineligible for LIVE monetization. For example:
+
+·Body exposure and sexualized behaviors: Some types of body exposure or sexual behavior, including nudity, sexual activity, sexual services, or any sexually suggestive behavior or significant exposure.
+
+·Dangerous activity and challenges: Content that shows or promotes dangerous stunts, dares, or challenges that could lead to physical harm.
+
+·Hate speech and hateful behavior: Content that promotes hate or attacks people based on protected attributes like race, religion, gender, or sexual orientation.
+
+·Harassment and bullying: Content that harasses or bullies others, including degrading remarks about appearance, doxing, sexual harassment, or coordinated abuse.
+
+For more information, please refer to our Community Guidelines.In assessing LIVE monetization eligibility, we may consider whether LIVE content aligns with the principles and standards reflected in our Community Guidelines. Creators are responsible for ensuring that their LIVE content meets applicable safety standards. Content that fails to do so may be removed, restricted, or rendered ineligible for LIVE monetization features in accordance with our enforcement practices.
+
+Content quality and viewer experience
+
+LIVE monetization is intended to support authentic, engaging, and interactive real-time experiences that provide meaningful value to viewers.LIVE content that is primarily designed to exploit monetization mechanisms, or that significantly degrades the viewer experience rather than meaningfully engaging viewers, may be ineligible for monetization.Some of the considerations outlined in this section may also be used to assess For You feed eligibility. Additionally, LIVE content that is ineligible for recommendation to the For You feed will also be ineligible for LIVE monetization, consistent with the principles and standards reflected in our Community Guidelines.These determinations are based on observable aspects of the LIVE experience, such as authenticity, interaction, and creator participation.
+
+Inauthentic LIVE experience
+
+LIVE monetization is intended to support authentic LIVE experiences that reflect genuine creator contribution. Content that relies primarily on reproduced, rebroadcast, automated, or otherwise inauthentic forms of presentation may be ineligible for monetization. For example, we may demonetize:
+
+·Reproduced or unoriginal content that is imported or uploaded with no meaningful or creative edits, yet presented as an original creation, including content featuring someone else's visible watermark or superimposed logo, content appropriating someone else's work, or content with minimal adjustments.
+
+·Pre-recorded videos, spliced videos, and looping videos that are presented to viewers as if they are authentic LIVE experiences.
+
+·Content that is generated or operated primarily through automated systems, such as AI or other third-party tools, without meaningful creator presence, interaction, or facilitation of the LIVE experience.
+
 Low quality content
 
-The authentic creativity on TikTok LIVE is what makes it great, which is why LIVEs that don't provide original content, engagement or interaction for viewers are ineligible for monetization. For example, we may demonetize:
+LIVE monetization is intended to support engaging and interactive experiences. Content that is largely passive, repetitive, unattended, or lacking meaningful viewer engagement may be ineligible for monetization. For example, we may demonetize:
 
-·Reproduced or unoriginal content that is imported or uploaded without any new or creative edits. This includes content with someone else's visible watermark or superimposed logo, appropriating someone else's content, making minimal adjustments, and claiming it as your own unique creation.
+·Content featuring continuous and monotonous actions without clear objectives or direct interaction with viewers, including repeated or prolonged actions that lack direct interaction to keep viewers engaged, such as repeatedly directing viewers off-platform.
 
-·Pre-recorded videos, spliced videos and looping videos that are presented to the viewers as if they are real-time content.
+·Content that is largely passive or unattended, such as sleeping during LIVE or performing routine or task-based activities without interaction or engagement with viewers.
 
-·Content featuring continuous and monotonous actions without clear objectives or direct interaction with viewers, including repeated or prolonged actions that lack direct interaction to keep viewers engaged, such as repeatedly directing viewers off platform.
-
-·Content with little motion or real-time activity, such as presenting a sign or screen with text as the primary content.
-
-·Sleeping during LIVE with no interaction with viewers.
+·Content with persistently poor or inactive visual presentation, such as prolonged blurred, obscured, or static screens that provide little meaningful viewing experience.
 
 Fake engagement and Gift baiting
 
-Content, behavior, or activities that may undermine our platform's integrity are ineligible for monetization. For example, we may demonetize:
+Content, behavior, or activities that seek to manipulate viewer engagement or monetization features are ineligible for monetization. For example, we may demonetize:
 
-·Content that tricks or manipulates others as a way to increase Gifts, or engagement metrics, such as "follow-for-follow" promises.
+·Content that tricks, manipulates, or mechanically and repeatedly solicits viewers to increase Gifts or engagement metrics through deceptive, inauthentic, baiting, or non-interactive behaviors.
 
-·Content that features behavior or activities seeking Gifts from viewers using methods that are inauthentic, baiting, or low in interaction.
+·Content that uses misleading promises or artificial engagement exchanges to increase Gifts or engagement metrics, such as "follow-for-follow" promises or offering likes, follows, or Gifts in exchange for engagement.
 
-·Content or behavior where creators solely present two or more opposing viewpoints and ask viewers to send Gifts, comments, likes, or share.
+·Content or behaviors that exploit viewers' emotions, sympathy, or sense of obligation to pressure viewers into sending Gifts or increasing engagement metrics.
+
+·Content or behaviors where creators solely present two or more opposing viewpoints and ask viewers to send Gifts, comments, likes, or shares.
 
 ·Content or behaviors where creators solicit Gifts or financial aid by leveraging personal financial needs, intermediary fundraising, or personal crowdfunding unrelated to content creation. (To foster a safe and inclusive environment for our community, official donation tools and methods are available for our users to raise or contribute funds to nonprofit organizations. Learn more)
 
-Risky behavior
+Degrading or disruptive behaviors
 
-Content showing or promoting dangerous activities that involve - or are likely to lead to - visible or imminent physical harm, including acts likely to be imitated and may cause physical harm, are not eligible for monetization. For example, we may demonetize:
+Certain LIVE formats or behaviors may result in a degraded viewing experience, and may therefore be ineligible for monetization. For example, we may demonetize:
 
-·Risky behaviors that require formal training and professional skills, or inappropriate use of dangerous objects (such as fireworks, knife, scissors, or axes).
+·Content where creators engage in, encourage or instigate conduct intended to demean, degrade, or humiliate oneself or others.
 
-·Performing actions that are demeaning/reckless
+·Content where creators engage in, encourage, or instigate dangerous or reckless behaviors, such as excessive consumption of food or drink, as well as activities that may distress, disrupt, or negatively affect others.
 
-·Consumption of food or drink which is not made for human consumption, or which is consumed in excessive amounts that might lead to health risks or physical harm (including alcohol).
+Platform integrity and responsible monetization
 
-Shocking or graphic behavior
-
-Content that could be disturbing or cause user discomfort is ineligible for monetization. For example, we may demonetize:
-
-·Depictions of mildly graphic material that may cause disgust, such as human and animal bodily functions and fluids (such as urine or vomit), and close-ups of organs and certain animals (such as insects or rats).
-
-Mature behavior
-
-Content that may not be suitable for all audiences is ineligible for monetization. For example, we may demonetize:
-
-·Content depicting adult(s) whose behavior is intended to provoke sexual arousal, including content showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior.
-
-·Content showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks.
-
-Divisive or misleading behavior
-
-Content that is divisive or misleading and could cause moderate harm to individuals or society is not eligible for monetization. For example, we may demonetize:
-
-·Content that disparages or attacks a religion, religious figure, or religious precept with hateful generalizations that could cause moderate harm or lead to violence.
-
-·Content that desecrates religious artifacts or literatures.
-
-·Content that uses stereotypes, insinuation, or indirect statements that may implicitly demean protected groups.
-
-·Conspiracy theories that claim certain events or situations are carried out by covert or powerful groups.
-
-Conflicts or tragedies
-
-Content that depicts or exploits conflicts or tragedies for engagement or polarizes discourse is not eligible for monetization. For example, we may demonetize:
-
-·Content that exploits controversial issues in a polarizing or inflammatory manner, including content that exploits such issues to bait for engagement or manipulate viewer perception.
-
-·Content that depicts or exploits real-world tragedies, disasters, or traumatic events, including content that exploits such issues to bait for engagement and financial gain, or to manipulate viewer perception
-
-·Content that depicts real-world conflicts, such as protests, demonstrations, riots, or civil unrest;
+LIVE monetization is designed to be applied in ways that align with the responsible use of monetization features.Given that monetization introduces financial incentives that can shape creator behavior and amplify the impact of content, certain contexts may present heightened risks of exploitation when paired with monetization. Even where content does not otherwise violate our Community Guidelines, we limit or restrict LIVE monetization to mitigate these risks and maintain the integrity of our platform and monetization systems.
 
 Monetization involving youths
 
 Content where youths, defined as individuals under the age of 18, are the primary focus or primary participants is ineligible for monetization. For example, we may demonetize:
 
-·Content where youths are deliberately showcased, sustained participants, or central to the activity. This includes content where youths are performing, interacting with viewers, or are repeatedly featured.
+·Content where youths are deliberately showcased, repeatedly featured, or given a sustained presence.
+
+·Content where youths perform, interact with viewers, or participate in monetized interactions as a primary component of the content.
+
+Conflicts or tragedies
+
+Content that depicts and/or exploits conflicts or tragedies for engagement, or that polarizes discourse, is not eligible for monetization. For example, we may demonetize:
+
+·Content that exploits controversial issues in a polarizing or inflammatory manner, including content that exploits such issues to bait for engagement or manipulate viewer perception.
+
+·Content that depicts and/or exploits real-world tragedies, disasters, or traumatic events, including content that exploits such issues to bait for engagement and financial gain, or to manipulate viewer perception.
+
+·Content that depicts real-world conflicts, such as protests, demonstrations, riots, or civil unrest.
 
 Critical events
 
 ·TikTok is committed to maintaining the integrity of our platform, especially during times of crisis. In alignment with our core values, we may temporarily restrict certain or all LIVE monetization features during critical events to prevent the exploitation of these moments for financial gain, ensuring that content does not capitalize on sensitive situations. We will resume regular monetization once the situation is managed and the risk of exploitation has been mitigated.
 
+Creator responsibility for LIVE sessions
+
+Creators are responsible for the overall experience and content of their LIVE sessions, including content shared by guests.In multi-guest LIVE sessions, creators are accountable for content shared by all guests. If a guest shares content that is ineligible for monetization under the LIVE Monetization Guidelines, the creator's LIVE may be subject to enforcement actions, including restrictions on LIVE monetization features.
+
 How does TikTok enforce LIVE Monetization Guidelines?
 
-We enforce our LIVE Monetization Guidelines using a combination of technology and moderators. Depending on the severity and frequency of LIVE Monetization Guideline violations, we may take enforcement actions such as sending an in-app warning, temporarily restricting a LIVE's access to LIVE monetization features, or permanently restricting an account's access to these features—including (but not limited to) LIVE Gifts, LIVE Match, and time-based Ranking features.We notify creators of LIVE monetization restrictions and enable them to appeal via an inbox notification and allow creators to review actions taken on their content by going to Creator tools > LIVE Center > Rules and guidance > Restrictions.In addition to the enforcement of our LIVE Monetization Guidelines, other enforcement actions for violations may be taken in accordance with Creator Code of Conduct, Community Guidelines and Terms of Service.
+We enforce our LIVE Monetization Guidelines using a combination of technology and moderators. Depending on the severity and frequency of LIVE Monetization Guideline violations, we may take enforcement actions such as sending an in-app warning, temporarily restricting a LIVE's access to LIVE monetization features, or permanently restricting an account's access to these features—including (but not limited to) LIVE Gifts, LIVE Match, and time-based Ranking features.We notify creators of LIVE monetization restrictions and provide the ability to appeal via inbox notifications. Creators can also review enforcement actions through Creator tools > LIVE Center > Rules and guidance > Restrictions.In addition to the enforcement of our LIVE Monetization Guidelines, other enforcement actions for violations may be taken in accordance with Creator Code of Conduct, Community Guidelines and Terms of Service.
 
 - - -
 

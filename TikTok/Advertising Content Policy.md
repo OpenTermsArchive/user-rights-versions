@@ -536,7 +536,7 @@ Examples of what is not allowed:
 *   Sugar dating, or any type of engagement in companionship or relationships in exchange for compensation or material benefit
     
 
-\*Dating app ads are not allowed in the following markets: Algeria, Bahrain, Bangladesh, Egypt, Iraq, Jordan, Kuwait, Lebanon, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, Turkey, United Arab Emirates
+\*Dating app ads are not allowed in the following markets: Bahrain, Iraq, Jordan, Kuwait, Lebanon, Morocco, Oman, Qatar, Saudi Arabia
 
   
 
@@ -1717,6 +1717,8 @@ Examples of what may be allowed:
     
 *   Third-party payment services
     
+*   Investment consultation or advice
+    
 *   Trading platforms
     
 *   Cryptocurrencies
@@ -1745,8 +1747,6 @@ Examples of what is not allowed:
 *   Get-rich-quick schemes
     
 *   High APR Loans (loans with an annual percentage rate of 50% or higher)
-    
-*   Investment consultation or advice
     
 *   Multi-level marketing (with focus on downline recruitment and strict inventory level or sales quotas)
     
@@ -3726,6 +3726,8 @@ Examples of what may be allowed:
     
 *   Third-party payment services
     
+*   Investment consultation or advice
+    
 *   Trading platforms
     
 *   Cryptocurrencies
@@ -3754,8 +3756,6 @@ Examples of what is not allowed:
 *   Get-rich-quick schemes
     
 *   High APR Loans (with annual percentage rate of 50% or higher)
-    
-*   Investment consultation or advice
     
 *   Multi-level marketing (with focus on downline recruitment and strict inventory level or sales quotas)
     
@@ -8025,25 +8025,36 @@ Switzerland
 
   
 
-**Online gambling is not allowed.**
+**Online gambling:**
 
-*   Exception: Sports betting is allowed if the following requirement is met:
+*   Online casinos are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+*   Sports betting is allowed if the following requirement is met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
-  
+Examples of what is not allowed:
+
+*   Casinos & Gambling Venues
+    
+*   Fantasy Sports
+    
+*   Gambling Games
+    
+*   Offline Gambling Services
+    
 
 **Non-casino games are not allowed.**
 
-Exception: National lotteries are allowed if the following requirements are met:
-
-*   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+*   Exception: National lotteries are allowed if the following requirements are met:
     
-*   Be owned, operated, or regulated by a government entity.
-    
-
-  
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+        
+    *   Be owned, operated, or regulated by a government entity.
+        
 
 **Social casino games are allowed if the following requirements are met:**
 
@@ -10043,11 +10054,11 @@ We do not allow products or services that claim to provide exact predictions, gu
         
 *   Horoscope and fortune-telling products and services are allowed if certain requirements are met in the following markets:
     
-    *   Australia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Cambodia, Canada, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Egypt, Finland, France, Germany, Greece, Guatemala, Hungary, Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan, Luxembourg, Malaysia, Mexico, Netherlands, New Zealand, Norway, Panama, Pakistan, Peru, Philippines, Poland, Portugal, Romania, Serbia, Singapore, South Africa, Spain, Sweden, Switzerland, Taiwan, Thailand, United Kingdom, United States, Uruguay, Vietnam
+    *   Australia, Austria, Azerbaijan, Bangladesh, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Cambodia, Canada, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Egypt, Finland, France, Germany, Greece, Guatemala, Hungary, Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan, Lebanon, Luxembourg, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Panama, Pakistan, Peru, Philippines, Poland, Portugal, Romania, Serbia, Singapore, South Africa, Spain, Sweden, Switzerland, Taiwan, Thailand, United Kingdom, United States, Uruguay, Vietnam
         
 *   Horoscope and fortune-telling products, services, and content are not allowed in the following markets:
     
-    *   Algeria, Argentina, Bahrain, Bangladesh, Belarus, Brunei, El Salvador, Ethiopia, Honduras, Iraq, Jordan, Kuwait, Kyrgyzstan, Laos, Lebanon, Libya, Mali, Mauritius, Monaco, Morocco, Myanmar, Nicaragua, Oman, Qatar, Saudi Arabia, Senegal, Tanzania, Turkey, Uganda, Ukraine, United Arab Emirates
+    *   Algeria, Argentina, Bahrain, Belarus, Brunei, El Salvador, Ethiopia, Honduras, Iraq, Jordan, Kuwait, Kyrgyzstan, Laos, Libya, Mali, Mauritius, Monaco, Myanmar, Nicaragua, Oman, Qatar, Saudi Arabia, Senegal, Tanzania, Turkey, Uganda, Ukraine, United Arab Emirates
         
 
   

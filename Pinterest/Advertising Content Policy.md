@@ -2022,7 +2022,7 @@ Set up a leads campaign for Lead ads
 *   Log in to your Pinterest business account
 *   Click  the hamburger icon  at the top-left of the page
 *   Under **Manage campaigns**, click **Create campaign**
-*   Click **Manual Campaign**, then **Get Started**
+*   Click **Custom create campaign**, then **Get Started**
 *   Below **Choose a campaign objective**, select **Conversions**
 *   Select a **Campaign name and status**, and choose a **Campaign budget and schedule**
 *   Click **Continue**
@@ -2279,7 +2279,7 @@ Set up a leads campaign for Lead ads
 *   Log in to your Pinterest business account
 *   Click  the hamburger icon  at the top-left of the page
 *   Under **Manage campaigns**, click **Create campaign**
-*   Click **Manual Campaign**, then **Get Started**
+*   Click **Custom create campaign**, then **Get Started**
 *   Below **Choose a campaign objective**, select **Conversions**
 *   Select a **Campaign name and status**, and choose a **Campaign budget and schedule**
 *   Click **Continue**

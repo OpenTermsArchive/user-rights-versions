@@ -1973,7 +1973,7 @@ Examples of what is not allowed:
 
 *   Bail bonds
     
-*   Complex speculative investments such as contracts for differences (CFDs), financial spread betting, penny stocks, binary options, and mini-bonds
+*   Complex speculative investments such as financial spread betting, penny stocks, binary options, and mini-bonds
     
 *   Credit repair services
     
@@ -2495,7 +2495,7 @@ Examples of what is not allowed:
 
   
 
-**Finland, France, Germany**
+**Finland**
 
 Ads for financial services and products may be allowed if the following requirements are met:
 
@@ -2521,6 +2521,81 @@ Examples of what may be allowed:
 *   Loans
     
 *   Foreign Exchange (FX) services
+    
+
+Ads for cryptocurrency exchange services and custodial wallets may be allowed if the following requirements are met:
+
+*   Be licensed by local and regional authorities
+    
+*   Work with a TikTok Sales Representative to obtain permission via an application process
+    
+*   Restrict ads to viewers aged 18 years and older
+    
+
+Ads for non-fungible tokens (NFTs) may be allowed if the following requirements are met:
+
+*   Be licensed by local and regional authorities
+    
+*   Obtain our permission via an application process
+    
+*   Restrict ads to audiences aged 18 years and older
+    
+
+Examples of what is not allowed:
+
+*   Advisory services
+    
+*   Bail bonds
+    
+*   Credit repair services
+    
+*   Get-rich-quick schemes
+    
+*   High-risk investment products, such as binary options
+    
+*   Multi-level marketing
+    
+*   Peer-to-peer (P2P) lending
+    
+*   Penny auctions
+    
+*   Pyramid schemes
+    
+*   Virtual currencies, such as Bitcoin and Ethereum
+    
+*   Non-custodial wallets
+    
+
+  
+
+**France, Germany**
+
+Ads for financial services and products may be allowed if the following requirements are met:
+
+*   Comply with relevant laws and regulations
+    
+*   Comply with disclosure requirements, including disclaimers
+    
+*   Be licensed by local and regional authorities
+    
+*   The ad must be restricted to audiences aged 18 years and older
+    
+
+Examples of what may be allowed:
+
+*   Buy now, pay later (BNPL) services
+    
+*   Credit cards
+    
+*   Debt consolidation services and refinancing
+    
+*   Investment services
+    
+*   Loans
+    
+*   Foreign Exchange (FX) services
+    
+*   Precious metal trading
     
 
 Ads for cryptocurrency exchange services and custodial wallets may be allowed if the following requirements are met:
@@ -2830,6 +2905,8 @@ Examples of what may be allowed:
 *   Investment services
     
 *   Loans
+    
+*   Precious metal trading
     
 
 Ads for cryptocurrency exchange services and custodial wallets may be allowed if the following requirements are met:
@@ -4503,6 +4580,8 @@ Examples of what may be allowed:
     
 *   Loans
     
+*   Precious metal trading
+    
 
 Ads for loans and credit cards may be allowed if the following requirements are met:
 
@@ -5440,6 +5519,8 @@ Brazil
     *   National lottery: Only "Caixa Econômica Federal" is allowed to advertise.
         
     *   State-level lotteries: allowed to advertise.
+        
+    *   Passive lotteries: allowed to advertise.
         
     *   Work with a TikTok Sales Representative to determine eligibility and obtain permission to run ads.
         
@@ -6757,16 +6838,23 @@ Kenya
 
   
 
-**Online gambling is allowed** **if the following requirement is met:**
+**Online gambling is allowed if the following requirement is met:**
 
-*   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+*   Advertisers must work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
     
-
-  
+*   The ads must be age-targeted to the appropriate audience and ads must be licensed by local regulators where necessary.
+    
 
 **Non-casino games are not allowed.**
 
   
+
+Exception: Fantasy Sports and Rewarded Gaming are allowed if the following requirements are met:
+
+*   Advertisers must work with a TikTok sales representative to determine eligibility and obtain permission to run ads
+    
+*   The ads must be age-targeted to the appropriate audience and ads must be licensed by local regulators where necessary
+    
 
 **Social casino games are not allowed.**
 
@@ -7146,13 +7234,23 @@ Nigeria
 
   
 
-**Online gambling is not allowed.**
+**Online gambling is allowed if the following requirement is met:**
 
-  
+*   Advertisers must work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
+    
+*   The ads must be age-targeted to the appropriate audience and ads must be licensed by local regulators where necessary.
+    
 
 **Non-casino games are not allowed.**
 
   
+
+Exception: Fantasy Sports and Rewarded Gaming are allowed if the following requirements are met:
+
+*   Advertisers must work with a TikTok sales representative to determine eligibility and obtain permission to run ads
+    
+*   The ads must be age-targeted to the appropriate audience and ads must be licensed by local regulators where necessary
+    
 
 **Social casino games are not allowed.**
 

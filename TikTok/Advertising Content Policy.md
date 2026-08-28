@@ -10947,7 +10947,16 @@ Examples of what is allowed in select countries\* (subject to age restrictions, 
 *   Meal replacement products
     
 
-  
+**United States and Canada**
+
+Examples of what may be allowed subject to age restrictions, applicable local licensing requirements, and full compliance with all advertising policies:
+
+*   Weight loss surgical procedures (Work with a TikTok sales representative to determine eligibility and obtain permission to run ads)
+    
+*   Weight loss supplements
+    
+*   Meal replacement products
+    
 
 Body image
 ----------

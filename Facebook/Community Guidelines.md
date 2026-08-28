@@ -2403,6 +2403,8 @@ Imagery depicting human waste and bodily fluids (e.g., feces, urine, vomit, earw
 
 Imagery depicting vehicles that are burning or exploding, or depicting the moment or aftermath of speeding vehicles’ impact with other objects where the vehicle is dislodged from its path and / or the vehicle’s driver or passenger compartments are severely damaged.
 
+Imagery of physical fights between two or more people, except in a sports context.
+
 **Imagery of animals**
 
 Imagery depicting animals, living or dead, where visible blood is present.
@@ -2827,6 +2829,11 @@ On Facebook, we will seek further information before taking actions ranging from
 *   Create an account that represents a non-human entity, such as a business, pet, or fictional character
     
 *   Maintain empty profiles with prolonged dormancy
+    
+
+**Fan, satire, and parody accounts**
+
+We allow accounts dedicated to fan sentiment, humor, parody, satire, criticism, commentary, and opinion. The account must make its unofficial status abundantly clear at minimum in the account name and ideally elsewhere on the profile, such as in the profile photo or bio (e.g., by including "fan page" in the handle/name). Accounts that do not clearly disclose their unofficial nature may be restricted or removed.
 
 - - -
 

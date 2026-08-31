@@ -8935,7 +8935,7 @@ Market-specific requirements
 | **Medical devices** | Not allowed. |
 | **Medical institutions** | May be allowed if the following requirements are met:<br><br>\- Provide proof of approval and certification from appropriate local regional regulating authorities<br><br>\- The ad must be restricted to users aged 18 years or older<br><br>\- Be located and approved in Japan<br><br>Examples of what is not allowed:<br><br>\- Overseas medical institutions and services<br><br>\- Personal input of medical products |
 | **Pharmacies** | Domestic and online pharmacies are not allowed. |
-| **Contraceptives** | Not allowed. |
+| **Condoms and lubricants** | \- The ad must be restricted to users aged 18 years or older.<br><br>\- Verifiable medical device certification number in the ad and/or landing page.<br><br>\- Explicit/Implicit sexual content and phrasing not allowed. |
 | **Medical-related products or services** | Not allowed.<br><br>Examples of what is not allowed:<br><br>\- Private healthcare products, such as family planning, supplements, menstrual cups, or other similar products and services<br><br>\- Infant food such as milk powder, dietary supplements, or other similar products<br><br>\- Infant formula for children under the age of two<br><br>\- Sex-related products<br><br>\- Clinical trials for the elderly<br><br>\- Breast augmentation, hormone therapy, and genital treatment in domestic cosmetic surgery and other similar services |
 
 **Jordan**

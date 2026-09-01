@@ -15,6 +15,8 @@ Table of Contents
 
 [Spam](https://policy.pinterest.com/en/community-guidelines#section-spam)
 
+_We're updating our Community Guidelines, effective November 12, 2026. You can preview the updated Community Guidelines [here](https://policy.pinterest.com/community-guidelines-preview)._
+
 Our mission
 ===========
 
@@ -326,6 +328,8 @@ Table of Contents
 [Merchant guidelines enforcement](https://policy.pinterest.com/en/enforcement#section-merchant-guidelines-enforcement)
 
 [Enforcement procedures and systems](https://policy.pinterest.com/en/enforcement#section-enforcement-procedures-and-systems)
+
+_We're updating our Enforcement page, effective November 12, 2026. You can preview the updated Enforcement page [here](https://policy.pinterest.com/enforcement-preview)._
 
 At Pinterest, our mission is to bring everyone the inspiration to create a life they love, and it’s our guiding light in drafting and enforcing our policies.
 

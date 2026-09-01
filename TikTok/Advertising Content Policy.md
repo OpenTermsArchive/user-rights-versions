@@ -10387,49 +10387,6 @@ If you or someone you know is struggling, support is available. Reach out to a s
 
 - - -
 
-Suicide and Self-Harm
-=====================
-
-Last updated: August 2025
-
-Principle
----------
-
-At TikTok, we are deeply committed to protecting our community and ensuring the safety and well-being of everyone who uses our app. Our aim is not only to provide a platform for connection and engagement, but also to serve as a positive and enriching space where our viewers feel comfortable, confident, and valued. To achieve this, we focus on creating a supportive environment that prioritizes both the physical and psychological health of our community.
-
-### Policy
-
-We have a zero-tolerance policy for ads that promote, depict, glorify, endorse, or document suicide, self-harm, or dangerous behaviors which may lead to these.
-
-  
-
-This includes content that:
-
-*   Encourages or incites suicidal thoughts or actions
-    
-*   Depicts or provides instructions or methods related to suicide or self-harm and related challenges
-    
-*   Depicts, sensationalizes, or promotes hoaxes about suicide or self-harm
-    
-*   Portrays self-harm in a way that normalizes, glamorizes, or trivializes it
-    
-*   Features descriptions or plans for suicide or self-harm
-    
-*   Portrays or romanticizes suicidal thoughts or behaviors as admirable, aspirational, or desirable, including idolizing real or fictional individuals solely because they have experienced suicidal ideation
-    
-
-  
-
-We may allow educational content from fully vetted organizations, such as government organizations and humanitarian non-governmental organizations (NGOs), whose aim is to share information on suicide and self-harm prevention and offer support to vulnerable users.
-
-  
-
-If you or someone you know is struggling, support is available. Reach out to a suicide prevention [helpline](https://www.tiktok.com/safety/suicide-self-harm/?lang=en) or contact emergency services.
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
-- - -
-
 TikTok After Conversion Experience Policy
 =========================================
 

@@ -1154,7 +1154,7 @@ Advertisers are expected to comply with our Terms of Service, Community Guidelin
 Financial Services
 ==================
 
-Last updated: August 2026
+Last updated: September 2026
 
 Principle
 ---------
@@ -10347,7 +10347,7 @@ Additional prohibitions or restrictions may apply. Learn more about our landing 
 Suicide and Self-Harm
 =====================
 
-Last updated: สิงหาคม 2025
+Last updated: August 2025
 
 Principle
 ---------
@@ -10390,7 +10390,7 @@ If you or someone you know is struggling, support is available. Reach out to a s
 Suicide and Self-Harm
 =====================
 
-Last updated: สิงหาคม 2025
+Last updated: August 2025
 
 Principle
 ---------

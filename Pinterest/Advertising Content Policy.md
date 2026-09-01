@@ -25,6 +25,8 @@ Table of Contents
 
 [Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
 
+_We're updating our Advertising Guidelines, effective November 12, 2026. You can preview the updated Advertising Guidelines [here](https://policy.pinterest.com/advertising-guidelines-preview)._
+
 Our mission
 ===========
 
@@ -1960,6 +1962,8 @@ Table of Contents
 [3\. Pinterest Tag, App Activity and SDK.](https://policy.pinterest.com/en/ad-data-terms#section-3-pinterest-tag-app-activity-and-sdk)
 
 [4\. Pinterest Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-ad-data)
+
+_We're updating our Ad Data Terms, effective November 12, 2026. You can preview the updated Ad Data Terms [here](https://policy.pinterest.com/ad-data-terms-preview)._
 
 Ad Data Terms
 =============

@@ -10347,7 +10347,7 @@ Additional prohibitions or restrictions may apply. Learn more about our landing 
 Suicide and Self-Harm
 =====================
 
-Last updated: August 2025
+Last updated: สิงหาคม 2025
 
 Principle
 ---------
@@ -10390,7 +10390,7 @@ If you or someone you know is struggling, support is available. Reach out to a s
 Suicide and Self-Harm
 =====================
 
-Last updated: August 2025
+Last updated: สิงหาคม 2025
 
 Principle
 ---------

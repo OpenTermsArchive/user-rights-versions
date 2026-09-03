@@ -10668,7 +10668,7 @@ We do not allow anyone to promote or provide material support to violent or hate
 Weight Management and Body Image
 ================================
 
-Last updated: August 2026
+Last updated: September 2026
 
 Principle
 ---------

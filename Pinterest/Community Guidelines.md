@@ -312,6 +312,15 @@ Our guidelines around spam are:
 
 Last updated: May 2026
 
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/community-guidelines#section-our-mission)
+*   [Content safety](https://policy.pinterest.com/en/community-guidelines#section-content-safety)
+*   [Intellectual property and other rights](https://policy.pinterest.com/en/community-guidelines#section-intellectual-property-and-other-rights)
+*   [Site security and access](https://policy.pinterest.com/en/community-guidelines#section-site-security-and-access)
+*   [Spam](https://policy.pinterest.com/en/community-guidelines#section-spam)
+
 - - -
 
 Enforcement
@@ -408,3 +417,11 @@ The mechanisms used to address different potential policy violations may vary ba
 *   **Text**: We may moderate content based on text associated with that content. For example, we may deactivate or limit content that contains violating text, or we may decline to show search results or ads in response to queries that contain policy-violating or sensitive text.
 
 Last updated: April 2025
+
+Table of Contents
+-----------------
+
+*   [Community guidelines enforcement](https://policy.pinterest.com/en/enforcement#section-community-guidelines-enforcement)
+*   [Advertising guidelines enforcement](https://policy.pinterest.com/en/enforcement#section-advertising-guidelines-enforcement)
+*   [Merchant guidelines enforcement](https://policy.pinterest.com/en/enforcement#section-merchant-guidelines-enforcement)
+*   [Enforcement procedures and systems](https://policy.pinterest.com/en/enforcement#section-enforcement-procedures-and-systems)

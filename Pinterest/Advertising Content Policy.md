@@ -1944,6 +1944,20 @@ You need to make sure your ads follow our standard ad guidelines and any country
 
 We reserve the right to reject or remove any ad that negatively affects our relationship with people on Pinterest or that goes against our interests. We may also remove ads, categories of ads, or advertisers that get lots of negative feedback from people on Pinterest. These rules may change at any time.
 
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/advertising-guidelines#section-our-mission)
+*   [Be authentic with your audience](https://policy.pinterest.com/en/advertising-guidelines#section-be-authentic-with-your-audience)
+*   [Be respectful with your targeting](https://policy.pinterest.com/en/advertising-guidelines#section-be-respectful-with-your-targeting)
+*   [Be careful with any data usage](https://policy.pinterest.com/en/advertising-guidelines#section-be-careful-with-any-data-usage)
+*   [Be thoughtful with your editorial](https://policy.pinterest.com/en/advertising-guidelines#section-be-thoughtful-with-your-editorial)
+*   [Be responsible with your content](https://policy.pinterest.com/en/advertising-guidelines#section-be-responsible-with-your-content)
+*   [Prohibited content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-prohibited-content-guidelines)
+*   [Restricted content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-restricted-content-guidelines)
+*   [Country-specific guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-country-specific-guidelines)
+*   [Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
+
 - - -
 
 Ad Data Terms
@@ -2006,6 +2020,15 @@ These Ad Data Terms are an addendum to the agreement between you and Pinterest, 
     *   you must delete or anonymize it when you no longer have a legitimate business need for it, no later than 6 months after receiving it.
 
 Last updated: April 2025
+
+Table of Contents
+-----------------
+
+*   [Ad Data Terms](https://policy.pinterest.com/en/ad-data-terms#section-ad-data-terms)
+*   [1\. General.](https://policy.pinterest.com/en/ad-data-terms#section-1-general)
+*   [2\. Ad Data](https://policy.pinterest.com/en/ad-data-terms#section-2-ad-data)
+*   [3\. Pinterest Tag, App Activity and SDK.](https://policy.pinterest.com/en/ad-data-terms#section-3-pinterest-tag-app-activity-and-sdk)
+*   [4\. Pinterest Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-ad-data)
 
 - - -
 

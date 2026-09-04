@@ -188,7 +188,7 @@ Usernames, Display Names, and Public Profiles
 
 Community Guidelines Explainer Series
 
-_Updated: March 2026_
+_Updated: September 2026_
 
 Usernames, display names, and public profiles must comply with our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US). In addition, they must not contain references to content or behavior prohibited by our Community Guidelines, such as:
 
@@ -200,7 +200,7 @@ Usernames, display names, and public profiles must comply with our [Community Gu
     
 *   Commercial sexual transactions
     
-*   Illicit drug activity
+*   Illicit or regulated drug activity
     
 *   Bullying or harassment, including sexual harassment
     
@@ -304,10 +304,10 @@ Recommendation Eligibility
 
 Community Guidelines
 
-Sexual Content
+Sexual Content and Conduct
 
 
-==================
+==============================
 
 Community Guidelines Explainer Series
 

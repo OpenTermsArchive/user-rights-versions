@@ -1062,14 +1062,14 @@ Hateful Content, Terrorism and Violent Extremism
 
 Community Guidelines
 
-Harmful False or Deceptive Practices
+Harmful, False or Deceptive Practices
 
 
-========================================
+=========================================
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 

@@ -190,21 +190,15 @@ Ads must not discourage people from vaccination or advocate against vaccines.
 
 * * *
 
-Fraud, Scams, and Deceptive Practices
+Prohibited Commercial Practices
 
 Content that may deceive or mislead people.
 
-Fraud, Scams and Deceptive Practices
+Prohibited Commercial Practices
 
-Ads Must Comply with the Community Standard on [Fraud, Scams and Deceptive Practices](https://transparency.meta.com/policies/community-standards/fraud-and-scams/).
+Ads Must Comply with the Community Standard on [Prohibited Commercial Practices](https://transparency.meta.com/policies/community-standards/prohibited-commercial-practices/).
 
-[**Learn more**](https://transparency.meta.com/policies/ad-standards/fraud-scams/fraud-scams-deceptive-practices/)
-
-Unacceptable Business Practices
-
-Ads must not promote products, services, schemes or offers using identified deceptive or misleading practices, including those meant to scam people out of money or personal information. When we detect that advertisers are engaging in potentially suspicious behavior, including potential inauthentic behavior, or are running ads in certain categories likely to be targeted by scammers, we may require those advertisers to complete additional verification processes.
-
-[**Learn more**](https://transparency.meta.com/policies/ad-standards/fraud-scams/unacceptable-business-practices/)
+[**Learn more**](https://transparency.meta.com/policies/ad-standards/deceptive-content/prohibited-commercial-practices/)
 
 * * *
 
@@ -329,6 +323,12 @@ Online Gambling and Games
 Meta defines online gambling and games as any product or service where anything of monetary value is included as part of a method of entry and prize. Ads that promote online gambling and gaming are only allowed with our prior written permission. Authorized advertisers must follow all applicable laws and include targeting criteria consistent with Meta’s targeting requirements. At a minimum, ads may not be targeted to people under 18 years of age. Learn more in our [Business Help Center](https://www.facebook.com/business/help/345214789920228?id=434838534925385).
 
 [**Learn more**](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/gambling-games/)
+
+Prohibited Documents and Financial Services
+
+Ads must comply with the Community Standards on Prohibited Documents and Financial Services (under Restricted Goods and Services) and must not promote content that facilitates or offers the solicitation, creation, sale, purchase, or trade of fake, forged, or stolen documents, goods, or services; devices or subscriptions that are manipulated or used in an unauthorized manner; personally identifiable or other personal information; products that enable cheating; money muling; or money laundering.
+
+[**Learn more**](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/prohibited-documents-and-financial-services/)
 
 * * *
 
@@ -687,7 +687,7 @@ On this page
 
 [Unacceptable content](#unacceptable-content)
 
-[Fraud, Scams, and Deceptive Practices](#deceptive-content)
+[Prohibited Commercial Practices](#deceptive-content)
 
 [Restricted goods and services](#restricted-goods-and-services)
 

@@ -3695,19 +3695,19 @@ Watch the video below to learn more:
 Advertising restrictions for policy violations
 ----------------------------------------------
 
-If we find that an advertiser doesn't follow the Advertising Standards or other policies and terms, they may face advertising restrictions. Advertising restrictions may be applied on the following:
+If we find that an advertiser doesn't follow the Advertising Standards or other policies and terms, they may face advertising restrictions. Advertising restrictions may be applied to the following:
 
-*   **Business portfolio:** A central location for your business assets, such as Facebook, Instagram accounts, ad accounts and product catalogues that you can manage together as a unified online business. If restricted, your business portfolio isn't allowed to advertise.
+*   **Business portfolio:** A central location for your business assets, such as Facebook, Instagram profiles, ad accounts and product catalogues that you can manage together as a unified online business. If restricted, your business portfolio isn't allowed to advertise.
     
 *   **Ad account:** An account used for managing ads across Meta platforms, which allows advertisers to create ads and campaigns, pay for ads and see insights and analytics. If restricted, your ad account, its ads and some of its advertising assets are disabled.  
     **Note:** If your ad account is disabled for a policy violation and remains ineligible for reinstatement for six months, any unused prepaid services may be forfeited where allowed by law. After this time frame, the account can't be reinstated. Under certain circumstances, Meta reserves the right to disable your account permanently prior to the six months. [Learn more in Meta's Payments Terms](https://www.facebook.com/payments_terms).
     
 *   **Page:** A product that lets people and businesses create a presence on Facebook and connect with the Facebook community. Every advertiser will need to have a Facebook Page created before they can advertise. If restricted, your Page isn't allowed to advertise.
     
-*   **User account:** A Facebook or Instagram account is the account of the specific person who is advertising using an ad account. Enforcements on a user account affect whether the person can use business assets. If restricted, you are not allowed to use Meta Products to advertise.
+*   **Personal profile:** The Facebook or Instagram profile of the specific person who is advertising using an ad account. Enforcements on a personal profile affect whether the person can use business assets. If restricted, you are not allowed to use Meta Products to advertise.
     
 
-**Note:** If a user account is restricted from advertising, that user can't advertise or create new ads. Any ad accounts where they're the only attached user may also be disabled. However, other members of the business portfolio, ad account or Page may still be able to advertise.
+**Note:** If a personal profile is restricted from advertising, that person can't advertise or create new ads. Any ad accounts where they're the only attached user may also be disabled. However, other members of the business portfolio, ad account or Page may still be able to advertise.
 
 Advertising restrictions for unusual activity
 ---------------------------------------------
@@ -3736,9 +3736,9 @@ Learn more
     
 *   [Common examples of Meta advertising policy violations](https://www.facebook.com/business/help/3858246497787265)
     
-*   [If you think that your Instagram account was hacked](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F149494825257596%2F)
+*   [If you think that your Instagram profile was hacked](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F149494825257596%2F)
     
-*   [If you think that your Facebook account was hacked](https://www.facebook.com/help/203305893040179)
+*   [If you think that your Facebook profile was hacked](https://www.facebook.com/help/203305893040179)
 
 - - -
 

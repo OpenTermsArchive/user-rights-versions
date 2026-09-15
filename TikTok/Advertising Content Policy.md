@@ -4771,6 +4771,8 @@ Many people around the world find entertainment through games of chance. To supp
 
 We prioritize audience safety by restricting gambling and any monetized content directly encouraging gambling activities. Our policies aim to ensure a secure and positive environment for our community.
 
+> 
+
   
 
 Policy
@@ -8374,8 +8376,6 @@ Exception: National lotteries are allowed if the following requirement is met:
   
 
 **Social casino games are not allowed.**
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 

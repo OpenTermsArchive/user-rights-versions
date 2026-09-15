@@ -1,8 +1,6 @@
 Community Guidelines
 ====================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
   
@@ -103,8 +101,6 @@ You can also visit our [Safety Center](https://www.tiktok.com/safety/en) resourc
 Community Principles
 ====================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
@@ -138,8 +134,6 @@ In rare and exceptional situations—such as crises or moments of social unrest�
 
 Youth Safety and Well-Being
 ===========================
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
@@ -179,8 +173,6 @@ We don’t allow content that could [harm young people](https://www.tiktok.com/s
 
 Safety and Civility
 ===================
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
@@ -294,8 +286,6 @@ More information
 Mental and Behavioral Health
 ============================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
@@ -338,8 +328,6 @@ More information
 
 Sensitive and Mature Themes
 ===========================
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
@@ -393,8 +381,6 @@ More information
 
 Integrity and Authenticity
 ==========================
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
@@ -465,8 +451,6 @@ More information
 Regulated Goods, Services, and Commercial Activities
 ====================================================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
@@ -515,8 +499,6 @@ More information
 Privacy and Security
 ====================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
@@ -550,8 +532,6 @@ More information
 For You feed Eligibility Standards
 ==================================
 
-Community Guidelines
-
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
 Released August 14, 2025
@@ -572,8 +552,6 @@ Our recommendation system is built to help people discover and enjoy a wide rang
 
 Accounts and Features
 =====================
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 
@@ -703,8 +681,6 @@ If we find commercial content that hasn’t been properly disclosed, we may appl
 
 Enforcement
 ===========
-
-Community Guidelines
 
 On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
 

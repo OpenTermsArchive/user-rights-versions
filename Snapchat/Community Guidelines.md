@@ -240,50 +240,88 @@ For information on how to change your username or display name, please see the f
 
 Policy Centre
 
-Content Guidelines for Recommendation Eligibility
+Content Recommendation Eligibility
 
 
-=====================================================
+======================================
+
+What you need to know about our Recommendation Eligibility Guidelines: 
+
+
+---------------------------------------------------------------------------
 
 In order to be eligible for algorithmic recommendation beyond the creator’s friends or subscribers (for example, on Stories, Spotlight or the Map), Content must meet the additional, stricter standards described in the Content Guidelines on this page.
 
-Where do these Content Guidelines apply?
+Where do these Recommendation Eligibility Guidelines apply?
 
-Snapchat is primarily a visual messaging app built to help people communicate with their family and friends. But there are parts of the app where public content may reach a wider audience via algorithmic recommendations; such content is defined as Recommended Content. For example:
+**Feature**
 
-*   On the Stories tab, Snapchatters can view recommended content from professional media partners and popular creators.
+**Who sees it?\***
+
+**Do the Recommendation Eligibility Guidelines apply?**
+
+Chat / Private Stories
+
+Only friends you choose
+
+NO (see [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB))
+
+Spotlight
+
+The Snapchat Community
+
+YES in addition to [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB)
+
+Public Stories
+
+Subscribers, or via the Discover page
+
+YES in addition to [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB)
+
+Snap Map
+
+Locals + explorers in the Snapchat Community
+
+YES in addition to [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB)
+
+_\*Some users’ content may have a more restricted audience due to age or region._
+
+Keep in mind that in addition to the Recommendation Eligibility Guidelines, the Community Guidelines always apply. If you want to know what’s never allowed on Snapchat, regardless of where it’s being posted, please review our [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB).
+
+How are these Recommendation Eligibility Guidelines applied?
+
+We moderate with a blend of technology and human review. We also provide in-app tools for Snapchatters to report content that they find objectionable. We aim to respond to user reports quickly, and we use feedback to improve the content experience for all Snapchatters. 
+
+The Recommendation Eligibility Guidelines apply to content from any source, be it a partner, individual creator, or an organization of any kind.
+
+In addition to reviewing individual content submissions, we consider accounts holistically. When we identify violations involving the [severe harms](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB) described in our Community Guidelines, we lock the user’s account. When an account repeatedly violates non-severe harms, or these Recommendation Eligibility Guidelines,  we may reduce that account’s reach. For example, if a creator has a pattern of posting sexually suggestive content, we may decline to algorithmically recommend that creator to certain cohorts, such as teens, new users, people who have not indicated they want to see suggestive content, or people in countries where such imagery is prohibited.
+
+  
+
+For more details on Snapchat Moderation, Enforcement, and Appeals, see [this page](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-GB).
+
+Sensitive Content
+
+Throughout these Recommendation Eligibility Guidelines, you’ll find that some content is categorized as “sensitive.” Sensitive content is not necessarily violative, but it may be displeasing to other users. Snapchatters represent a diverse range of ages, cultures and beliefs, and we want to provide a safe, healthy, valuable experience for all users, including those as young as 13.
+
+Therefore, when we determine that content is sensitive, we may not recommend it to minors, new users, or users in certain countries. For all other users, we strive to limit the overall density of sensitive content in recommendations.    
+
+For example:
+
+*   **Hunting content:** this may be interesting to some users, but disturbing to others. We won’t promote it to a general audience.
     
-*   On Spotlight, Snapchatters can watch content created and submitted by our community.
-    
-*   On the Map, Snapchatters can see Snaps of events, breaking news and more from around the world.
+*   **Swimwear:** playing beach volleyball in a bathing suit is likely to be recommended to most users; however, sexually suggestive swimwear (for example, posing in a bedroom) may not be recommended to new users, minors, people in countries where such imagery is considered inappropriate, or adults who have not indicated interest in such imagery.
     
 
-How are these Content Guidelines applied?
-
-We enforce these Content Guidelines with moderation using a blend of technology and human review. We also provide in-app tools for Snapchatters to report content that they find objectionable. We respond to user reports quickly, and we use feedback to improve the content experience for all Snapchatters.
-
-The guidelines for recommendation eligibility in these Content Guidelines apply equally to content from any source, be it a partner, individual creator or an organisation of any kind.
+Please note that the Sensitive criteria in these Recommendation Eligibility Guidelines should only serve as a non-exhaustive list of examples. We may restrict or decline to recommend any content based on moderation history, user feedback, engagement signals, or our own editorial discretion.
 
 Snap's Reservation of Rights
 
-We reserve the right to apply these Content Guidelines at our discretion and to take any action to enforce them, which may include, among other things, removing, limiting distribution, suspending, limiting promotion or age-gating your content.
+We reserve the right to apply these Recommendation Eligibility Guidelines at our discretion and to take any action to enforce them, which may include, among other things, removing, limiting distribution, suspending, limiting promotion or age-gating your content.
 
-Creators or Partners that violate our [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB) or [Terms of Service](https://snap.com/en-US/terms?lang=en-US) will be deemed in violation of these Content Guidelines.
+Creators or Partners that violate our [Community Guidelines](https://values.snap.com/policy/policy-community-guidelines?lang=en-GB) or [Terms of Service](https://snap.com/en-US/terms?lang=en-US) will be deemed in violation of these Recommendation Eligibility Guidelines.
 
-Additionally, all content must comply with applicable law anywhere it’s distributed and the terms of our content agreement with you. Where we believe the foregoing has been violated, we reserve all rights to remove the offending content.
-
-Personalisation and Sensitive Content
-
-Snapchatters represent a diverse range of ages, cultures and beliefs, and we want to provide a safe, healthy, valuable experience for all users, including those as young as 13. Recognising that many Snapchatters may see content without actively choosing to do so, we designed these guidelines to protect Snapchatters from experiences that may be unsuitable or unwanted.
-
-Within the pool of Recommended Content, we strive to personalise recommendations, especially for what we call “Sensitive” content. For example, Sensitive content may:
-
-*   Depict acne treatments which may seem gross to some Snapchatters, while others may find it useful or fascinating; or
-    
-*   Feature people in swimwear in a manner that may seem sexually suggestive, depending on the context or the viewer.
-    
-
-While some Sensitive Content is eligible for recommendation, we may avoid recommending it to certain Snapchatters based on their age, location, preferences or other criteria. Please note that the Sensitive criteria in these Content Guidelines should serve as a non-exhaustive list of examples. We may restrict or decline to recommend any content based on moderation history, user feedback, engagement signals or our own editorial discretion.
+Additionally, all content must comply with applicable law anywhere that it is distributed and with the terms of our content agreement with you. Where we believe the foregoing has been violated, we reserve all rights to remove the offending content.
 
 ### 
 
@@ -293,12 +331,12 @@ All content everywhere on Snapchat, public or private, must adhere to our [**Com
 
 Up Next:
 
-Recommendation Eligibility
+Quality
 
 
-------------------------------
+-----------
 
-[Read Next](https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/sexual-content?lang=en-GB)
+[Read Next](https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/quality?lang=en-GB)
 
 - - -
 
@@ -395,33 +433,41 @@ Sexual Content
 
 ### 
 
+Prohibited Content
+
+Any sexual content that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB) is prohibited anywhere on Snapchat. For content to be eligible for recommendation to a wider audience, it must not contain:
+
+### 
+
 Not Eligible for Recommendation
 
 Any sexual content that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB) is prohibited anywhere on Snapchat. For content to be eligible for recommendation to a wider audience, it must not contain:
 
 Nudity, sex acts and sexual services
 
-Our Community Guidelines allow limited non-pornographic nudity (for example, in the context of breastfeeding or medical procedures) in a user’s private Story. But the Content Guidelines prohibit all nudity, in any context, even if not photographic or realistic (for example, paintings or AI-generated images). The Community Guidelines prohibit explicit renderings of sex acts; our Content Guidelines prohibit any depiction or imitation of a sex act, even when everyone involved is fully clothed and the gesture is meant as a joke or visual innuendo. Our Community Guidelines prohibit sexual solicitation of any kind; these Content Guidelines err on the side of over-enforcement (for example, a moderately suggestive Snap that directs Snapchatters to a separate account, platform or site will be denied amplification, even if we are unable to confirm that sexual solicitation is the intent).
+ Our Community Guidelines allow limited non-pornographic nudity (for example, in the context of breastfeeding or medical procedures) in a user’s private Story. But the Recommendation Eligibility Guidelines prohibit all nudity, in any context, even if not photographic or realistic (for example, paintings or AI-generated images). The Community Guidelines prohibit explicit renderings of sex acts; our Recommendation Eligibility Guidelines prohibit any depiction or imitation of a sex act, even when everyone involved is fully clothed and the gesture is meant as a joke or visual innuendo. Our Community Guidelines prohibit sexual solicitation of any kind; these Recommendation Eligibility Guidelines err on the side of over-enforcement (for example, a moderately suggestive Snap that directs Snapchatters to a separate account, platform or site will be denied amplification, even if we are unable to confirm that sexual solicitation is the intent).
 
 Sexual harassment and non-consensual sexual material
 
-These are prohibited platform-wide in our Community Guidelines. The Content Guidelines go beyond to prohibit insensitive or potentially-demeaning sexual content, such as sexual objectification and manipulated media that sexualises someone without their consent (for example, editing a celebrity’s appearance to exaggerate certain sexualised body parts). We also prohibit speculation about someone’s gender or sexuality (for example, “Is \_\_\_ in the closet?”) and coverage of sex crimes or sexual taboos in a lurid, sensationalised format (for example, “10 Teachers Who Married Their Students”).
+This is prohibited platform-wide in our Community Guidelines. The Recommendation Eligibility Guidelines go beyond to prohibit insensitive or potentially-demeaning sexual content, such as sexual objectification and manipulated media that sexualizes someone without their consent (for example, editing a celebrity’s appearance to exaggerate certain sexualized body parts). We also prohibit speculation about someone’s gender or sexuality (for example, “Is \_\_\_ in the closet?”) and coverage of sex crimes or sexual taboos in a lurid, sensationalized format (for example, “10 Teachers Who Married Their Students”).
+
+  
 
 Sexually explicit language
 
-While our Community Guidelines do not prevent Snapchatters from discussing adult topics privately or on their Stories, these Content Guidelines prohibit explicit language that describes sex acts, genitalia, sex toys, sex work or sexual taboos (for example, incest or bestiality). This includes emojis in explicitly sexual contexts. It also includes innuendos that are specific enough to refer to particular sex acts or body parts.
+While our Community Guidelines do not prevent Snapchatters from discussing adult topics privately or on their Stories, these Recommendation Eligibility Guidelines prohibit explicit language that describes sex acts, genitalia, sex toys, sex work, or sexual taboos (for example, incest or bestiality). This includes emojis in explicitly sexual contexts. It also includes innuendos that are specific enough to refer to particular sex acts or body parts.
 
 Overtly suggestive imagery
 
-While our Community Guidelines do not prevent Snapchatters from sharing non-explicit, risqué imagery, these Content Guidelines prohibit imagery that emphasises frequently-sexualised body parts (for example, breasts, rear, crotch) via the camera, attire, pose or other elements in a sexually provocative way. This applies even if the individual is not nude, or even if the individual is not a real person (such as animations or drawings). This includes disembodied close-ups of sexualised body parts. This also includes simulated sexual activity, such as posing in sex positions, mimicking sex acts, displaying sex toys, or interacting with objects in a sexually provocative way.
+While our Community Guidelines do not prevent Snapchatters from sharing non-explicit, risque imagery, these Recommendation Eligibility Guidelines prohibit imagery that emphasizes frequently-sexualized body parts (for example, breasts, rear, crotch) via the camera, attire, pose or other elements in a sexually provocative way. This applies even if the individual is not nude, or even if the individual is not a real person (such as animations or drawings). This includes disembodied closeups of sexualized body parts. This also includes simulated sexual activity, such as posing in sex positions, mimicking sex acts, displaying sex toys, or interacting with objects in a sexually provocative way.
 
 Minors in sexual situations
 
-Our Community Guidelines strictly prohibit all forms of child sexual exploitation. These Content Guidelines additionally prohibit edge-case content that may fall short of a legal definition of child sexual exploitation or abuse material. That means we deny amplification to any content, real or fictional, about romantic or sexual relationships between adults and minors, unless the specific incident is newsworthy because of its relevance to prominent issues, individuals or institutions. Even in newsworthy instances, coverage of minors in sexual situations must not be sensationalised, suggestive or exploitative. This also includes content, real or fictional, about sexual activity between minors. We allow:
+Our Community Guidelines strictly prohibit all forms of child sexual exploitation. These Recommendation Eligibility Guidelines additionally prohibit edge-case content that may fall short of a legal definition of child sexual exploitation or abuse material. That means we deny amplification to any content, real or fictional, about romantic or sexual relationships between adults and minors, unless the specific incident is newsworthy because of its relevance to prominent issues, individuals or institutions. Even in newsworthy instances, coverage of minors in sexual situations must not be sensationalized, suggestive or exploitative. This also includes content, real or fictional, about sexual activity between minors. We allow:
 
 *   Content about teenagers’ sexual or gender identities, or their age-appropriate romantic relationships, as long as that content is not suggestive or explicit.
     
-*   Coverage of sex crimes or sexual harassment, as long as the coverage is newsworthy – meaning, that it is relevant to an already-prominent issue, individual or institution.
+*   Coverage of sex crimes or sexual harassment, as long as the coverage is newsworthy — meaning, that it is relevant to an already-prominent issue, individual or institution.
     
 
 ### 
@@ -440,11 +486,13 @@ This includes subtle innuendo that indicates vague sexual interest without allud
 
 Sexual health content
 
-That is educational, focuses on safety, does not promote dangerous behaviour and is suitable for Snapchatters as young as 13.
+This includes content that is educational, focuses on safety, does not promote dangerous behavior and is suitable for a broad audience, including users under 18.
 
 Non-suggestive sexual content
 
-In the context of news, public interest commentary or education (for example, art history).
+This includes content in the context of news, public interest commentary, or education (for example, art history).
+
+  
 
 Adult entertainment
 
@@ -545,25 +593,35 @@ Disturbing or Violent Content
 
 ### 
 
+Prohibited Content
+
+Any disturbing or violent content that is [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/threats?lang=en-US) is prohibited anywhere on Snapchat. 
+
+### 
+
 Not Eligible for Recommendation:
 
 Any disturbing or violent content that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-GB) is prohibited anywhere on Snapchat. For content to be eligible for recommendation to a wider audience, it must not contain:
 
-Graphic or gratuitous imagery
+Graphic or gratuitous content
 
-Our Community Guidelines prohibit graphic or gratuitous imagery of violence to humans or animals. These Content Guidelines prohibit graphic or gratuitous depictions of not only violence, but also severe illness, injury or death. Our Community Guidelines do not prohibit content that depicts medical or cosmetic procedures (for example, pimple popping, ear cleaning, liposuction, etc.), but content is not eligible for recommendation if it depicts graphic imagery. “Graphic” in this context includes real-life imagery of bodily fluids or waste, such as pus, blood, urine, excrement, bile, infection, decay. We deny amplification to intentionally, viscerally disturbing human body imagery, such as sharp objects near the skin or eyes, or vermin near the mouth. While our Community Guidelines prohibit content that shows animal abuse, these Content Guidelines additionally prohibit imagery of severe animal suffering (for example, open wounds, emaciation, broken or mangled body parts) or death.
+Our Community Guidelines prohibit graphic, gratuitous, or shocking content involving humans, animals, or the natural world. This includes explicit violence, animal abuse or mistreatment, injury and death. Additionally, these Recommendation Eligibility Guidelines restrict any imagery intended to shock or disgust viewers, including disturbing natural processes, and extreme or unsafe eating, or using food to shock.
+
+Content that depicts medical or cosmetic procedures (for example, pimple popping, ear cleaning, liposuction, etc.), is not eligible for recommendation if it depicts graphic imagery. “Graphic” in this context includes real-life imagery of bodily fluids or waste, such as pus, blood, urine, excrement, bile, infection, or decay. We deny amplification to intentionally, viscerally-disturbing human body imagery, such as sharp objects near the skin or eyes, or vermin near the mouth.
 
 Glorification of violence
 
 Our Community Guidelines prohibit expressing support for violence or encouraging violence against anyone. These Content Guidelines go further to prohibit even ambiguous support for or tacit approval of violence.
 
-Glorification of self-harm
+Self-harm or suicide content
 
 Our Community Guidelines prohibit the promotion of self-injury, suicide or eating disorders. These Content Guidelines go further to deny amplification to edge-case content (for example, jokingly saying, “Delete your account and kys,” or any “thinspo” or “pro-ana” content).
 
-Encouraging dangerous behaviour
+.Encouraging dangerous behavior
 
-Is prohibited in our Community Guidelines. These Content Guidelines deny amplification to content that depicts dangerous activities performed by non-professionals, such as stunts or “challenges” that could result in injury, illness, death, harm or property damage.
+Encouraging dangerous behavior is prohibited in our Community Guidelines. These Recommendation Eligibility Guidelines deny amplification to content that depicts dangerous activities performed by non-professionals, such as stunts or “challenges” that could result in injury, illness, death, harm, or property damage.
+
+  
 
 Lurid or sensationalised coverage
 
@@ -579,13 +637,13 @@ Violence
 
 In the context of national news, education or public discourse, where there is no graphic imagery of death or mutilation. Disturbing incidents, such as sexual or violent crimes, may be newsworthy when they are timely and involve a prominent individual, group or issue in the public interest
 
-Discussion of overcoming self-harm
+Non-graphic discussion of self-harm or suicide
+
+in educational, recovery or public-interest contexts, including discussion of overcoming self-harm or eating disorders.
+
+Non-graphic health-related content
 
 Including eating disorders.
-
-Non-graphic depictions of health issues
-
-Procedures, medical settings or equipment. This includes preserved body organs in educational or newsworthy contexts.
 
 Cosmetic procedures
 
@@ -599,15 +657,13 @@ Animals in danger or distress in natural settings
 
 Without graphic imagery of death or gore.
 
-Species that trigger common phobias
+Triggers of common phobias
 
-Such as spiders, insects or snakes.  
-  
-Fictional but realistic and potentially disturbing imagery. This includes violence in entertainment contexts (for example, in a movie, video game or comedy skit). This also includes horror-themed content (for example, special effects makeup, costumes, props). It also includes imagery meant to provoke a visceral reaction (for example, porous objects to trigger trypophobia, glue to simulate peeling skin or seeds to simulate ticks).
+such as spiders, insects, or trypophobia.
 
-Profanity
+Fictional but realistic and potentially disturbing imagery
 
-When it is not directed at an individual, not derogatory to a group, and not in a sexually explicit context. This applies to expletives commonly used to express general frustration (for example, “s\*\*\*” and “f\*\*\*”).
+This includes violence in entertainment contexts (for example, in a movie, video game or comedy skit). This also includes horror-themed content (for example, special effects makeup, costumes, props). It also includes imagery meant to provoke a visceral reaction (for example, porous objects to trigger trypophobia, glue to simulate peeling skin, or seeds to simulate ticks).
 
 Up Next:
 
@@ -659,7 +715,10 @@ We prohibit the following: 
     
 *   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organisations or extremist hate groups—as designated by credible, third-party experts—as well as recruitment for such organisations or violent extremist activities.
     
-*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender identity or reassignment, disability, veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators—or disparaging victims—of human tragedies (such as genocide, apartheid or slavery). Other prohibited hateful content include the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, gender assignment or reassignment, disability, or veteran status, immigration status, age or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators—or disparaging victims—of human tragedies (such as genocide, apartheid or slavery). Other prohibited hateful content include the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+    
+    *   These rules prohibit, for example, the use of racial, ethnic, misogynistic or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators—or disparaging victims—of human tragedies (such as genocide, apartheid or slavery). Other prohibited hateful content include the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+        
     
 
 ### 
@@ -705,9 +764,15 @@ Hateful Content, Terrorism and Violent Extremism
 
 ### 
 
-Not Eligible for Recommendation:
+Prohibited
 
-Any Hateful Content, Terrorism and Violent Extremism that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB) is prohibited anywhere on Snapchat. For content to be eligible for recommendation to a wider audience, it must not contain:
+Any Hateful Content, Terrorism, and Violent Extremism that is [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/hateful-content?lang=en-US) is prohibited anywhere on Snapchat.
+
+### 
+
+Not Eligible for Recommendation
+
+For content to be eligible for recommendation to a wider audience, it must not contain:
 
 Content from, or promoting terrorist organisations, violent extremists or hate groups
 
@@ -837,36 +902,42 @@ Harassment & Bullying
 
 ### 
 
-Not Eligible for Recommendation:
+Prohibited Content
 
-Any harassment or bullying that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-GB) is prohibited anywhere on Snapchat, including in private content or on a Snapchatter’s Story. For content to be eligible for recommendation to a wider audience, it must not contain:
+Any harassment or bullying that is [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/sexual-content?lang=en-US) is prohibited anywhere on Snapchat. 
+
+### 
+
+Not Eligible for Recommendation
+
+For content to be eligible for recommendation to a wider audience, it must not contain:
 
 Ambiguous attempts to embarrass or humiliate someone
 
-Our Community Guidelines prohibit all forms of harassment and bullying, but these Content Guidelines apply a stricter standard in ambiguous cases where the intent to embarrass is uncertain (for example, a Snap of a “roast” where it’s unclear if the subject wants to be mocked on camera). This extends to demeaning or belittling language. It also includes objectifying someone based on their appearance, even if they are a public figure.
+Our Community Guidelines prohibit all forms of harassment and bullying, but these Recommendation Eligibility Guidelines apply a stricter standard in ambiguous cases where the intent to embarrass is uncertain (for example, a Snap of a “roast” where it’s unclear if the subject wants to be mocked on camera). This extends to demeaning or belittling language. It also includes objectifying someone based on their appearance, even if they are a public figure.
 
-*   Note: criticising or satirising the _words or actions_ of prominent public adults or organisations would not be considered harassment or bullying.  
-    Sexual harassment of any kind (see “Sexual Content,” above) is prohibited anywhere on Snapchat.
+*   Note: criticizing or satirizing the _words or actions_ of prominent public adults or organizations would not be considered harassment or bullying.  
+    Sexual harassment of any kind (see “Sexual Content”) is prohibited anywhere on Snapchat.
     
 
 Invasions of privacy
 
-Our Community Guidelines detail the types of private information that should not be shared. These Content Guidelines additionally prohibit sharing images of children, including the children of public figures, unless:
+Our Community Guidelines detail the types of private information that should not be shared. These Recommendation Eligibility Guidelines additionally prohibit sharing sensitive personal information, covertly recording or exposing people in places where they reasonably expect privacy, or exposing where a child can be found. We also prohibit sharing images of children, including the children of public figures, unless:
 
-*   they are a central part of newsworthy stories
+*   they are a central part of newsworthy stories;
     
-*   they are accompanying their parent or guardian at a public event
+*   they are accompanying their parent or guardian at a public event; or
     
 *   the content was created with the consent from a parent or legal guardian.
     
 
 Wishing serious injury or death upon someone
 
-For example, “I hope my ex crashes their new car”.
+For example, “I hope my ex crashes their new car.”
 
 Profanity targeted at someone else
 
-Our Community Guidelines allow self-expression that uses profanity, but these Content Guidelines prohibit coarse language or profanity directed at an individual or group, even if it is bleeped or obscured, and even if it is not as severe as hate speech or sexual explicitness.
+Our Community Guidelines allow self-expression that uses profanity, but these Recommendation Eligibility Guidelines prohibit coarse language or profanity directed at an individual or group, even if it is bleeped or obscured, and even if it is not as severe as hate speech or sexual explicitness.
 
 Mean or dangerous pranks
 
@@ -918,26 +989,38 @@ We prohibit using Snapchat for illegal activity, including the following: 
     
 *   Weapons - Snap prohibits promoting the attempted purchase, sale, or manufacturing of weapons, ammunition or explosives, including fireworks. We also prohibit the depiction of reckless or irresponsible use of weapons. 
     
-*   Drugs and pharmaceuticals – Snap prohibits promoting, facilitating, or participating in criminal activity, and the buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, including prescription drugs and drug paraphernalia. Snap also prohibits depictions of illegal drugs (such as heroin, cocaine, methamphetamine, or fentanyl) or prescription drugs that are commonly abused (such as opioids, barbiturates, and amphetamines). 
+*   Drugs and pharmaceuticals – Snap prohibits buying, selling, exchanging or facilitating sales of illegal or regulated drugs. This includes regulated drugs such as marijuana, psilocybin, prescription drugs, non-FDA-approved substances like injectable peptides, substances used outside a permissible medical context and drug paraphernalia. It also includes illegal drugs, such as heroin, cocaine, methamphetamine or fentanyl, or prescription drugs that are commonly abused (such as opioids, barbiturates and amphetamines). For illegal or commonly abused prescription drugs, Snap also prohibits depiction or depicted use of such drugs. 
     
 
 Snap also prohibits the promotion of certain goods or activities that are often regulated, including the following: 
 
 *   Offering financial loans or other financial products or services. 
     
-*   Facilitating online gambling activities, including sharing apps, sites, or services that directly facilitate or provide direct access to gambling or gambling-adjacent apps, sites, or services that collect financial information or facilitate and/or monetise access to real-money sportsbooks or betting data.  
+*   Facilitating online gambling activities. This includes sharing apps, sites or services that directly facilitate or provide direct access to gambling or gambling-adjacent apps, sites or services that collect financial information or facilitate and/or monetise access to real-money sportsbooks or betting data.  
     
 *   Selling alcoholic beverages, tobacco, or vape products.   
     
-*   Promoting CBD or THC businesses. 
+*   Promoting CBD businesses.
+    
+*   Promoting or selling supplements that guarantee a medical outcome (such as a cure or treatment for illness or injury).
+    
+*   Promoting or selling regulated substances used for cosmetic procedures, such as botulinum toxin ('botox'), dermal fillers or similar injectables.
+    
+*   Selling or promoting weight loss products, including non-prescribed medicine containing GLP1s or semaglutide.
+    
+*   Soliciting or offering drivers for hire. 
     
 *   The sale or acquisition of endangered animal species, as defined by [CITES](https://checklist.cites.org/?lang=en-GB#/en).
     
+*   Using Snapchat to circumvent prison regulations, including filming inside prisons or documenting illicit activity (for example, drug use) inside prisons. This prohibition does not include documenting human rights abuses.
+    
+
+When it comes to minors, Snap prohibits depicted use of all drugs and tobacco products (including vapes) by minors.
 
 Businesses that wish to advertise regulated goods or activities must be approved as a business account and comply with our [advertising policies](https://www.snap.com/ad-policies?lang=en-GB#introduction). Please consult [this resource](https://forbusiness.snapchat.com/?lang=en-US) for guidance regarding appropriate commerce and advertising activities on Snapchat.
 
   
-Users must generally comply with their local laws while using Snapchat. However, we recognise that some laws may be specific to the user's jurisdiction and not broadly or globally applicable. In addition, some laws may be inconsistent with Snap's [commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB). When we receive requests to enforce against content or accounts that we determine do not violate our Community Guidelines, but allegedly violate local laws, we review those reports with that commitment to respecting human rights in mind. In some cases, we may reduce visibility of the account or content in question in a particular jurisdiction where content is locally prohibited, even if we do not remove the content. Please review our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-GB) for more information about review and enforcement of such reports.
+Note: Users must generally comply with their local laws while using Snapchat. However, we recognise that some laws may be specific to the user's jurisdiction and not broadly or globally applicable. In addition, some laws may be inconsistent with Snap's [commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB). When we receive requests to enforce against content or accounts that we determine do not violate our Community Guidelines, but allegedly violate local laws, we review those reports with that commitment to respecting human rights in mind. In some cases, we may reduce visibility of the account or content in question in a particular jurisdiction where content is locally prohibited, even if we do not remove the content. Please review our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-GB) for more information about review and enforcement of such reports.
 
 ### 
 
@@ -983,21 +1066,27 @@ Illegal or Regulated Activities
 
 ### 
 
-Not Eligible for Recommendation:
+Prohibited Content
 
-Illegal or regulated activities, products or services that are [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-GB) are prohibited anywhere on Snapchat. For content to be eligible for recommendation to a wider audience, it must not:
+Illegal or regulated activities, products or services that are [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/illegal-or-regulated-activities?lang=en-US) are prohibited anywhere on Snapchat.
+
+### 
+
+Not Eligible for Recommendation
+
+For content to be eligible for recommendation to a wider audience, it must not:
 
 Facilitate or promote illegal activity
 
-Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Content Guidelines.
+Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Recommendation Eligibility Guidelines.
 
-Depict tobacco, nicotine, or cannabis products or paraphernalia.
+Depict tobacco, nicotine, or cannabis products or paraphernalia
 
-While our Community Guidelines do not prohibit Snaps of adults using these products in places where they are legal, these Content Guidelines deny amplification to such content.
+While our Community Guidelines do not prohibit Snaps of adults using these products in places where they are legal, these Recommendation Eligibility Guidelines deny amplification to such content.
 
 Depict dangerous alcohol use
 
-While our Community Guidelines do not prohibit Snaps of adults consuming alcohol, these Content Guidelines deny amplification to content that shows excessive or dangerous alcohol use by an adult, such as rapidly consuming large quantities of alcohol, or operating heavy machinery while intoxicated or while alcohol is present, or drinking to the point of slurred speech or loss of consciousness.
+While our Community Guidelines do not prohibit Snaps of adults consuming alcohol, these Recommendation Eligibility Guidelines deny amplification to content that shows excessive or dangerous alcohol use by an adult, such as rapidly consuming large quantities of alcohol, or operating heavy machinery while intoxicated or while alcohol is present, or drinking to the point of slurred speech or loss of consciousness.
 
 Depict real modern lethal weapons
 
@@ -1033,21 +1122,25 @@ Our [Commercial Content Policy](https://snap.com/en-US/terms/commercial-content?
 
 ### 
 
-Sensitive:
+Sensitive
 
 The following is eligible for recommendation, but we may choose to limit its visibility to certain Snapchatters based on their age, location, preferences or other criteria.
 
-Moderate alcohol use by adults
+Alcohol use
 
 Moderate alcohol use by adults
 
-Weight loss programmes or techniques
+Weight loss programs, techniques, and transformation-focused content
 
 Fitness content is allowed for all audiences when it focuses on strength, conditioning or mobility instead of focusing on weight loss.
 
-Fictional references to illegal or regulated activities
+References to illegal or regulated activities in entertainment
 
 For example, jokes, skits, scenes from movies or video games.
+
+Gambling or high-risk markets
+
+Content promoting gambling or high risk financial products may be limited.
 
 Up Next:
 
@@ -1176,9 +1269,19 @@ False or Deceptive Information
 
 ### 
 
-Not Eligible for Recommendation:
+Prohibited Content
 
-Any harmful false information that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-GB) is prohibited anywhere on Snapchat. Creators and Partners are responsible for fact-checking their content. Creators and Partners are prohibited from publishing inaccurate or misleading content, whether the subject matter is serious (politics, health, tragic events) or more frivolous (entertainment gossip, hoaxes, etc.). For content to be eligible for recommendation to a wider audience, it must not contain:
+  
+
+Illegal or regulated activities, products or services that are [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/illegal-or-regulated-activities?lang=en-US) are prohibited anywhere on Snapchat.
+
+### 
+
+Not Eligible for Recommendation
+
+For content to be eligible for recommendation to a wider audience, it must not contain:
+
+  
 
 Political false or unsubstantiated information
 
@@ -1186,7 +1289,7 @@ Our Community Guidelines prohibit political false information, such as erroneous
 
 Health-related false or unsubstantiated information
 
-Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Content Guidelines.
+Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Recommendation Eligibility Guidelines.
 
 Denial of tragic events
 
@@ -1194,29 +1297,29 @@ Such content is prohibited in our Community Guidelines, which means it is also p
 
 Manipulated media that is false or misleading
 
-Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Content Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumours; these examples may not threaten civic integrity or public health, but they are misleading.
+Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Recommendation Eligibility Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumors; these examples may not threaten civic integrity or public health, but they are misleading.
 
 Deceptive impersonations of other people, brands or organisations
 
-Such content is prohibited in our Community Guidelines, and these Content Guidelines go further to prohibit ambiguous or unclear impersonation. Satire, parody and commentary are allowed, but the reality of content authorship must be reasonably clear to a viewer as young as 13.
+Such content is prohibited in our Community Guidelines, and these Recommendation Eligibility Guidelines go further to prohibit ambiguous or unclear impersonation. Satire, parody and commentary are allowed, but the reality of content authorship must be reasonably clear to a viewer as young as 13.
 
 Deceptive marketing tactics of any kind
 
-We prohibit links with excessive redirects or links that generate pop-ups or pop-unders or excessive ad load. You may not change the end destination or landing page of a link after you have displayed it in your content. Any links in your content must also comply with our Content Guidelines.
+We prohibit links with excessive redirects or links that generate pop-ups or pop-unders or excessive ad load. You may not change the end destination or landing page of a link after you have displayed it in your content. Any links in your content must also comply with our Recommendation Eligibility Guidelines.
 
 Engagement bait
 
-This means content where the intent is not to entertain or inform the viewer, but to manipulate them to boost the Snap’s views or interactions. Engagement bait often sets up an expectation that never pays off. Here is a non-exhaustive list of examples of prohibited engagement bait:
+Content designed solely to manipulate interactions—rather than entertain or inform—to artificially boost engagement.
 
 *   A “wait for it” caption, but “it” never happens.
     
-*   Challenges based on non-existent Snapchat features, such as, “Snapchat won’t let you like this 10 times”.
+*   Challenges based on nonexistent Snapchat features, such as, “Snapchat won’t let you like this 10 times.”
     
-*   Attempts to leverage likes or shares, such as, “If this gets 20,000 likes, I’ll shave my head”.
+*   Attempts to leverage likes or shares, such as, “If this gets 20,000 likes, I’ll shave my head.”
     
-*   Attempts to trick people into re-watching or pausing a Snap via long blocks of text, brief glimpses of something or “spot the difference” games.
+*   Attempts to trick people into re-watching or pausing a Snap via long blocks of text, brief glimpses of something, or “spot the difference” games.
     
-*   Misleading or sensationalised headlines or Tiles, such as unfounded casting rumours, presenting a celebrity’s years-old arrest as breaking news, editing an image of someone’s body or face to imply a radical transformation, etc.
+*   Misleading or sensationalized headlines or Tiles, such as unfounded casting rumors, presenting a celebrity’s years-old arrest as breaking news, editing an image of someone’s body or face to imply a radical transformation, etc.
     
 
 Up Next:
@@ -1244,18 +1347,10 @@ Commercial content is not eligible for recommendation if:
 *   **It violates any part of our** [**Commercial Content policy**](https://snap.com/en-US/terms/commercial-content?lang=en-GB)**.**
     
 *   **It does not disclose its commercial nature.** Snap offers a “paid partnership” disclosure tool and profile-level age and location targeting tools to help Creators, Partners and brands comply with 1) local laws, 2) our [Advertising Policies](https://snap.com/en-US/ad-policies?lang=en-GB) and 3) our [Commercial Content Policy](https://snap.com/en-US/terms/commercial-content?lang=en-GB). We require the use of these tools where applicable.
-    
-
-Up Next:
-
-Quality
-
-
------------
-
-[Read Next](https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/quality?lang=en-GB)
 
 - - -
+
+Recommendation Eligibility
 
 Recommendation Eligibility
 
@@ -1266,7 +1361,7 @@ Quality
 
 ### 
 
-Prohibited, we prohibit:
+Prohibited Content
 
 Polls that ask questions about sensitive personal information
 
@@ -1308,16 +1403,6 @@ Our content ranking algorithm rewards authentic, human-made content over wholly 
     
 *   Repeatedly posting the same content, whether it’s your own or someone else’s, with minimal creative differences
     
-
-### 
-
-Sensitive:
-
-The following is eligible for recommendation only on limited surfaces (such as Discover), but not in Spotlight or on the Map:
-
-Off-platform links
-
-(URLs, QR codes, etc.) to destinations that are _not_: other messaging services, other social media platforms or cloud storage servers.
 
 Up Next:
 
@@ -1373,9 +1458,9 @@ Any Snapchatter can find news and commentary on Discover or explore current even
 
 Up Next:
 
-Commercial Content Policy
+Sexual Content
 
 
------------------------------
+------------------
 
-[Read Next](https://snap.com/en-US/terms/commercial-content?lang=en-GB)
+[Read Next](https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/sexual-content?lang=en-GB)

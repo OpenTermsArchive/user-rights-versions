@@ -204,13 +204,13 @@ Learn more below about how to edit creatives for the following ad formats:
     
     [Read more](https://www.linkedin.com/help/lms/answer/a416939?trk=hc-articlePage-peopleAlsoViewed)
     
-*   Edit Direct Sponsored Content ads for Classic ad sets
+*   Edit Direct Sponsored Content ads for ad sets
     
     Direct Sponsored Content ads are Sponsored Content ad formats created directly in Campaign Manager. You can edit Direct Sponsored Content ads by editing your ad sets.
     
     You'll need ad account and LinkedIn Page permissions to edit Direct Sponsored Content.
     
-    To edit a Direct Sponsored Content ad for a Classic ad set:
+    To edit a Direct Sponsored Content ad for an ad set:
     
     1.  Go to your ad account in Campaign Manager.
         
@@ -225,7 +225,7 @@ Learn more below about how to edit creatives for the following ad formats:
     
     You can edit a message ad or conversation ad for your LinkedIn ad set.
     
-    To edit a message or conversation ad creative:
+    To edit a message or conversation ad:
     
     1.  Go to your ad account in Campaign Manager.
         
@@ -238,9 +238,9 @@ Learn more below about how to edit creatives for the following ad formats:
     
     [Read more](https://www.linkedin.com/help/lms/answer/a422321?trk=hc-articlePage-peopleAlsoViewed)
     
-*   Edit a Classic ad set
+*   Edit an ad set
     
-    After you’ve created a Classic ad set, you can edit the ad set’s settings such as the audience, placement, or ads in the ad set. You can’t change the objective or ad format after an ad set has been launched. 
+    After you’ve created an ad set, you can edit the ad set’s settings such as the audience, placement, or ads in the ad set. You can’t change the objective or ad format after an ad set has been launched. 
     
     To edit ad set details:
     
@@ -669,15 +669,14 @@ When selecting a language for your ad set: 
 
 **Related tasks**
 
-*   [Set up ad set targeting for Classic ad sets](https://www.linkedin.com/help/lms/answer/a420751)
+*   [Set up ad set targeting for ad sets](https://www.linkedin.com/help/lms/answer/a420751)
 
 **Learn more**
 
 *   [Supported LinkedIn profile languages](https://www.linkedin.com/help/lms/answer/a522175) 
 *   [Ad guidelines for ad review and approval](https://www.linkedin.com/help/lms/answer/a468679) 
-*   [LinkedIn Advertising Policies](https://www.linkedin.com/legal/ads-policy) 
-
-  
+*   [LinkedIn Advertising Policies](https://www.linkedin.com/legal/ads-policy)   
+    
 
 ### People also viewed
 
@@ -722,9 +721,9 @@ When selecting a language for your ad set: 
     
     [Read more](https://www.linkedin.com/help/lms/answer/a420369?trk=hc-articlePage-peopleAlsoViewed)
     
-*   Understanding ad set settings in Campaign Manager
+*   Understanding settings for ad sets in Campaign Manager
     
-    When you create a Classic ad set, you’ll choose from settings to determine who your ad is displayed to, where your ad is displayed, how much your ad set spends, and when your ad set runs. Optionally, you can also add tracking such as conversion tracking or URL tracking parameters.
+    When you create an ad set, you’ll choose from settings to determine who your ad is displayed to, where your ad is displayed, how much your ad set spends, and when your ad set runs. Optionally, you can also add tracking such as conversion tracking or URL tracking parameters.
     
     The first step when you select your ad set settings is to choose a marketing objective. An objective is the goal you’d like to achieve with your ad set. Ad sets are optimized for delivery to people most likely to take the action you want based on the objective you select. Each objective offers ad formats and bidding strategies that align with the goals of that objective.
     
@@ -732,7 +731,9 @@ When selecting a language for your ad set: 
     
 *   LinkedIn Ads and marketing solutions
     
-    LinkedIn ads allow organizations to connect with the world’s largest community of business professionals by serving ad content to our members through a variety of products and platforms.
+    LinkedIn ads help you reach the world's largest professional community across a range of formates and platforms.
+    
+    As a members-first platform, we aim to show ads that are relevant and useful to our members. To support this, you can define your target audience using specific professional attributes, helping you deliver content to the people most likely to engage with your message.
     
     We are a members-first organization and believe that when you see ads on LinkedIn, they should be useful and interesting to you. Our marketing solutions allow advertisers to select specific characteristics to help them reach their ideal audience. The ads you see on LinkedIn are then targeted to provide content relevant to you.
     

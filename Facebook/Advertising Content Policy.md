@@ -709,268 +709,6 @@ On this page
 
 - - -
 
-Privacy Violations and Personal Attributes
-==========================================
-
-### Policy details
-
-CHANGE LOG
-
-Privacy Violations and Personal Attributes
-
-Ads Must Comply with the Community Standard on [Privacy Violations](https://transparency.meta.com/policies/community-standards/privacy-violations/). Ads must not contain content that shares or asks for private information about users. In addition, ads must not contain content that asserts or implies personal attributes. This includes direct or indirect assertions or implications about a person’s race, ethnicity, religion, beliefs, age, sexual orientation or practices, gender identity, disability, physical or mental health (including medical conditions), vulnerable financial status, voting status, membership in a trade union, criminal record, or name.
-
-Overview
-
-At Meta, we want people in our community to have a positive experience when they see ads. Ads that make assumptions about people could be perceived as intrusive, unsettling or inaccurate. For this reason, we don't allow advertisers to run ads that assert or imply the personal attributes of their audience. Instead, ads should focus on the benefits of the product or service being advertised.
-
-Additional Guidelines for Ads
-
-In addition to the requirements in our [Community Standard on Privacy Violations](https://transparency.meta.com/policies/community-standards/privacy-violations/), which prohibits soliciting or sharing certain personal information, Ads can’t:
-
-*   Share or ask for personal attributes of a user or user’s family
-    
-*   Imply that the advertiser is aware of someone's personal attributes or the personal attributes of their family
-    
-*   Imply knowledge of personal or organizational financial information of a user or user’s family
-    
-*   Imply that the advertiser is aware of someone’s personally identifiable information, such as their name
-    
-*   Imply knowledge of Medical information of a user or user’s family
-    
-
-Ads can:
-
-*   Broadly reference personal attributes that aren’t listed above, such as calling someone “American” or “New Yorker” to reference where they live.
-    
-*   Contain passing reference to a personal attribute. This includes gender, age groups or age ranges.
-    
-*   Include names of celebrities or fictional characters.
-    
-*   Use “you/your” language without a personal attribute.
-    
-*   Make Public Service Announcements that inform the public about issues related to personal health attributes, as long as they don’t assert someone or their family has a health condition.
-    
-
-For more information, visit the [Business Help Center.](https://www.facebook.com/business/help/2557868957763449?id=434838534925385)
-
-GENERAL GUIDANCE
-
-* * *
-
-✅ Ad creative that describes or shows the promoted product or service
-
-✅ Using the words like "you/other” without referencing a personal attribute
-
-❌ Text referencing or alluding to personal attributes or characteristics of the targeted group or individual
-
-❌ Using the word "you/your/other" to reference a personal attribute
-
-RACE OR ETHNICITY
-
-* * *
-
-✅ “Meet Hispanic men online now!”
-
-✅ “Find black singles today.”
-
-❌ “Meet other black singles near you!”
-
-RELIGION
-
-* * *
-
-✅ “Date Christian singles!”
-
-✅ “Meet Hindu singles online now!”
-
-❌ "Are you Christian?”
-
-❌ “Meet other Buddhists”
-
-AGE
-
-* * *
-
-✅ "Meet seniors"
-
-✅ “A service for teens”
-
-✅ “Our new lotion and creams fight wrinkles like never before!”
-
-✅ “Age is just a number. Anyone can now learn coding with our C program.”
-
-✅ “Join us this summer at Nature Camp. Open to all teenagers.””
-
-❌ “Meet other seniors”
-
-❌ "Are you 18 years old?"
-
-❌ “Ready to upgrade your skin to look younger?"
-
-SEXUAL ORIENTATION OR PRACTICES
-
-* * *
-
-✅ “Atlantis Gay Cruises”
-
-✅ “Gay dating online now!”
-
-❌ “Are you gay?”
-
-❌ “Meet other lesbians now!”
-
-GENDER IDENTITY
-
-* * *
-
-✅ “Come meet transgender singles”
-
-✅ “A monthly meetup for trans persons and trans allies”
-
-❌ “Questioning your gender identity?”
-
-❌ “Meet other transgender singles at our monthly meetup”
-
-PHYSICAL OR MENTAL HEALTH AND DISABILITY
-
-* * *
-
-✅ “Bulimia counseling available”
-
-✅ “Depression counseling”
-
-✅ “New diabetes treatment available”
-
-❌ “Do you have diabetes?”l
-
-❌ “Depression getting you down? Get help now.”
-
-❌ “Don’t wait!! Get your spouse treated for cancer today with help from our medical experts.”
-
-VULNERABLE FINANCIAL STATUS
-
-* * *
-
-✅ “Don’t wait!! Get your spouse treated for cancer today with help from our medical experts.”
-
-❌ Are you bankrupt? Check out our services.”
-
-VOTING STATUS
-
-* * *
-
-✅ "Learn about voter registration"
-
-✅ “I voted”
-
-❌ "Your ballot hasn't been received yet"
-
-❌ “Records show that your voter registration is incomplete”
-
-MEMBERSHIP IN A TRADE UNION
-
-* * *
-
-✅ "Be a part of our Union today"
-
-❌ “Dislike your Union rep? Join our union today.”
-
-CRIMINAL RECORD
-
-* * *
-
-✅ "Services to clean up any previous offenses"
-
-❌ "Are you a convicted felon?"
-
-NAME OR IDENTIFICATION
-
-* * *
-
-✅ “We print customizable t-shirts and stickers with your name.”
-
-✅ “Have a driver's license?”
-
-❌ “Billy Taylor, get this t-shirt with your name in print!”
-
-❌ “It's a Billy thing” (if their name is Billy).
-
-❌ "What is your driver's license number?"
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-- - -
-
-Adult Nudity and Sexual Activity
-================================
-
-### Policy details
-
-CHANGE LOG
-
-Adult Nudity and Sexual Activity
-
-Ads Must Comply with the Community Standards on Adult Nudity and Sexual Activity. Ads must not contain imagery depicting nudity, sexual activity, depictions of people in explicit or sexually suggestive positions, or activities that are sexually suggestive.
-
-Overview
-
-This policy provides specific additional protections beyond what is prohibited in the Community Standard on [Adult Nudity and Sexual Activity](https://transparency.fb.com/en-gb/policies/community-standards/adult-nudity-sexual-activity).
-
-As a global company we take into account the wide array of people from different cultures and countries who see ads on our platform, and their varying cultural sensitivities around adult nudity and sexual activity. We understand that nudity can be shared for a variety of reasons and make certain exceptions in ads related to art and health.
-
-Additional Guidelines for Ads
-
-In addition to the requirements in our Community Standards, Ads can’t:
-
-*   Depict nudity even where otherwise permitted or restricted by the Community Standards or near nudity such as nudity covered only by digital overlay
-    
-*   Depict sexual activity even where otherwise permitted by the Community Standards
-    
-*   Depict gestures that signify genitalia, masturbation, oral sex, or sexual intercourse, or sexually suggestive activities such as simulated sex, sexual dancing or kissing with visible tongue
-    
-*   Depict logos, screenshots or video clips of known pornographic websites
-    
-*   Contain audio of sexual activity
-    
-
-For the following types of content, ads should target users above the age of 18:
-
-*   Imagery depicting female nipples in medical, health, or breastfeeding contexts
-    
-*   Photorealistic or digital imagery
-    
-    *   Focused on individual body parts such as groin, buttock or female breast(s)
-        
-    *   Depicting people in sexually suggestive poses, revealing clothing, or stripping
-        
-    *   Depicting people sexually touching or moving commonly sexualized body parts
-        
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-- - -
-
 Child Sexual Exploitation, Abuse, and Nudity
 ============================================
 
@@ -1033,6 +771,55 @@ Guidelines
 **In addition to the requirements in our Community Standards, Ads can’t:**
 
 *   Praise, Support, or Represent any designated individuals or organization in any tier of the Community Standard.
+    
+
+[Enforcement](https://transparency.meta.com/enforcement/)
+
+We have the same policies around the world, for everyone on Facebook.
+
+[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
+
+Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
+
+[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
+
+Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
+
+- - -
+
+Coordinating Harm and Promoting Crime
+=====================================
+
+### Policy details
+
+CHANGE LOG
+
+Coordinating Harm and Promoting Crime
+
+**Ads Must Comply with the Community Standard on Coordinating Harm and Promoting Crime**
+
+Ads must not facilitate, organize, promote or admit to certain criminal or harmful activities targeted at people, businesses, property or animals.
+
+Overview
+
+This policy provides specific additional protections beyond what is prohibited in the Community Standard on [Coordinating Harm and Promoting Crime.](https://transparency.fb.com/policies/community-standards/coordinating-harm-publicizing-crime/)
+
+Guidelines
+
+**In addition to the requirements in our Community Standards, Ads can’t:**
+
+*   Depict High-Risk Viral Challenge imagery even in an awareness-raising or condemning context
+    
+
+For the following types of content, ads should target users above the age of 18:
+
+*   Depicting, promoting, advocating for, or encouraging participation in a mid-risk viral challenge, except if shared in fictional or professional settings
+    
+
+*   Depicting dangerous forms of driving a motor vehicle that could lead to life-threatening injuries or death, except if shared in fictional or professional settings
+    
+
+*   Depicting, promoting, advocating for, or encouraging participation in a dangerous stunt, except if shared in fictional or professional settings
     
 
 [Enforcement](https://transparency.meta.com/enforcement/)
@@ -1301,6 +1088,35 @@ Ads can:
     
 *   Discuss the safety of vaccine trials, as long as they don’t equate the safety of a trial with the safety of a rolled-out vaccine.
     
+
+[Enforcement](https://transparency.meta.com/enforcement/)
+
+We have the same policies around the world, for everyone on Facebook.
+
+[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
+
+Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
+
+[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
+
+Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
+
+- - -
+
+Prohibited Commercial Practices
+===============================
+
+### Policy details
+
+CHANGE LOG
+
+Prohibited Commercial Practices
+
+Ads Must Comply with the Community Standard on [Prohibited Commercial Practices](https://transparency.meta.com/policies/community-standards/prohibited-commercial-practices/).
+
+Overview
+
+We aim to protect users and businesses from being deceived out of their money, property or personal information. Our terms and policies prohibit content and behavior that employ prohibited commercial practices - such as deceptive pricing, unauthorized endorsements, and guaranteed investment returns - to mislead users and businesses for commercial or financial gain. We allow people to raise awareness of, educate others about, and condemn scams and other prohibited commercial practices, provided they do not reveal sensitive information or promote them.
 
 [Enforcement](https://transparency.meta.com/enforcement/)
 
@@ -2768,6 +2584,31 @@ Outside experts, academics, NGOs and policymakers help inform the Facebook Commu
 
 - - -
 
+Prohibited Documents and Financial Services
+===========================================
+
+### Policy details
+
+CHANGE LOG
+
+Prohibited Documents and Financial Services
+
+Ads must comply with the Community Standards on Prohibited Documents and Financial Services (under [Restricted Goods and Services](https://transparency.meta.com/policies/community-standards/restricted-goods-services/)) and must not promote content that facilitates or offers the solicitation, creation, sale, purchase, or trade of fake, forged, or stolen documents, goods, or services; devices or subscriptions that are manipulated or used in an unauthorized manner; personally identifiable or other personal information; products that enable cheating; money muling; or money laundering.
+
+[Enforcement](https://transparency.meta.com/enforcement/)
+
+We have the same policies around the world, for everyone on Facebook.
+
+[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
+
+Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
+
+[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
+
+Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
+
+- - -
+
 Adult Nudity and Sexual Activity
 ================================
 
@@ -3642,6 +3483,46 @@ Requests for Removal of Business Assets must comply with the Community Standard 
 Overview
 
 Meta responds to requests for account removal in accordance with applicable law and our Terms of Service. Each and every request we receive is carefully reviewed and we may reject or require additional clarification for certain requests..
+
+[Enforcement](https://transparency.meta.com/enforcement/)
+
+We have the same policies around the world, for everyone on Facebook.
+
+[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
+
+Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
+
+[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
+
+Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
+
+- - -
+
+Community Standards
+===================
+
+### Policy details
+
+CHANGE LOG
+
+Community Standards
+
+Ads must not violate our [Community Standards](https://www.facebook.com/communitystandards).
+
+Overview
+
+The Community Standards serve as a baseline for our ads policies. Content must comply with the Community Standards and Instagram Community Guidelines in order to be eligible to be run in an ad.
+
+Guidelines
+
+Ads can't:
+
+*   Violate our [Community Standards](https://transparency.fb.com/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F)
+    
+*   Contain content that has been marked as disturbing or sensitive per our Community Standards
+    
+*   Violate our [Instagram Community Guidelines](https://help.instagram.com/477434105621119), if the ads are running on Instagram
+    
 
 [Enforcement](https://transparency.meta.com/enforcement/)
 

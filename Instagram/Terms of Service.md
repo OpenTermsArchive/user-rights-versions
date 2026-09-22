@@ -161,17 +161,6 @@ We may change our Service and policies, and we may need to make changes to these
 
 Effective Date: 1 January 2025
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
-Get a call from Meta AI assistant
-
-Get help from Meta AI assistant by phone
-
 - - -
 
 **Our AI Terms are different depending on the region that you live in**

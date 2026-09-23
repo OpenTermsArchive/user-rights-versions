@@ -10033,7 +10033,7 @@ Ads for Prediction Markets may be allowed if the following requirements are met:
 Politics, Governments, and Elections
 ====================================
 
-Last updated: July 2026
+Last updated: Juli 2026
 
 Principle
 ---------

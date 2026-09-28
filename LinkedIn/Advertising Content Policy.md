@@ -166,7 +166,6 @@ Learn more below about how to edit creatives for the following ad formats:
     *   Single job ad
     *   Event ads
     *   Document ads
-    *   Click-to-message ads
     *   Article and newsletter ads
     
 *   [Dynamic Ads](https://www.linkedin.com/help/lms/answer/99159)

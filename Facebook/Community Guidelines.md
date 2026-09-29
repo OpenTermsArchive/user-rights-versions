@@ -110,8 +110,6 @@ Violence and Incitement
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We aim to prevent potential offline violence that may be related to content on our platforms. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious and casual ways, we remove language that incites or facilitates violence and credible threats to public or personal safety. This includes violent speech targeting a person or group of people on the basis of their protected characteristic(s) or immigration status. We remove content, disable accounts and work with law enforcement when we believe there is a genuine risk of physical harm or direct threats to public safety. We also try to consider the language and context in order to distinguish casual or awareness-raising statements from content that constitutes a credible threat to public or personal safety. In determining whether a threat is credible, we may also consider additional information such as a person's public visibility and the risks to their physical safety.
@@ -218,8 +216,6 @@ Dangerous Organizations and Individuals
 =======================================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -441,8 +437,6 @@ Coordinating Harm and Promoting Crime
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 In an effort to prevent and disrupt offline harm and copycat behavior, we prohibit people from facilitating, organizing, promoting or admitting to certain criminal or harmful activities targeted at people, businesses, property or animals. We allow people to debate and advocate for the legality of criminal and harmful activities, as well as draw attention to harmful or criminal activity that they may witness or experience as long as they do not advocate for or coordinate harm.
@@ -597,8 +591,6 @@ Restricted Goods and Services
 =============================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -1181,8 +1173,6 @@ Prohibited Commercial Practices
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We aim to protect users and businesses from being deceived out of their money, property, or personal information. To do so, we prohibit content and behavior that employ prohibited commercial practices. This includes false job or government program offers, celebrity and brand bait, investment schemes (including guaranteed returns), debt relief and credit repair schemes, get-rich-quick and giveaway schemes, romance schemes, and charity schemes.
@@ -1373,8 +1363,6 @@ Suicide, Self-Injury, and Eating Disorders
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide, self-injury and eating disorders to help inform our policies and enforcement, and we work with organizations around the world to provide assistance to people in distress.
@@ -1451,8 +1439,6 @@ Child Sexual Exploitation, Abuse, and Nudity
 ============================================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -1619,8 +1605,6 @@ Adult Sexual Exploitation
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We recognize the importance of our services as a place to discuss and draw attention to sexual violence and exploitation. We believe this is an important part of building common understanding and community. In an effort to create space for this conversation and promote a safe environment, we allow survivors to share their experiences, but we remove content that depicts, threatens or promotes sexual violence, sexual assault or sexual exploitation. We also remove content that displays, advocates for or coordinates sexual acts with non-consenting parties to avoid facilitating non-consensual sexual acts. Further, if we become aware of any content that threatens or advocates rape, we may disable the posting account and work with law enforcement, in addition to removing the content.
@@ -1726,8 +1710,6 @@ Bullying and Harassment
 =======================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -1944,8 +1926,6 @@ Human Exploitation
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 In an effort to disrupt and prevent harm, we remove content that facilitates or coordinates the exploitation of humans, including human trafficking. We define human trafficking as the business of depriving someone of liberty for profit. It is the exploitation of humans in order to force them to engage in commercial sex, labor, or other activities against their will. It relies on deception, force, and coercion, and degrades humans by depriving them of their freedom while economically or materially benefiting others.
@@ -2001,8 +1981,6 @@ Privacy Violations
 ==================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -2177,8 +2155,6 @@ Hateful Conduct
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We believe that people use their voice and connect more freely when they don’t feel attacked on the basis of who they are. That is why we don’t allow hateful conduct on Facebook, Instagram, or Threads.
@@ -2295,8 +2271,6 @@ Violent and Graphic Content
 ===========================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -2474,8 +2448,6 @@ Adult Nudity and Sexual Activity
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We restrict the display of nudity or sexual activity because some people in our community may be sensitive to this type of content, particularly due to cultural background or age.
@@ -2632,8 +2604,6 @@ Adult Sexual Solicitation and Sexually Explicit Language
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 As noted in the [Adult Sexual Exploitation](https://www.facebook.com/communitystandards/sexual_exploitation_adults) policy, people use our services to discuss and draw attention to sexual violence and exploitation. We recognize the importance of and allow for this discussion. We also allow for the discussion of sex worker rights advocacy and sex work regulation. However, we draw the line, however, when content facilitates sexual encounters or commercial sexual services between adults or when content asks for or offers pornographic or sexual content. We do this to avoid facilitating transactions that may involve trafficking, coercion and non-consensual sexual acts.
@@ -2709,8 +2679,6 @@ Account Integrity
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 In order to maintain a safe environment and empower free expression, we restrict or remove accounts that are harmful to the community. We have built a combination of automated and manual systems to restrict and remove accounts that are used to egregiously or persistently violate our policies across any of our products.
@@ -2780,8 +2748,6 @@ Authentic Identity Representation
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. We want to allow for the many ways that identity is expressed across our global community, while preventing impersonation and identity misrepresentation. To maintain a safe and open environment where people can trust one another and build community, we do not allow for the creation of accounts or profiles that are created or used to deceive others.
@@ -2838,8 +2804,6 @@ Spam
 ====
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -2906,8 +2870,6 @@ Cybersecurity
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 We recognize that the safety of our users includes the security of their personal information, accounts, profiles and other Meta entities they may manage, as well as our products and services more broadly. Attempts to gather sensitive personal information or engage in unauthorized access by deceptive or invasive methods are harmful to the authentic, open and safe atmosphere that we want to foster.
@@ -2953,8 +2915,6 @@ Inauthentic Behavior
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 Inauthentic Behavior refers to a variety of complex forms of deception, performed by a network of inauthentic assets controlled by the same individual or individuals, with the goal of deceiving Meta or our community or to evade enforcement under the Community Standards.
@@ -2996,8 +2956,6 @@ Misinformation
 ==============
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -3099,8 +3057,6 @@ Memorialization
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 When someone passes away, friends and family can request that we memorialize their accounts. Once memorialized, the word "Remembering" appears above the name on the person's profile so that the account is now a memorial site. Memorializing accounts helps create a space for remembering loved ones and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account without changes after they pass away.
@@ -3145,8 +3101,6 @@ Third-Party Intellectual Property Infringement
 ==============================================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -3193,8 +3147,6 @@ Using Meta Intellectual Property and Licenses
 =============================================
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 
@@ -3259,8 +3211,6 @@ Additional Protection of Minors
 
 ### Policy details
 
-CHANGE LOG
-
 We comply with:
 
 *   Requests for removal of an underage account.
@@ -3281,8 +3231,6 @@ Locally Illegal Content, Products, or Services
 
 ### Policy details
 
-CHANGE LOG
-
 Policy Rationale
 
 When regulators or government entities believe content on our services goes against local law, they may ask us to restrict the content. Non-government entities and members of the public may also send reports alleging content is unlawful. We may also receive court orders.
@@ -3301,8 +3249,6 @@ User Requests
 =============
 
 ### Policy details
-
-CHANGE LOG
 
 Policy Rationale
 

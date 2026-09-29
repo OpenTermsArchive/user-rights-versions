@@ -714,8 +714,6 @@ Child Sexual Exploitation, Abuse, and Nudity
 
 ### Policy details
 
-CHANGE LOG
-
 Child Sexual Exploitation, Abuse, and Nudity
 
 **Ads Must Comply with the Community Standard on Child Sexual Exploitation, Abuse, and Nudity.**
@@ -754,8 +752,6 @@ Dangerous Organizations and Individuals
 
 ### Policy details
 
-CHANGE LOG
-
 Dangerous Organizations and Individuals
 
 **Ads Must Comply with the Community Standard on Dangerous Organizations and Individuals**
@@ -791,8 +787,6 @@ Coordinating Harm and Promoting Crime
 =====================================
 
 ### Policy details
-
-CHANGE LOG
 
 Coordinating Harm and Promoting Crime
 
@@ -841,8 +835,6 @@ Discriminatory Practices
 
 ### Policy details
 
-CHANGE LOG
-
 Discriminatory Practices
 
 Ads must not discriminate or encourage discrimination against people based on personal attributes such as race, ethnicity, color, national origin, religion, age, sex, sexual orientation, gender identity, family status, disability, medical or genetic condition.
@@ -881,8 +873,6 @@ Hateful Conduct
 ===============
 
 ### Policy details
-
-CHANGE LOG
 
 Hateful Conduct
 
@@ -927,8 +917,6 @@ Human Exploitation
 
 ### Policy details
 
-CHANGE LOG
-
 Human Exploitation
 
 **Ads Must Comply with the Community Standard on Human Exploitation.**
@@ -965,8 +953,6 @@ Locally Illegal Content, Products, or Services
 
 ### Policy details
 
-CHANGE LOG
-
 Locally Illegal Content, Products or Services
 
 Ads that are reported by a government, a court order, non-governmental organizations or members of the public as violating local law may be removed.
@@ -1002,8 +988,6 @@ Misinformation
 
 ### Policy details
 
-CHANGE LOG
-
 Misinformation
 
 Ads Must Comply with the Community Standard on [Misinformation](https://transparency.fb.com/policies/community-standards/misinformation/).
@@ -1038,8 +1022,6 @@ Vaccine Discouragement
 ======================
 
 ### Policy details
-
-CHANGE LOG
 
 Vaccine Discouragement
 
@@ -1108,8 +1090,6 @@ Prohibited Commercial Practices
 
 ### Policy details
 
-CHANGE LOG
-
 Prohibited Commercial Practices
 
 Ads Must Comply with the Community Standard on [Prohibited Commercial Practices](https://transparency.meta.com/policies/community-standards/prohibited-commercial-practices/).
@@ -1136,8 +1116,6 @@ Alcohol
 =======
 
 ### Policy details
-
-CHANGE LOG
 
 Alcohol
 
@@ -1285,8 +1263,6 @@ Commercial Exploitation of Crises and Controversial Events
 
 ### Policy details
 
-CHANGE LOG
-
 Commercial Exploitation of Crises and Controversial Events
 
 Ads must not contain content that exploits crises or controversial events for commercial purposes.
@@ -1338,8 +1314,6 @@ Dating Ads
 ==========
 
 ### Policy details
-
-CHANGE LOG
 
 Dating Ads
 
@@ -1408,8 +1382,6 @@ Hazardous Goods and Materials
 
 ### Policy details
 
-CHANGE LOG
-
 Hazardous Goods and Materials
 
 Ads must not promote the sale of hazardous goods and materials. Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to our Advertising Standards.
@@ -1436,8 +1408,6 @@ Health and Wellness
 ===================
 
 ### Policy details
-
-CHANGE LOG
 
 Health and Wellness
 
@@ -1632,8 +1602,6 @@ Historical Artifacts
 
 ### Policy details
 
-CHANGE LOG
-
 Historical Artifacts
 
 Ads must not promote the sale of historic artifacts. Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to our Advertising Standards.
@@ -1661,8 +1629,6 @@ Sale of Human Body Parts and Bodily Fluids
 
 ### Policy details
 
-CHANGE LOG
-
 Sale of Human Body Parts and Bodily Fluids
 
 Ads must not promote the sale of human body parts or fluids. Advertisers must follow our [Community Standards](https://www.facebook.com/communitystandards/), in addition to our Advertising Standards.
@@ -1689,8 +1655,6 @@ Sale of Non-Endangered Animals and Endangered Species
 =====================================================
 
 ### Policy details
-
-CHANGE LOG
 
 Sale of Non-Endangered Animals and Endangered Species
 
@@ -1748,8 +1712,6 @@ Tobacco and Related Product
 ===========================
 
 ### Policy details
-
-CHANGE LOG
 
 Tobacco and Related Products
 
@@ -1837,8 +1799,6 @@ Weapons, Ammunition or Explosives
 =================================
 
 ### Policy details
-
-CHANGE LOG
 
 Weapons, Ammunition or Explosives
 
@@ -1936,8 +1896,6 @@ Drugs and Pharmaceuticals
 =========================
 
 ### Policy details
-
-CHANGE LOG
 
 Drugs and Pharmaceuticals
 
@@ -2140,8 +2098,6 @@ Drug and Alcohol Addiction Treatment
 
 ### Policy details
 
-CHANGE LOG
-
 Drug and Alcohol Addiction Treatment
 
 Meta requires advertisers who wish to run addiction treatment ads targeting people in the United States to be certified with LegitScript and apply to Meta for permission to advertise.
@@ -2199,8 +2155,6 @@ Financial and Insurance Products and Services
 =============================================
 
 ### Policy details
-
-CHANGE LOG
 
 Financial and Insurance Products and Services
 
@@ -2307,8 +2261,6 @@ Cryptocurrency Products and Services
 ====================================
 
 ### Policy details
-
-CHANGE LOG
 
 Cryptocurrency Products and Services
 
@@ -2459,8 +2411,6 @@ Online Gambling and Games
 
 ### Policy details
 
-CHANGE LOG
-
 Online Gambling and Games
 
 Meta defines online gambling and games as any product or service where anything of monetary value is included as part of a method of entry and prize. Ads that promote online gambling and gaming are only allowed once an ad account has obtained authorization. Authorized advertisers must follow all applicable laws and include targeting criteria consistent with Meta’s targeting requirements. At a minimum, ads may not target to people under 18 years of age nor unsupported gambling markets (see complete list of unsupported markets below). Learn more in our [Business Help Center](https://www.facebook.com/business/help/345214789920228?id=434838534925385).
@@ -2589,8 +2539,6 @@ Prohibited Documents and Financial Services
 
 ### Policy details
 
-CHANGE LOG
-
 Prohibited Documents and Financial Services
 
 Ads must comply with the Community Standards on Prohibited Documents and Financial Services (under [Restricted Goods and Services](https://transparency.meta.com/policies/community-standards/restricted-goods-services/)) and must not promote content that facilitates or offers the solicitation, creation, sale, purchase, or trade of fake, forged, or stolen documents, goods, or services; devices or subscriptions that are manipulated or used in an unauthorized manner; personally identifiable or other personal information; products that enable cheating; money muling; or money laundering.
@@ -2613,8 +2561,6 @@ Adult Nudity and Sexual Activity
 ================================
 
 ### Policy details
-
-CHANGE LOG
 
 Adult Nudity and Sexual Activity
 
@@ -2673,8 +2619,6 @@ Adult Sexual Exploitation
 
 ### Policy details
 
-CHANGE LOG
-
 Adult Sexual Exploitation
 
 Ads Must Comply with the Community Standard on Adult Sexual Exploitation. Ads must not display, advocate for, or coordinate sexual acts with non-consenting parties to avoid facilitating non-consensual sexual acts.
@@ -2708,8 +2652,6 @@ Adult Sexual Solicitation and Sexually Explicit Language
 ========================================================
 
 ### Policy details
-
-CHANGE LOG
 
 Adult Sexual Solicitation and Sexually Explicit Language
 
@@ -2761,8 +2703,6 @@ Bullying and Harassment
 
 ### Policy details
 
-CHANGE LOG
-
 Bullying and Harassment
 
 **Ads Must Comply with the Community Standards on Bullying and Harassment**
@@ -2787,8 +2727,6 @@ Profanity
 =========
 
 ### Policy details
-
-CHANGE LOG
 
 Profane & Sexual Language
 
@@ -2881,8 +2819,6 @@ Privacy Violations and Personal Attributes
 ==========================================
 
 ### Policy details
-
-CHANGE LOG
 
 Privacy Violations and Personal Attributes
 
@@ -3085,8 +3021,6 @@ Violent and Graphic Content
 
 ### Policy details
 
-CHANGE LOG
-
 Violent and Graphic Content
 
 **Ads Must Comply with the Community Standards on Violent and Graphic Content**
@@ -3138,8 +3072,6 @@ Suicide, Self-Injury, and Eating Disorders
 ==========================================
 
 ### Policy details
-
-CHANGE LOG
 
 Suicide, Self-Injury, and Eating Disorders
 
@@ -3194,8 +3126,6 @@ Third-Party Intellectual Property Infringement
 
 ### Policy details
 
-CHANGE LOG
-
 Third-Party Intellectual Property Infringement
 
 Ads may not contain content that violates the intellectual property rights of any third party, including [copyright](https://www.facebook.com/help/1020633957973118/), [trademark](https://www.facebook.com/help/507663689427413/) or other legal rights. This includes, but is not limited to, the promotion or sale of counterfeit goods, such as products that copy the trademark (name or logo) and/or distinctive features of another company’s products to imitate a genuine product.
@@ -3231,8 +3161,6 @@ Using Meta Intellectual Property and Licenses
 
 ### Policy details
 
-CHANGE LOG
-
 Using Meta Intellectual Property and Licenses
 
 Ads Must Comply with the Community Standard on Using Meta Intellectual Property and Licenses.
@@ -3261,8 +3189,6 @@ Ads about Social Issues, Elections or Politics
 ==============================================
 
 ### Policy details
-
-CHANGE LOG
 
 Ads about Social Issues, Elections or Politics
 
@@ -3347,8 +3273,6 @@ Account Integrity
 
 ### Policy details
 
-CHANGE LOG
-
 Account Integrity
 
 Business assets must comply with the Community Standard on [Account Integrity](https://transparency.meta.com/policies/community-standards/account-integrity/).
@@ -3376,8 +3300,6 @@ Inauthentic Behavior
 
 ### Policy details
 
-CHANGE LOG
-
 Inauthentic Behavior
 
 Ads must comply with the Community Standard on [Inauthentic Behavior](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/).
@@ -3404,8 +3326,6 @@ Cybersecurity
 =============
 
 ### Policy details
-
-CHANGE LOG
 
 Cybersecurity
 
@@ -3443,8 +3363,6 @@ Spam
 
 ### Policy details
 
-CHANGE LOG
-
 Spam
 
 Ads must comply with the Community Standard on [Spam](https://transparency.meta.com/policies/community-standards/spam/).
@@ -3474,8 +3392,6 @@ User Requests
 
 ### Policy details
 
-CHANGE LOG
-
 User Requests
 
 Requests for Removal of Business Assets must comply with the Community Standard on [User Requests](https://transparency.meta.com/policies/community-standards/user-requests/).
@@ -3502,8 +3418,6 @@ Community Standards
 ===================
 
 ### Policy details
-
-CHANGE LOG
 
 Community Standards
 

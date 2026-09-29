@@ -224,15 +224,11 @@ Learn more below about how to edit creatives for the following ad formats:
     
     You can edit a message ad or conversation ad for your LinkedIn ad set.
     
-    To edit a message or conversation ad:
+    To edit a message or conversation ad, review the [message ad specifications](https://www.linkedin.com/help/lms/answer/a425533) or [conversation ad specifications](https://www.linkedin.com/help/lms/answer/a426057) and follow the below steps:
     
     1.  Go to your ad account in Campaign Manager.
         
     2.  Click **Advertise** on the left menu.  
-        
-    3.  On the **Campaigns** and **Ad sets** tabs, select the required campaign and ad set.
-        
-    4.  Move your cursor over the ad name and click **Edit**.
         
     
     [Read more](https://www.linkedin.com/help/lms/answer/a422321?trk=hc-articlePage-peopleAlsoViewed)

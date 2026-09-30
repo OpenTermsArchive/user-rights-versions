@@ -4760,7 +4760,7 @@ Examples of what is not allowed:
 Gambling and Games
 ==================
 
-Last updated: August 2026
+Last updated: September 2026
 
 Principle
 ---------
@@ -5307,22 +5307,10 @@ Brazil
 
   
 
-**Online gambling**
+**Online gambling is not allowed**
 
-*   Online casinos are allowed if the following requirement is met:
+*   Online casinos, sports betting, horse racing, and all other forms of [online gambling](https://ads.tiktok.com/resources/help/article/tiktok-ads-policy-gambling-and-games?#anchor-1-0:~:text=Online%20gambling%3A%20Online,on%20the%20results.) are not allowed.
     
-    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
-        
-*   Sports betting is allowed if the following requirements are met:
-    
-    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
-        
-*   Examples of what is not allowed:
-    
-    *   Horse racing
-        
-    *   All other forms of [online gambling ads](https://ads.tiktok.com/help/article/tiktok-ads-policy-gambling-and-games?aadvid=72391499277#anchor-1-0)
-        
 
   
 
@@ -5370,9 +5358,9 @@ Brazil
 
   
 
-**Gambling Information is allowed if the following requirements are met:**
+**Gambling Information is not allowed:**
 
-*   Work with a TikTok Sales Representative to determine eligibility and obtain permission to run ads.
+*   Any and all forms of gambling information services are not allowed.
     
 
   

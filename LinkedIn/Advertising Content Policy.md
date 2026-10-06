@@ -203,7 +203,8 @@ Examples of content that violates our policies:
 *   Images that depict before-and-after weight loss, beauty results, or magnify undesirable physical features. For example, wrinkles, stretch marks, hair loss.
     
 
-### Important to know
+Important to know
+-----------------
 
 In special circumstances, LinkedIn might determine that a previously allowed ad is no longer appropriate as we update our policies. LinkedIn reserves the right to restrict advertising related to any health matter.
 
@@ -220,7 +221,8 @@ Political advertising is prohibited on LinkedIn globally. For ads targeted to th
 
 Advertisers targeting the EU are responsible for identifying whether their ads qualify as “political advertising” under the TTPA and for accurately declaring whether an ad set is political advertising during the ad set setup process. If you’re uncertain whether your ad constitutes political advertising under EU law, we recommend consulting your legal advisor.   
 
-### Important to know
+Important to know
+-----------------
 
 **Your requirements as an advertiser:  
 **
@@ -420,7 +422,8 @@ Ads promoting financial services or products to audiences in the United Kingdom 
 
 Advertisers must obtain pre-approval from LinkedIn before ads for financial services targeting UK audiences will be served. If you haven’t obtained pre-approval from LinkedIn to advertise financial services in the UK, your ad will be rejected.
 
-### Important to know
+Important to know
+-----------------
 
 Pre-approval from LinkedIn isn’t required for financial service ads targeted outside of the UK.
 
@@ -435,7 +438,8 @@ Before you proceed with the pre-approval process, you'll need the following:
 *   A firm email address that matches the domain registered with the UK FCA
     
 
-### Important to know
+Important to know
+-----------------
 
 You can only submit up to five pre-approval requests per day.
 
@@ -462,7 +466,8 @@ You can only submit up to five pre-approval requests per day.
 10.  Click **Done**. The ad accounts are now approved to advertise financial services and products to audiences in the UK. 
      
 
-### Here's a tip
+Here's a tip
+------------
 
 If your ad is rejected, we’ll send an email detailing the reason it wasn’t approved to ad account users with ad review notification permissions. If you believe your ad was incorrectly rejected because it isn’t about financial products or services or it doesn’t target audiences in the UK, you can submit an appeal via the rejection notice. 
 
@@ -578,7 +583,8 @@ Supported languages for LinkedIn Ad sets are:
 *   Vietnamese   
     
 
-### Important to know
+Important to know
+-----------------
 
 The Chinese language is not supported for LinkedIn Ad sets.
 

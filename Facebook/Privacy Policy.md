@@ -1,22 +1,6 @@
 Privacy Policy
 ==============
 
-Updated on 23 July 2026
-
-We've updated our Privacy Policy with details about agentic AI capabilities and how we personalise your AI experiences.
-
-[View details](#banner.subpage.agentic-ai-2026-h1-row)
-
-Updated on 23 July 2026
------------------------
-
-Our Privacy Policy now includes more details about AI integrations, how we personalise your AI experiences and new agentic AI capabilities (for example, AI tools that you can direct to take actions for you, such as booking a restaurant or sending an email). Info shared with AI at Meta features is used to improve AI at Meta unless you have objected. [Learn more.](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3Abanner.subpage.agentic-ai-2026-h1-eu)
-
-Updated on 23 July 2026
------------------------
-
-Our Privacy Policy now includes more details about AI integrations, how we personalise your AI experiences and new agentic AI capabilities (for example, AI tools that you can direct to take actions for you, such as booking a restaurant or sending an email).
-
 Explore the policy
 ------------------
 

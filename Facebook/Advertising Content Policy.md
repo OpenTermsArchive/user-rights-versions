@@ -3455,13 +3455,13 @@ Outside experts, academics, NGOs and policymakers help inform the Facebook Commu
 About advertising restrictions
 ==============================
 
-Refer to the [Meta Transparency Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2F) for comprehensive policy guidance.
+Refer to the [Meta Transparency Center](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2F) for comprehensive policy guidance.
 
-At Meta, we have policies and standards that we ask our advertisers to follow in order to advertise on our platforms. When advertisers go against these policies and standards, or if Meta observes any unusual or high-risk activity, we may place restrictions on businesses by limiting their ability to advertise.
+At Meta, we have policies and standards that we ask our advertisers to follow in order to advertise on our platforms. When advertisers go against these policies and standards or if Meta observes any unusual or high-risk activity, we may place restrictions on businesses by limiting their ability to advertise.
 
 Advertising restrictions may include:
 
-*   Limits on the amount that an advertiser can spend per day or a lower [payment threshold](https://www.facebook.com/business/help/776240779095515)
+*   Limits on the amount an advertiser can spend per day or a lower [payment threshold](https://www.facebook.com/business/help/776240779095515)
     
 *   Loss of access to some payment features
     
@@ -3472,37 +3472,37 @@ Advertising restrictions may include:
 
 We may apply advertising restrictions in the following scenarios:
 
-*   An advertiser doesn't follow our [Community Standards](https://www.facebook.com/communitystandards/), [Meta Advertising Standards](https://www.facebook.com/policies/ads/), [Commerce Policies](https://www.facebook.com/policies_center/commerce) or [other policies and terms](https://www.facebook.com/policies_center/).
+*   An advertiser doesn’t follow our [Community Standards](https://www.facebook.com/communitystandards/), [Meta Advertising Standards](https://www.facebook.com/policies/ads/), [Commerce Policies](https://www.facebook.com/policies_center/commerce) or [other policies and terms](https://www.facebook.com/policies_center/).
     
-*   We suspect that an advertiser's business portfolio or business assets have been compromised or hacked. Learn more about how to [secure a hacked account](https://www.facebook.com/business/help/583427765324458).
+*   We suspect an advertiser’s business portfolio or business assets have been compromised or hacked. Learn more about how to [secure a hacked account](https://www.facebook.com/business/help/583427765324458).
     
-*   An advertiser doesn't meet our [two-factor authentication requirements](https://www.facebook.com/business/help/865384580786591) for account security.
+*   An advertiser doesn’t meet our [two-factor authentication requirements](https://www.facebook.com/business/help/865384580786591) for account security.
     
-*   Meta may temporarily apply limits on how much an advertiser can spend each day, how often they are billed or which payment features they can access until we can make sure that they're consistently following our policies.
+*   Meta may temporarily apply limits on how much an advertiser can spend each day, how often they are billed or which payment features they can access until we can be sure they’re consistently following our policies.
     
 *   Meta notices unusual payment or account activity, high rates of [failed payments](https://www.facebook.com/business/help/268196136699959) or disputed payments.
     
 
-You can go to [Meta Business Support Home](https://www.facebook.com/accountquality) to resolve issues that you might encounter around compliance with our policies and standards or unusual activities in your account.
+You can go to [Meta Business Support Home](https://www.facebook.com/accountquality) to resolve issues you might encounter around compliance with our policies and standards or unusual activities in your account.
 
 Watch the video below to learn more:
 
 Advertising restrictions for policy violations
 ----------------------------------------------
 
-If we find that an advertiser doesn't follow the Advertising Standards or other policies and terms, they may face advertising restrictions. Advertising restrictions may be applied to the following:
+If we find that an advertiser doesn’t follow the Advertising Standards or other policies and terms, they may face advertising restrictions. Advertising restrictions may be applied on the following:
 
-*   **Business portfolio:** A central location for your business assets, such as Facebook, Instagram profiles, ad accounts and product catalogues that you can manage together as a unified online business. If restricted, your business portfolio isn't allowed to advertise.
+*   **Business portfolio:** A central location for your business assets, such as Facebook, Instagram profiles, ad accounts and product catalogs that you can manage together as a unified online business. If restricted, your business portfolio isn't allowed to advertise.
     
-*   **Ad account:** An account used for managing ads across Meta platforms, which allows advertisers to create ads and campaigns, pay for ads and see insights and analytics. If restricted, your ad account, its ads and some of its advertising assets are disabled.  
-    **Note:** If your ad account is disabled for a policy violation and remains ineligible for reinstatement for six months, any unused prepaid services may be forfeited where allowed by law. After this time frame, the account can't be reinstated. Under certain circumstances, Meta reserves the right to disable your account permanently prior to the six months. [Learn more in Meta's Payments Terms](https://www.facebook.com/payments_terms).
+*   **Ad account:** An account used for managing ads across Meta platforms, which allows advertisers to create ads and campaigns, pay for ads, and see insights and analytics. If restricted, your ad account, its ads and some of its advertising assets are disabled.  
+    **Note:** If your ad account is disabled for a policy violation and remains ineligible for reinstatement for 6 months, any unused prepaid services may be forfeited where allowed by law. After this timeframe, the account can’t be reinstated. Under certain circumstances, Meta reserves the right to disable your account permanently prior to the 6 months. [Learn more in Meta’s Payments Terms](https://www.facebook.com/payments_terms).
     
-*   **Page:** A product that lets people and businesses create a presence on Facebook and connect with the Facebook community. Every advertiser will need to have a Facebook Page created before they can advertise. If restricted, your Page isn't allowed to advertise.
+*   **Page:** A product that lets people and businesses create a presence on Facebook and connect with the Facebook community. Every advertiser will need to have a Facebook Page created before they can advertise. If restricted, your Page isn’t allowed to advertise.
     
 *   **Personal profile:** The Facebook or Instagram profile of the specific person who is advertising using an ad account. Enforcements on a personal profile affect whether the person can use business assets. If restricted, you are not allowed to use Meta Products to advertise.
     
 
-**Note:** If a personal profile is restricted from advertising, that person can't advertise or create new ads. Any ad accounts where they're the only attached user may also be disabled. However, other members of the business portfolio, ad account or Page may still be able to advertise.
+**Note:** If a personal profile is restricted from advertising, that person can't advertise or create new ads. Any ad accounts where they’re the only attached user may also be disabled. However, other members of the business portfolio, ad account or Page, may still be able to advertise.
 
 Advertising restrictions for unusual activity
 ---------------------------------------------
@@ -3520,7 +3520,7 @@ When we notice unusual activity in your business portfolio, ad account, Page or 
 
 Review actions for you to take to try to resolve any restrictions in [Meta Business Support Home](https://www.facebook.com/business-support-home).
 
-**Note:** Learn more about [how to secure a hacked account](https://www.facebook.com/business/help/583427765324458) if you suspect that your business asset has been hacked.
+**Note:** Learn more about [how to secure a hacked account](https://www.facebook.com/business/help/583427765324458) if you suspect your business asset has been hacked.
 
 Learn more
 ----------
@@ -3531,16 +3531,16 @@ Learn more
     
 *   [Common examples of Meta advertising policy violations](https://www.facebook.com/business/help/3858246497787265)
     
-*   [If you think that your Instagram profile was hacked](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F149494825257596%2F)
+*   [If you think your Instagram profile was hacked](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F149494825257596%2F)
     
-*   [If you think that your Facebook profile was hacked](https://www.facebook.com/help/203305893040179)
+*   [If you think you Facebook profile was hacked](https://www.facebook.com/help/203305893040179)
 
 - - -
 
 About ads for housing, employment or financial products and services
 ====================================================================
 
-As part of our ongoing efforts to promote fairness on our advertising platform, we have introduced a new "Financial products and services" Special Ad Category for advertisers promoting financial products and services. Starting from 21 January 2025, using this category is required for financial products and services campaigns for advertisers based in the United States or showing ads to audiences in the United States. Ads may be rejected if an appropriate category is not chosen. [Learn more about the update here](https://www.facebook.com/business/help/510724041294968).
+As part of our ongoing efforts to promote fairness on our advertising platform, we have introduced a new Special Ad Category "Financial products and services" for advertisers promoting financial products and services. Starting January 21, 2025, using this category is required for financial products and services campaigns for advertisers based in the United States or showing ads to audiences in the United States. Ads may be rejected if an appropriate category is not chosen. [Learn more about the update here](https://www.facebook.com/business/help/510724041294968).
 
 To help prevent discrimination, our Discriminatory Practices advertising policy has special requirements for ads related to housing, employment or financial products and services.
 
@@ -3552,25 +3552,25 @@ Play
 
 Mute
 
-Enter fullscreen
+Enter Fullscreen
 
 Sharing and reporting options
 
 Something went wrong
 
-We're having trouble with playing this video.
+We're having trouble playing this video.
 
 [Learn more](https://www.facebook.com/help/396404120401278/list)
 
-**Note:** The Credit special ad category has been replaced by the Financial products and services category. This video covers the credit components that are in scope for our requirements. Additionally, this category has expanded to include financial products and services, which you can [learn more about here](https://www.facebook.com/business/help/510724041294968).
+**Note:** The Credit Special Ad Category has been replaced by the Financial Products and Services category. This video covers the credit components that are in scope for our requirements. Additionally, this category has expanded to include financial products and services, which you can [learn more about here](https://www.facebook.com/business/help/510724041294968).
 
-When you run financial products and services ads, you may need to choose Special Ad Category during the creation of your campaign. You'll need to do this if:
+When you run financial products and services ads, you may need to choose Special Ad Category during the creation of your campaign. You’ll need to do this if:
 
-*   You're an advertiser in the United States
+*   You’re an advertiser in the United States
     
 *   Your audience is in the United States
     
-*   You're running ads for credit opportunities in the US, Canada or certain parts of Europe, or reaching audiences in these regions
+*   You’re running ads for credit opportunities in the US, Canada or certain parts of Europe, or reaching audiences in these regions
     
 
 ### Certain parts of Europe include:
@@ -3674,14 +3674,14 @@ When you run financial products and services ads, you may need to choose Special
 *   Vatican City
     
 
-If you meet the qualifications above and don't choose a Special Ad Category, your ad may be rejected.
+If you meet the qualifications above and don’t choose a Special Ad Category, your ad may be rejected.
 
 Example ads for housing, employment and financial products and services
 -----------------------------------------------------------------------
 
-**Note:** Starting on 21 January 2025, use of the financial products and services Special Ad Category is required for advertisers based in the United States or showing financial products and services campaigns to audiences in the United States. Ads may be rejected if the advertiser does not choose an appropriate Special Ad Category. Our policy for credit ads (a subset of financial products and services) does not change, and will continue to apply to advertisers based in the US or showing ads to audiences in the US, Canada or certain parts of Europe.
+**Note:** Starting January 21, 2025, use of the financial products and services Special Ad Category is required for advertisers based in the United States or showing financial products and services campaigns to audiences in the United States. Ads may be rejected if the advertiser does not choose an appropriate Special Ad Category. Our policy for credit ads (a subset of financial products and services) does not change, and will continue to apply to advertisers based in the US or showing ads to audiences in the US, Canada or certain parts of Europe.
 
-If you're unsure whether your ad is covered under Meta's Discriminatory Practices policy for housing, employment or financial products and services ads, you can review examples of covered ads below.
+If you’re unsure whether your ad is covered under Meta’s Discriminatory Practices policy for housing, employment or financial products and services ads, you can review examples of covered ads below.
 
 ### Ads for financial products and services
 
@@ -3695,7 +3695,7 @@ Here are some examples of ads for credit, a subset of financial products and ser
     
 *   Brand ads for credit cards, regardless of offer
     
-*   Loans, including car, mortgage, personal or business loans
+*   Loans, including auto, mortgage, personal or business loans
     
 *   Long-term financing
     
@@ -3706,7 +3706,7 @@ Here are some examples of ads for credit, a subset of financial products and ser
 
 **Additionally, in the US, they can also include other financial products and services like the following and more:**
 
-*   Banking services including current and savings accounts
+*   Banking services including checking and savings accounts
     
 *   Brand ads for financial products and services, regardless of offer
     
@@ -3720,16 +3720,16 @@ Here are some examples of ads for credit, a subset of financial products and ser
     
 *   Consumer payment services
     
-*   0% APR instalment payments, including buy now, pay later (BNPL) and in-house instalment payments
+*   0% APR installment payments, including buy now, pay later (BNPL) and in-house installment payments
     
 
-**They don't include offers for the following:**
+**They don’t include offers for the following:**
 
 *   Gift cards
     
 *   Store rewards
     
-*   Business-to-Business (B2B)-only financial products and services
+*   Business-to-Business (B2B) only financial products and services
     
 *   Tax and accounting services
     
@@ -3741,7 +3741,7 @@ Here are some examples of ads for credit, a subset of financial products and ser
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ads for housing
 
@@ -3763,12 +3763,12 @@ Here are some examples of ads for housing under our policies:
     
 *   Home equity or appraisal services
     
-*   Property and house hunting services
+*   Real estate and house hunting services
     
 *   Aggregator services
     
 
-**They don't include offers for the following:**
+**They don’t include offers for the following:**
 
 *   Hotels
     
@@ -3776,7 +3776,7 @@ Here are some examples of ads for housing under our policies:
     
 *   Retreats
     
-*   Tips related to home ownership or home buying
+*   Tips related to homeownership or home buying
     
 *   Education for consumers or housing providers about their rights and responsibilities under fair housing laws
     
@@ -3788,7 +3788,7 @@ Here are some examples of ads for housing under our policies:
 
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ads for employment
 
@@ -3806,7 +3806,7 @@ Here are some examples of ads for employment under our policies:
     
 *   Apprenticeships
     
-*   Professional certification programmes
+*   Professional certification programs
     
 *   Job fair
     
@@ -3817,7 +3817,7 @@ Here are some examples of ads for employment under our policies:
 *   Promotion of company perks alongside employment opportunities
     
 
-**They don't include offers for the following:**
+**They don’t include offers for the following:**
 
 *   General advice on how to succeed at work unrelated to specific listings
     
@@ -3833,18 +3833,18 @@ Here are some examples of ads for employment under our policies:
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Remember that the examples in the sections above aren't comprehensive and don't constitute legal advice.
+Remember that the examples in the sections above aren’t comprehensive and don’t constitute legal advice.
 
 Audience restrictions
 ---------------------
 
-When you choose a special ad category, we apply additional audience restrictions to your campaign. These restrictions are a preventative measure to protect people from discriminatory practices. Your audience options don't become limited to only people interested in housing, employment and financial products and services opportunities. Learn more about [audience restrictions for employment, housing and financial products and services ads](https://www.facebook.com/business/help/2220749868045706).
+When you choose a Special Ad Category, we apply additional audience restrictions to your campaign. These restrictions are a preventative measure to protect people from discriminatory practices. Your audience options don't become limited to only people interested in housing, employment and financial products and services opportunities. Learn more about [audience restrictions for employment, housing and financial products and services ads](https://www.facebook.com/business/help/2220749868045706).
 
-If you determine that your ad is for housing, employment or financial products and services, learn how to [choose a Special Ad Category in Meta Ads Manager](https://www.facebook.com/business/help/298000447747885). Remember that choosing a Special Ad Category doesn't affect how long it takes for us to review your ads.
+If you determine that your ad is for housing, employment or financial products and services, learn how to [choose a Special Ad Category in Meta Ads Manager](https://www.facebook.com/business/help/298000447747885). Remember that choosing a Special Ad Category doesn’t impact how long it takes for us to review your ads.
 
-Learn more about how to [troubleshoot a rejected ad](https://www.facebook.com/business/help/1210227555661027). If you believe that your ad was rejected incorrectly, you can request a review in [Business Support Home](https://www.facebook.com/accountquality/).
+Learn more about how to [troubleshoot a rejected ad](https://www.facebook.com/business/help/1210227555661027). If you believe your ad was rejected incorrectly, you can request a review in [Business Support Home](https://www.facebook.com/accountquality/).
 
 Learn more
 ----------
@@ -3853,4 +3853,4 @@ Learn more
     
 *   [Choosing a special ad category](https://www.facebook.com/business/help/298000447747885)
     
-*   [Meta's advertising policy on discriminatory practices](https://www.facebook.com/policies/ads/prohibited_content/discriminatory_practices)
+*   [Meta's advertising policy on Discriminatory Practices](https://www.facebook.com/policies/ads/prohibited_content/discriminatory_practices)

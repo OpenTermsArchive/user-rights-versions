@@ -3265,18 +3265,18 @@ We comply with requests for removal of:
 About recommendations on Facebook
 =================================
 
-We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, people you may know or groups you should join.
+We make personalized recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts, and entities (such as Pages, Groups, or Events) that people do not already follow. Some examples of our recommendation experiences include Pages You May Like, “Suggested For You” posts in Feed, People You May Know, or Groups You Should Join.
 
-Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
+Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalizing recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook Friends in common, we may suggest that person as a potential new Friend for you.
 
 Facebook's baseline standards for recommendations
 -------------------------------------------------
 
-At Facebook, we have guidelines that govern what content we will recommend to people. Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable or particularly sensitive. For users under 18, Facebook has additional [age-appropriate content guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fage-appropriate-content%2F). Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities that you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation. We use technology to detect content, accounts and entities that don't meet these Recommendations Guidelines and to help us avoid recommending them. As always, more severe violations of our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F) will be removed from Facebook.
+At Facebook, we have guidelines that govern what content we will recommend to people. Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable, or particularly sensitive. For users under 18, Facebook has additional [age-appropriate content guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fage-appropriate-content%2F). Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation. We use technology to detect content, accounts, and entities that don’t meet these Recommendations Guidelines and to help us avoid recommending them. As always, more severe violations of our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F) will be removed from Facebook.
 
-In developing these guidelines, we sought input from 50 leading experts specialising in recommender systems, expression, safety and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform. We've worked with youth experts around the world to understand what types of content may be appropriate for adults, but too mature for teens. Our guidelines are designed to ensure that recommendations are appropriate for our global community while providing enhanced protections for teen users.
+In developing these guidelines, we sought input from 50 leading experts specializing in recommender systems, expression, safety, and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform. We’ve worked with youth experts around the world to understand what types of content may be appropriate for adults, but too mature for teens. Our guidelines are designed to ensure recommendations are appropriate for our global community while providing enhanced protections for teen users.
 
-We want to provide you with more information about the types of content, accounts and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
+We want to provide you with more information about the types of content, accounts, and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
 
 Content recommendations
 -----------------------
@@ -3285,108 +3285,108 @@ There are three categories of content that are allowed on our platforms, but tha
 
 **Content that impedes our ability to foster a safe community, such as:**
 
-1.  Content that discusses self-harm, suicide or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery.](https://www.facebook.com/communitystandards/suicide_self_injury_violence)) We hide certain suicide and self-injury related content to protect teens from potentially distressing or sensitive material. For example, we would age restrict:
+1.  Content that discusses self-harm, suicide, or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery.](https://www.facebook.com/communitystandards/suicide_self_injury_violence)) We hide certain suicide and self-injury related content to protect teens from potentially distressing or sensitive material. For example, we would age restrict:
     
     *   A post where someone is describing their own personal experiences with suicide, self-injury or eating disorders, except in the context of recovery.
     *   A photo or video showing people in a hospital engaging in euthanasia or assisted suicide.
-    *   A story where someone is talking about their own extreme weight loss behaviour.
+    *   A Story where someone is talking about their own extreme weight loss behavior.
     
-2.  Content that may depict violence, such as people fighting. (We remove [graphically violent content.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fviolent-graphic-content%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fgraphic_violence)) We hide most graphic and disturbing imagery from teens, even if we'd allow it behind a warning screen for adults. For example, we would age restrict:
+2.  Content that may depict violence, such as people fighting. (We remove [graphically violent content.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fviolent-graphic-content%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fgraphic_violence)) We hide most graphic and disturbing imagery from teens, even if we’d allow it behind a warning screen for adults. For example, we would age restrict:
     
-    *   A photo of a severely burned person, which we'd cover with a warning screen for adults.
-    *   A photo or video of shootings, brutality or deadly car crashes.
+    *   A photo of a severely burned person, which we’d cover with a warning screen for adults.
+    *   A photo or video of shootings, brutality, or deadly car crashes.
     
-3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fadult-nudity-sexual-activity%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fadult_nudity_sexual_activity).) We hide additional content from teens that doesn't contain explicit nudity or sexual activity, but could be considered sexually suggestive. For example, we would age restrict:
+3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fadult-nudity-sexual-activity%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fadult_nudity_sexual_activity)) We hide additional content from teens that doesn’t contain explicit nudity or sexual activity but could be considered sexually suggestive. For example, we would age restrict:
     
-    *   A post with near nudity, such as nudity covered by digital overlay.
-    *   A photo zoomed in on someone's buttocks.
-    *   A story with sexually suggestive language describing sexual encounters, including the use of sexual metaphors.
+    *   A post with near nudity such as nudity covered by digital overlay.
+    *   A photo zoomed in on someone’s buttocks.
+    *   A Story with sexually suggestive language describing sexual encounters, including the use of sexual metaphors.
     
 4.  Content that promotes the use of certain regulated products, such as tobacco or vaping products, adult products and services, or pharmaceutical drugs. (We remove content that attempts to [sell or trade most regulated goods.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Frestricted-goods-services%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fregulated_goods)) We hide content from teens that could influence them to engage in activities that are potentially harmful. For example, we would age restrict:
     
-    *   A post offering to sell tobacco, nicotine products, alcohol or firearms when shared by a legitimate brick-and-mortar business.
-    *   A story encouraging people to take psychedelic drugs (also known as entheogens) or cannabis products.
+    *   A post offering to sell tobacco, nicotine products, alcohol, or firearms when shared by a legitimate brick-and-mortar business.
+    *   A Story encouraging people to take psychedelic drugs (also known as entheogens) or cannabis products.
     *   Images with recipes for alcoholic drinks.
     *   A post selling weight loss products or services.
     
-5.  Content that promotes or favourably depicts the use of weight loss products or services and cosmetic surgeries.
-6.  Content shared by any non-recommendable account or entity (e.g. Groups or Pages, as outlined below).
+5.  Content that promotes or favorably depicts the use of weight loss products or services and cosmetic surgeries.
+6.  Content shared by any non-recommendable account or entity (e.g., Groups or Pages, as outlined below).
 
 **Content that is associated with low-quality publishing, such as:**
 
 1.  Unoriginal content that is largely repurposed from another source [without adding material value](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fpeople-publishers-the-community%2F).
 2.  Long captions unrelated to the underlying content and coordinated comment networks intended to artificially drive engagement and distribution.
 
-**False or misleading content, such as:** In countries where Meta supports third-party fact-checking, content including claims that have been found to be false by independent fact-checkers. (We remove misinformation that could cause physical harm or suppress voting.)
+**False or Misleading Content, such as:** In countries where Meta supports third-party fact-checking, content including claims that have been found false by independent fact-checkers. (We remove misinformation that could cause physical harm or suppress voting.)
 
 Account and entity recommendations
 ----------------------------------
 
-We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, groups or events) that:
+We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, Groups, or Events) that:
 
 1.  Recently violated our Community Standards. This does not include accounts or entities that we otherwise remove from our platforms for violating our Community Standards.
-2.  Repeatedly and/or have recently shared content (including the names or cover photos associated with groups or Pages) that we try not to recommend across the categories described in the Content Recommendations section above.
-3.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
-4.  In countries where Meta supports third-party fact-checking, have recently and repeatedly posted "False" and "Altered" information as determined by independent third-party fact-checkers.
-5.  Teens will not be recommended accounts that we've found regularly share age-inappropriate content, or if their name or bio suggests that the account is inappropriate for teens.
+2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content Recommendations section above.
+3.  Repeatedly engaged in misleading practices to build followings, such as purchasing ‘likes’.
+4.  In countries where Meta supports third-party fact-checking, recently and repeatedly posted “False” and “Altered” information as determined by independent third-party fact-checkers.
+5.  Teens will not be recommended accounts that we’ve found regularly share age-inappropriate content, or if their name or bio suggests the account is inappropriate for teens.
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
-A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
+A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
 
 - - -
 
-Events and Live
+EVENTS AND LIVE
 ---------------
 
-Pages, groups and events
-========================
+Pages, Groups, and Events
+=========================
 
 ### Introduction
 
-The following terms, as well as our [Privacy Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/), and [Terms of Service](https://www.facebook.com/legal/terms), apply to the creators and admins of Pages, groups and events. Note that other terms and policies, including our [Developer Policies](https://developers.facebook.com/devpolicy), may also apply depending on how you use our services.
+The following terms, as well as our [Privacy Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/), and [Terms of Service](https://www.facebook.com/legal/terms), apply to the creators and admins of Pages, groups, and Events. Note that other terms and policies, including our [Developer Policies](https://developers.facebook.com/devpolicy), may also apply depending on how you use our services.
 
   
 
-Pages, groups and events help build communities with common interests. Admins are the leaders, representatives and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
+Pages, groups, and Events help build communities with common interests. Admins act as the leaders, representatives, and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
 
   
 
-When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take [action](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fenforcement%2Ftaking-action%2Fremoving-pages-groups%2F) against the Page, group or event in which the content appeared.
+When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take [action](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fenforcement%2Ftaking-action%2Fremoving-pages-groups%2F) against the Page, group, or Event in which the content appeared.
 
-### Policies for Pages, groups and events
+### Policies for Pages, Groups, and Events
 
 1.  [#### Creation and Use](https://www.facebook.com/policies_center/pages_groups_events/creation_and_use)
     
-    Do not create Pages, groups or events for purposes that violate our [Community Standards](https://www.facebook.com/communitystandards/). You should ensure that content you create, or permit to be created, complies with these standards. Repeatedly using other people's content without proper attribution is not allowed. We may take [action](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fenforcement%2Ftaking-action%2Fremoving-pages-groups) against Pages, groups and events when they appear to have been created for purposes that violate our policies or when they are used to repeatedly or severely violate our policies. When we remove a page, group or event for violating our policies, its admin(s) will not be permitted to create new Pages, groups or events with the same or similar subject matter in the future.
+    Do not create Pages, groups, or Events for purposes that violate our [Community Standards](https://www.facebook.com/communitystandards/). You should ensure that content you create, or permit to be created, complies with these standards. Repeatedly using other people's content without proper attribution is not allowed. We may take [action](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fenforcement%2Ftaking-action%2Fremoving-pages-groups) against Pages, groups, and Events when they appear to have been created for purposes that violate our policies or when they are used to repeatedly or severely violate our policies. When we remove a Page, group, or Event for violating our policies, its admin(s) will not be permitted to create new Pages, groups, or Events with the same or similar subject matter in the future.
     
 2.  [#### Names](https://www.facebook.com/policies_center/pages_groups_events/names)
     
-    Do not provide your page, group or event with a name or username that contains profanity or violates our [Community Standards](https://www.facebook.com/communitystandards/). Do not change the name of your Page, group or event in a manner that significantly alters its existing purpose. Do not merge two Pages when their purposes are dissimilar. Note that there are additional restrictions on the names of [Pages](https://www.facebook.com/help/519912414718764) and [events](https://www.facebook.com/help/152853131746337).
+    Do not provide your Page, group, or Event with a name or username that contains profanity or violates our [Community Standards](https://www.facebook.com/communitystandards/). Do not change the name of your Page, group, or Event in a manner that significantly alters its existing purpose. Do not merge two Pages when their purposes are dissimilar. Note that there are additional restrictions on the names of [Pages](https://www.facebook.com/help/519912414718764) and [Events](https://www.facebook.com/help/152853131746337).
     
 3.  #### Verification
     
-    Do not place a verified checkmark in the profile picture or cover photo on your Page, group or event, or in any other way falsely represent that Facebook has verified or authenticated your Page, group or event.
+    Do not place a verified checkmark in the profile picture or cover photo on your Page, group, or Event, or in any other way falsely represent that Facebook has verified or authenticated your Page, group, or Event.
     
 4.  #### Gambling
     
-    Do not use a Page, group or event to promote [online gambling](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fgambling) without our prior, written permission. This prohibition also applies to games where anything of monetary value is required to play and anything of monetary value forms part of the prize. Common types of gambling or gaming activities include betting, lotteries, raffles, casinos, fantasy sports, bingo and poker.
+    Do not use a Page, group, or Event to promote [online gambling](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fgambling) without our prior, written permission. This prohibition also applies to games where anything of monetary value is required to play and anything of monetary value forms part of the prize. Common types of gambling or gaming activities include betting, lotteries, raffles, casinos, fantasy sports, bingo, and poker.
     
 5.  #### Drug and Alcohol Addiction Treatment
     
-    Do not use a Page, group or event to promote [drug and alcohol addiction treatment centres](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Frestricted-goods-services%2Fdrug-alcohol-addiction-treatment) without our prior, written permission. We require that drug and alcohol addiction treatment centres be appropriately licensed before they are eligible to be promoted on Facebook.
+    Do not use a Page, group, or Event to promote [drug and alcohol addiction treatment centers](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Frestricted-goods-services%2Fdrug-alcohol-addiction-treatment) without our prior, written permission. We require that drug and alcohol addiction treatment centers be appropriately licensed before they are eligible to be promoted on Facebook.
     
 6.  #### Online Pharmacies
     
-    Do not use a Page, group or event to promote the sale of prescription pharmaceuticals via an [online pharmacy](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fonline-pharmacies) without our prior, written permission. We require that online pharmacies be appropriately licensed before they are eligible to be promoted on Facebook.
+    Do not use a Page, group, or Event to promote the sale of prescription pharmaceuticals via an [online pharmacy](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fonline-pharmacies) without our prior, written permission. We require that online pharmacies be appropriately licensed before they are eligible to be promoted on Facebook.
     
 7.  #### Promotions
     
-    If you use your Page, group or event to announce or administer a promotion (a contest, giveaway or sweepstakes) you must ensure that your promotion complies with applicable legal and regulatory requirements (ex: providing entrants a copy of the promotion’s official rules, disclosing offer terms and eligibility requirements, and registering your promotion with the relevant authorities). You must also require participants to (a) fully release and hold Meta harmless from liability, and (b) acknowledge that the promotion is in no way sponsored, endorsed, administered by or associated with Meta. Your promotion must not require or incentivise participants to share, repost, tag others or in any other way publicise your promotion. Note that Meta will not assist you in administering a promotion. Should you use our services to administer your promotion, you do so at your own risk.
+    If you use your Page, group, or Event to announce or administer a promotion (a contest, giveaway, or sweepstakes) you must ensure that your promotion complies with applicable legal and regulatory requirements (ex: providing entrants a copy of the promotion’s official rules, disclosing offer terms and eligibility requirements, and registering your promotion with the relevant authorities). You must also require participants to (a) fully release and hold Meta harmless from liability, and (b) acknowledge that the promotion is in no way sponsored, endorsed, administered by, or associated with Meta. Your promotion must not require or incentivize participants to share, repost, tag others, or in any other way publicize your promotion. Note that Meta will not assist you in administering a promotion. Should you use our services to administer your promotion, you do so at your own risk.
     
 8.  #### Data Collection
     
-    Should you wish to collect content or information from people who interact with your Page, group or event (ex: information obtained from a call-to-action button) you must first provide them with notice. People from whom you collect content or information must explicitly consent to your use of their data. You must clearly explain that you (and not Meta) are collecting this data.
+    Should you wish to collect content or information from people who interact with your Page, group, or Event (ex: information obtained from a call-to-action button) you must first provide them with notice. People from whom you collect content or information must explicitly consent to your use of their data. You must clearly explain that you (and not Meta) are collecting this data.
     
 9.  #### Page Insights
     
@@ -3394,12 +3394,12 @@ When admins create content that violates our policies (or when group admins or m
     
 10.  #### Branded Content
      
-     If you have been given anything of value to promote someone else’s products or services within your Page, group or event, you must follow our [Branded Content Policies](https://www.facebook.com/business/help/150067102332664) to disclose the commercial nature of your content.
+     If you have been given anything of value to promote someone else’s products or services within your Page, group, or Event, you must follow our [Branded Content Policies](https://www.facebook.com/business/help/150067102332664) to disclose the commercial nature of your content.
      
 11.  #### Event Costs and Invitations
      
-     You must clearly and prominently disclose any actions or expenses required to attend or participate in an event, including any fees or incidental charges ancillary to the stated cost of admission. Event invitations must not be generated by automated means.
+     You must clearly and prominently disclose any actions or expenses required to attend or participate in an Event, including any fees or incidental charges ancillary to the stated cost of admission. Event invitations must not be generated by automated means.
      
 12.  #### Legal Compliance
      
-     Pages, groups and events must not promote illegal activities, products or services. You are responsible for ensuring that your Page, group or event complies with all applicable laws, statutes and regulations, including those related to the promotion of age-restricted activities and substances. You are solely responsible for including all necessary disclosures within your Page, group or event, including those disclosures required to indicate the commercial nature of content you may post.
+     Pages, groups, and Events must not promote illegal activities, products, or services. You are responsible for ensuring that your Page, group, or Event complies with all applicable laws, statutes, and regulations, including those related to the promotion of age-restricted activities and substances. You are solely responsible for including all necessary disclosures within your Page, group, or Event, including those disclosures required to indicate the commercial nature of content you may post.

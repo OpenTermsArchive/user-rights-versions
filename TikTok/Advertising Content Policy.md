@@ -9656,7 +9656,7 @@ We are committed to protecting people's privacy. We do not allow content that us
 Other Products and Services
 ===========================
 
-Last updated: August 2026
+Last updated: October 2026
 
 Principle
 ---------
@@ -9924,6 +9924,8 @@ We do not allow the promotion of services and activities that are unsuitable, il
 *   Funeral services
     
 *   Random, surprise, mystery, or blind boxes that claim to include luxury items or high-cost goods
+    
+*   Counterfeit currency or the means to manufacture or distribute the same
     
 
   

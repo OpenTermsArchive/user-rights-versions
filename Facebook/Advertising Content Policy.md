@@ -2499,7 +2499,7 @@ Ads for social casino games, which are online games that simulate casino gamblin
 
 Learn more in our [Business Help Center](https://www.facebook.com/business/help/745983206015584?id=434838534925385).
 
-Please note, if the game allows virtual prizes to be bought or sold between players within the game and/or on secondary markets for money or money’s worth, please refer to our [Online Gambling and Gaming policy](https://transparency.meta.com/policies/ad-standards/content-specific-restrictions/gambling/) above.
+Please note, if the game allows virtual prizes to be bought or sold between players within the game and/or on secondary markets for money or money’s worth, please refer to our [Online Gambling and Gaming policy](https://transparency.meta.com/policies/ad-standards/content-specific-restrictions/gambling) above.
 
 Overview
 

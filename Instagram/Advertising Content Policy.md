@@ -306,7 +306,7 @@ Financial and Insurance Products and Services
 
 Ads promoting credit cards, loans or insurance services must be targeted to people 18 years or older and must not directly request the input of any personally identifiable information or certain types of financial information .
 
-Advertisers promoting financial products and services may be required to verify their business and/or individual identity and demonstrate that they are authorised by the relevant regulatory authorities where this is a requirement, and any such authorisation may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
+Advertisers promoting financial products and services are required to verify their business and/or individual identity and demonstrate that they are authorised by the relevant regulatory authorities where this is a requirement, and any such authorisation may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
 
 Learn more about the authorization process in our [Business Help Center](https://www.facebook.com/business/help/719892839342050).
 
@@ -2160,7 +2160,7 @@ Financial and Insurance Products and Services
 
 Ads promoting credit cards, loans or insurance services must be targeted to people 18 years or older. We prohibit ads that directly request the input of any personally identifiable information or certain types of financial information under our [Fraud, Scam and Deceptive Practices](https://transparency.meta.com/policies/community-standards/fraud-and-scams/) and/or [Privacy Violations policies](https://transparency.meta.com/policies/community-standards/privacy-violations/).
 
-Advertisers promoting financial products and services may be required to verify their business and/or individual identity and demonstrate they are authorized by the relevant regulatory authorities where this is a requirement; and any such authorization may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
+Advertisers promoting financial products and services are required to verify their business and/or individual identity and demonstrate they are authorized by the relevant regulatory authorities where this is a requirement; and any such authorization may be subject to review by Meta. Advertisers are also required to comply with disclosure requirements set by law.
 
 Learn more about the authorization process in our [Business Help Center](https://www.facebook.com/business/help/719892839342050).
 

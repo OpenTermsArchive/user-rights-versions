@@ -2230,6 +2230,8 @@ Financial products and services that may require a license include but are not l
 
 For ads targeting the United States ads can’t
 
+*   Promote any investment products or opportunities, including in the context of educational or informational content, unless the advertiser is an accredited brokerage or licensed financial advisor verified through Meta’s financial services verification process.
+
 *   Promote investment products or opportunities that suggest user interaction with the advertiser via on-platform or off-platform direct messaging services.
 
 Advertisers can run the following types of ads without authorization or the restrictions above:

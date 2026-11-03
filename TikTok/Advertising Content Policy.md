@@ -9649,7 +9649,7 @@ We are committed to protecting people's privacy. We do not allow content that us
 
   
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
+![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/csr/img/feedback-icon.be0e957.svg)
 
 - - -
 

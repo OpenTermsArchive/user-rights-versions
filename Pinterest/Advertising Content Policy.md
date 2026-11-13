@@ -1,4 +1,4 @@
-Advertising guidelines
+Advertising Guidelines
 
 
 ==========================
@@ -24,8 +24,6 @@ Table of Contents
 [Country-specific guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-country-specific-guidelines)
 
 [Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
-
-_We're updating our Advertising Guidelines, effective November 12, 2026. You can preview the updated Advertising Guidelines [here](https://policy.pinterest.com/advertising-guidelines-preview)._
 
 Our mission
 ===========
@@ -72,7 +70,7 @@ Please note that the targeting of proxies for the sensitive categories above is 
 
 #### Protected groups
 
-Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets ads in the following categories can’t use actalike, age, gender or postal code targeting options or exclude Protected groups:
+Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets ads in the following categories can’t use actalike targeting, certain demographic targeting (such as age, gender or postal code), or exclude Protected groups:
 
 *   Credit: Ads promoting credit products like credit cards, mortgages and loans.
 *   Employment: Ads promoting employment opportunities, including full -time jobs, part -time jobs, and work from home jobs.
@@ -193,7 +191,7 @@ Ads should adhere to the highest levels of editorial quality. We don’t allow a
 We care about the ad experience from start to finish—including the URL your ad links to. We want to make sure users find what they're looking for when they click through. We don’t allow landing pages that:
 
 *   Require people to take an action (like signing up) before they can see certain content unless your ad makes it clear that this is required
-*   Have pop-up ads or start automatic downloads on someone’s device
+*   Have non-dismissible pop-up ads or start automatic downloads on someone’s device
 *   Force people to visit another page
 *   Contain primarily advertising content (made-for-ads sites)
 *   Lead to inconsistent experiences
@@ -306,19 +304,15 @@ We also do not allow the advertising of hookahs, hookah bars, cigars, or cigar b
 
 We don't allow ads that promote the following products, services or business models:
 
-*   Penny or bidding fee auctions
-*   Payday loans
-*   Plaintiff recruitment services
-*   Bail bonds
-*   All cryptocurrency products and services except those explicitly allowed in our [Financial products and services Policy](https://policy.pinterest.com/advertising-guidelines#section-financial-products-and-services)
-*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
-*   Fake online tech support
-*   Products or services that utilize hidden costs or bait and switch tactics
-*   Companies that offer homework or essay writing services for students (Tutoring services are OK)
-*   Companies that sell social media followers
-*   Negative option billing services
-*   Products or services that make unrealistic or exaggerated claims or purport to have magical properties
-*   Ads that show a different product or service than the one being offered in an intentionally deceptive way
+*   Predatory financial products
+    *   Binary options
+    *   Payday loans
+    *   All cryptocurrency products and services except those explicitly allowed in our [Financial products and services Policy](https://policy.pinterest.com/advertising-guidelines#section-financial-products-and-services)
+*   Exploitative schemes
+    *   Penny or bidding fee auctions
+*   Legal system exploitation
+    *   Plaintiff recruitment services
+    *   Bail bonds
 
 In addition to the above, Promotions must adhere to the following:
 
@@ -338,6 +332,26 @@ In addition to the above, Promotions must adhere to the following:
     *   May not contain repetitive words and/or phrases, or include any text that is unrelated or irrelevant to the custom promotion
 
 We expect our advertisers to be honest with their customers and set clear expectations about product quality, delivery times, return processes, and services provided. We reserve the right to reject an advertiser based on poor third-party ratings or a record of complaints.
+
+### Scams, deceptive goods, and practices
+
+We don't allow the advertising of anything that facilitates or promotes dishonest commerce, exploitative schemes, or deceptive practices. This includes ads that use exaggerated claims, intentional misrepresentation, misleading pricing, bait-and-switch tactics, deceptive redirects, or other deceptive methods to mislead people about the nature of the product, service, or offer.
+
+We prohibit ads that promote:
+
+*   Products, services, or offers misrepresented through synthetic media, manipulated content, or other deceptive practices
+*   Products or services featuring hidden costs, misleading pricing, or bait and switch tactics
+*   Tools or templates intended to facilitate, automate, or scale scams or deceptive activities
+*   Ads that intentionally show a different product or service than the one being offered
+*   Fake or deceptive offers, grants, prizes, or giveaways used to mislead people
+*   Fictitious or non-existent products, services, or storefronts
+*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
+*   Services that enable academic dishonesty, including homework or essay writing services for students (tutoring services are allowed okay)
+*   Services that artificially inflate engagement metrics, including by selling social media followers
+*   Products or services making unrealistic or exaggerated claims or purport to have magical properties
+*   Fake online tech support
+*   Impersonation or social engineering used to deceive people or misrepresent an identity, brand, or affiliation
+*   Negative option billing services
 
 ### Weapons and explosives
 
@@ -404,7 +418,7 @@ We don’t allow the advertising of:
 *   Gambling websites
 *   Fantasy sports or other online prize-based games that require payment for entry
 
-Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are OK except where prohibited in our country-specific guidelines.
+Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are okay except where prohibited in our country-specific guidelines.
 
 With prior permission from Pinterest, ads promoting responsible gambling practices are allowed with restrictions in Canada (refer to country-specific guidelines for details).
 
@@ -1967,68 +1981,75 @@ Ad Data Terms
 
 Table of Contents
 
-[Ad Data Terms](https://policy.pinterest.com/en/ad-data-terms#section-ad-data-terms)
-
 [1\. General.](https://policy.pinterest.com/en/ad-data-terms#section-1-general)
 
-[2\. Ad Data](https://policy.pinterest.com/en/ad-data-terms#section-2-ad-data)
+[2\. Use of Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-2-use-of-ad-data)
 
-[3\. Pinterest Tag, App Activity and SDK.](https://policy.pinterest.com/en/ad-data-terms#section-3-pinterest-tag-app-activity-and-sdk)
+[3\. Accessing or Storing Information on an End User’s Device.](https://policy.pinterest.com/en/ad-data-terms#section-3-accessing-or-storing-information-on-an-end-users-device)
 
-[4\. Pinterest Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-ad-data)
+[4\. Pinterest Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-data)
 
-_We're updating our Ad Data Terms, effective November 12, 2026. You can preview the updated Ad Data Terms [here](https://policy.pinterest.com/ad-data-terms-preview)._
-
-Ad Data Terms
-=============
-
-These Ad Data Terms are an addendum to the agreement between you and Pinterest, Inc., or its affiliate (as applicable) (“**Pinterest**,” “**we**” or “**us**”) that governs your use of Pinterest’s advertising service, including the Data Sharing Addendum between you and Pinterest (together, your “**Ad Terms**”). By using any Pinterest Ad Service features involving Ad Data (defined below) you agree to this addendum. Any capitalized terms not defined here are defined in the Ad Terms.
+These Ad Data Terms are an addendum to the agreement between you and Pinterest, Inc., or its affiliate (as applicable) (“**Pinterest**,” “**we**” or “**us**”) that governs your use of Pinterest’s advertising service, including the Data Sharing Addendum, Joint Controller Addendum and U.S. State-Specific Data Terms between you and Pinterest (together, your “**Ad Terms**”). These Ad Data Terms apply to Ad Data (defined below) that you share with us or enable us to access, directly or indirectly, using any Pinterest Ad Service features, and to Pinterest Data (defined below) that we may share with you. By using any Pinterest Ad Service features involving Ad Data or Pinterest Data you agree to this addendum. Any capitalized terms not defined here are defined in the Ad Terms.
 
 1\. General.
 ============
 
-*   "**Ad Data**" means the personal data that one party receives from the other in connection with your access to and use of the Ad Service.
-*   As required by the Ad Terms, you must clearly disclose and get any legally-required consent for the collection, sharing and use (including use by Pinterest) as described in these terms of the Ad Data you give to us.
-*   Don’t give us Ad Data that relates to [sensitive categories](https://policy.pinterest.com/advertising-guidelines#ads-sensitive-targeting)—like medical condition or ethnic origin—or that’s collected from a child-directed site or app, or from anyone who’s under 13 or the legal age of consent in your jurisdiction, if higher.
-*   Pinterest will use appropriate technical and organizational measures to protect the security and confidentiality of Ad Data you give us, and will comply with the Pinterest Privacy Policy located at [policy.pinterest.com/privacy-policy](https://policy.pinterest.com/privacy-policy) (or a successor URL) in connection with our use of Ad Data.
-*   Pinterest will not share Ad Data you give us with a third party (except affiliates, contractors and agents subject to confidentiality obligations) unless required by law or with your permission.
+1.  "**Ad Data**" means Contact Information, Activity Data, and any other data that Pinterest receives from you in connection with your access to and use of the Ad Service.
+    1.  “**Contact Information**” means information you share with us or enable us to access that can be used to directly identify an individual, such as a name, email address, or phone number.
+    2.  “**Activity Data**” means information you share with us or enable us to access using the Pinterest Tag, Conversions API, or another Ad Service feature about people or their devices (including HTTP header information such as IP address, user agent, country, language, and information about the web browser or app used) and their activity on your (or third party) websites, apps and stores, such as visits to your sites or stores, purchases of your products or installation of your apps.
+    3.  As required by the Ad Terms, you must clearly disclose and have all necessary rights, permissions and lawful bases (including consent, if required) required by applicable laws for the collection (including the setting and reading of cookies), sharing and use (including use by Pinterest) as described in these terms of the Ad Data you give to us or enable us to access. When you share with us or enable us to access Activity Data, you must:
+        1.  give clear and prominent notice to your website and app visitors that their information will be shared with third parties for online behavioral advertising;
+        2.  tell your website or app visitors they can opt out of online behavioral advertising through their [Pinterest personalization](https://www.pinterest.com/settings/) settings, the AdChoices website [optout.aboutads.info](http://optout.aboutads.info/) (if you send us website activity via the Pinterest Tag), or their mobile ad identifier settings (if you share app activity data with us, such as via a mobile measurement partner or an app SDK).
+2.  Pinterest will use appropriate technical and organizational measures to protect the Ad Data you give us, including from and against a breach of security leading to unauthorized access, use, alteration, disclosure or destruction of the Ad Data while it is in our systems, and will comply with the Pinterest Privacy Policy located at [policy.pinterest.com/privacy-policy](https://policy.pinterest.com/privacy-policy) (or a successor URL) in connection with our use of Ad Data.
+3.  Pinterest will not share Ad Data you give us with a third party (except our affiliates, service providers, and agents subject to confidentiality obligations) unless required by law or with your permission. You agree that we may provide access to and/or a copy of Ad Data about a particular individual to that individual upon their request.
+4.  You will not share or enable us to access Ad Data that you know or should know (i) is collected from a child-directed site or app, or from anyone who’s under 13 or the legal age of consent in your jurisdiction, if higher; or (ii) includes health or financial information or other categories of sensitive information (including any information defined as sensitive or special category data under applicable laws, regulations and industry guidelines).
+5.  Where you are collecting, using or sharing Ad Data on behalf of (or together with) a third party (for example, if you are an Agency acting on behalf of an Advertiser), you represent and warrant that you have the authority to use, share, and process such Ad Data on that third party’s behalf and to bind such third party to these Ad Data Terms. You will only use or share Ad Data or any audiences or reports created through the use of Ad Data with or on behalf of such third party.
+6.  You will notify us promptly in writing of any actual or threatened complaint or challenge related to the use of Ad Data under these Ad Data Terms, and you will reasonably cooperate with us, at your expense, in responding to or defending against such complaint or challenge.
+7.  We reserve the right to monitor your compliance with these Ad Data Terms, and you agree upon request to provide reasonable evidence of your compliance with these Ad Data Terms.
 
-2\. Ad Data
-===========
+2\. Use of Ad Data.
+===================
 
-*   We use Ad Data you give us for measuring ad effectiveness, ad delivery and reporting, improving safety and security on Pinterest, research and product development, and for other uses that you give us permission for (including as described in Section 3).
-*   We also use Ad Data to help generate aggregated and anonymous measurements about the use of Pinterest’s Ad Service, for example to calculate the total number of conversions Pinterest helped drive. These measurements will not identify you or your customers.
-*   Certain Ad Service features allow you to give Pinterest a list of unique identifiers such as hashed email addresses or mobile ad identifiers like an IDFA (together, “**User IDs**”) for matching purposes. When you do that, we’ll use the User IDs to find corresponding Pinterest accounts, and once we’ve completed the match process we’ll delete the list of User IDs you gave us and keep only a list of matched Pinterest accounts.
-*   If you give us User IDs using an Ad Service feature (like Customer List Targeting or the Pinterest Tag) to create a targeting audience of customers or website or app visitors, unless you tell us to do so, Pinterest will not permit anyone else to use the audience you create to target or optimize ads, and we won’t use the audience you create for any purpose other than to provide the Ad Service to you.
+1.  Contact Information. We use Contact Information to match users to corresponding Pinterest accounts and, if your campaigns are eligible to run on Third-Party Properties, with users on those Third-Party Properties, and then match those users with corresponding Activity Data. We use Contact Information for matching purposes only.
+2.  Activity Data. We and our affiliates use Activity Data:
+    1.  For measuring ad effectiveness and performance, ad delivery and reporting, improving safety and security on Pinterest, research and product development, and optimizing recommendations and advertisements on and off Pinterest (only in combination with data from Pinterest or other sources, in a way that doesn’t identify you or any individual to any third party), and for other uses for which you give us permission.
+    2.  To help generate aggregated and anonymous measurements about the use of Pinterest’s Ad Service, such as benchmarking reports. These measurements will not identify you or your customers.
+3.  To target your ad campaigns to Pinterest users, you may create or direct us to create a targeting audience of customers or website or app visitors using an Ad Service feature like Customer List Targeting or Visitor Retargeting. Unless you or your service providers share audiences with other advertisers through tools we make available to do so (subject to the restrictions and requirements of those tools and our terms), Pinterest will not provide the audiences you create to other advertisers or use the audiences you create for any purpose other than to provide the Ad Service to you. Except when provided to you for only your use or as otherwise directed by you, Pinterest will not create any Ad Service feature or targeting audience using solely your Activity Data.
 
-3\. Pinterest Tag, App Activity and SDK.
-========================================
+3\. Accessing or Storing Information on an End User’s Device.
+=============================================================
 
-*   When you send us Ad Data using the Pinterest Ad Service’s Tag, an API endpoint, or another Ad Service feature that lets you share website, store, or mobile app activity data (such as offline sales measurement or a mobile measurement partner integration) (this Ad Data, “**Activity Data**”), in addition to your other addendum obligations (including the obligations in Section 1) you must:
-    *   clearly and prominently disclose and get legally-required consent for the setting and reading of cookies and other User IDs (defined below) as and where required by law;
-    *   give clear and prominent notice to your website and app visitors that their information will be shared with third parties for online behavioral advertising;
-    *   tell your website or app visitors they can opt out of online behavioral advertising through their Pinterest [personalization settings](https://www.pinterest.com/settings/), the AdChoices website [optout.aboutads.info](http://optout.aboutads.info/) (if you send us website activity via the Pinterest Tag), or their mobile ad identifier settings (if you share app activity data with us, eg via a mobile measurement partner or an app SDK).
-*   You give Pinterest the right to use Activity Data to optimize recommendations and advertisements provided by Pinterest, but only in combination with data from Pinterest or from other sources in a way that doesn’t identify you or any individual to any third party.
-*   Except when provided to you for only your use or as otherwise directed by you, Pinterest will not create any Ad Service feature or targeting audience using solely your Activity Data.
+1.  This section applies to your use of Ad Service features that enable Pinterest to access or store cookies or other information on an end user’s device, including but not limited to the Pinterest Tag or other similar tracking technologies.
+2.  You (or partners acting on your behalf) may not place, or allow others to place, pixels associated with your ad account on websites that you do not own without our written permission.
+3.  You must provide clear and prominent notice to users regarding the collection of Ad Data that, in addition to the requirements set forth in Section 1(b), includes, at a minimum, that third parties, including Pinterest, may use cookies, web beacons, and other storage technologies to collect or receive information from your websites or apps (as applicable) or elsewhere on the internet and use that information to provide measurement services and to target and deliver ads.
+4.  Where applicable law and/or platform standards (such as Apple or Google platform terms) require consent for storing and accessing cookies or other information on an end user’s device (including, but not limited to, the European Union), you must ensure that you have obtained, in a verifiable manner, all necessary consents to enable the collection and/or storage of cookies or other information on the end user’s device in connection with your use of an applicable Ad Service feature.  
+      
+    
 
-4\. Pinterest Ad Data.
-======================
+4\. Pinterest Data.
+===================
 
-*   If you receive any Ad Data from Pinterest (for example, campaign reporting linked to a User ID) then:
-    *   you must not use that information to target ads or market products or services (for example through audience targeting or modeling) or for any purpose other than to evaluate your Pinterest ad campaign performance,
-    *   you must not associate it with any Personal Data or share it with any third party, and
-    *   you must delete or anonymize it when you no longer have a legitimate business need for it, no later than 6 months after receiving it.
-
-Last updated: April 2025
+1.  “**Pinterest Data**” means any data that Pinterest may share with you, directly or indirectly (for example, from a measurement vendor), in connection with your access to and use of the Ad Service.
+2.  If you receive any Pinterest Data that is linked or reasonable linkable to, or could reasonably be used to infer information about, a particular user, household, or device (for example, campaign reporting linked to an IP address) (“**Identifiable Pinterest Data**”):
+    1.  you must not use that information to target ads or market products or services (for example through audience targeting or modeling); to build, create, develop, augment, or supplement any segments, profiles or similar records for any user, device, household or browser; or for any purpose other than to evaluate your Pinterest ad campaign performance;
+    2.  you must not associate it with any Personal Data or share it with any third party; and
+    3.  you must delete or anonymize it when you no longer have a legitimate business need for it, no later than 6 months after receiving it.
+3.  If you receive any Pinterest Data that is not Identifiable Pinterest Data (for example, aggregated campaign reporting):
+    1.  you must take reasonable measures to ensure that such data cannot be associated with a particular user, household, or device;
+    2.  you must only use or otherwise process such data in a deidentified form;
+    3.  you must not attempt to re-identify such data; and
+    4.  you must contractually obligate any recipients of such data to comply with this section.
+4.  You will not use or access the Ad Service, or Pinterest data or content made available to you through the Ad Service, to build a competing product or service, or for the purposes of training any AI or machine learning model.  
+      
+    
 
 Table of Contents
 -----------------
 
-*   [Ad Data Terms](https://policy.pinterest.com/en/ad-data-terms#section-ad-data-terms)
 *   [1\. General.](https://policy.pinterest.com/en/ad-data-terms#section-1-general)
-*   [2\. Ad Data](https://policy.pinterest.com/en/ad-data-terms#section-2-ad-data)
-*   [3\. Pinterest Tag, App Activity and SDK.](https://policy.pinterest.com/en/ad-data-terms#section-3-pinterest-tag-app-activity-and-sdk)
-*   [4\. Pinterest Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-ad-data)
+*   [2\. Use of Ad Data.](https://policy.pinterest.com/en/ad-data-terms#section-2-use-of-ad-data)
+*   [3\. Accessing or Storing Information on an End User’s Device.](https://policy.pinterest.com/en/ad-data-terms#section-3-accessing-or-storing-information-on-an-end-users-device)
+*   [4\. Pinterest Data.](https://policy.pinterest.com/en/ad-data-terms#section-4-pinterest-data)
 
 - - -
 

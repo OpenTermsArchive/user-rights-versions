@@ -9492,10 +9492,12 @@ We take election integrity extremely seriously and do not allow ads that contain
 Misleading and false content
 ============================
 
-Last updated: April 2026
+Last updated: November 2026
 
 Principle
 ---------
+
+  
 
 At TikTok, our aim is to provide a reliable and trustworthy space for our diverse community. By prohibiting content that is inaccurate, misleading, or false, we aim to create an environment where users can engage with authentic, credible, and reliable information, fostering a positive and informed community experience.
 

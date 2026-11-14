@@ -15,7 +15,11 @@ Instagram app for iPhone and iPad
 
 Instagram app for Android
 
-1.  Tap ![](https://static.xx.fbcdn.net/assets/?set=content_operations_help_center&name=ig-three-dots-more-vertical&density=1) **Options** in the top right of the broadcast.
+1.  Tap
+    
+    ![](https://static.xx.fbcdn.net/assets/?set=instagram&name=more-vertical&density=2&size=24&variant=outline)
+    
+    **Options** in the top right of the broadcast.
 2.  Tap **Report...** then follow the on-screen instructions.
 
 Instagram.com from a computer

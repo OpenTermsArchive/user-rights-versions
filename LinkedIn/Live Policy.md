@@ -57,9 +57,9 @@ Guidelines for LinkedIn Live Streaming Content
 
 Approved LinkedIn Live Video broadcasters must keep videos professional, respectful, and safe in accordance with our:
 
-*   [**LinkedIn User Agreement**](https://www.linkedin.com/legal/user-agreement)
+*   **[LinkedIn User Agreement](https://www.linkedin.com/legal/user-agreement)**
     
-*   [**Professional Community Policies**](https://www.linkedin.com/help/linkedin/answer/89880)
+*   **[Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/89880)**
     
 
 Please use these guidelines when streaming your live videos:

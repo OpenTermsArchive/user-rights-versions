@@ -7,19 +7,19 @@ This is a community where we treat each other with respect and help each other s
     
     Only bring safe conversations to LinkedIn.
     
-    [**Learn more**](#be-safe-policy)
+    **[Learn more](#be-safe-policy)**
     
 *   ### Be trustworthy
     
     Use your true identity and share information that is real and authentic.
     
-    [**Learn more**](#be-trustworthy-policy)
+    **[Learn more](#be-trustworthy-policy)**
     
 *   ### Be professional
     
     We allow broad conversations about the world of work, but just keep it professional.
     
-    [**Learn more**](#be-professional-policy)
+    **[Learn more](#be-professional-policy)**
     
 
 LinkedIn Professional Community Policies
@@ -299,11 +299,11 @@ Adding a background photo to your profile can make your professional story more 
 
 If we remove your photo, you can upload a different photo to replace it. If you have questions about why your photo was removed, [please contact us](https://www.linkedin.com/help/linkedin/ask/PPRI).  
 
-*   [**See or edit your current photo**](https://www.linkedin.com/profile/edit-picture-info)
+*   **[See or edit your current photo](https://www.linkedin.com/profile/edit-picture-info)**
 *   See step-by-step instructions for [adding your profile photo](https://www.linkedin.com/help/linkedin/answer/1615)
 *   Learn how to [add or change a background photo](https://www.linkedin.com/help/linkedin/answer/49960)
-*   [**Learn more if you're having trouble uploading your photo**](https://www.linkedin.com/help/linkedin/answer/4981)
-*   [**Personalize your background with a photo - best practices**](https://www.linkedin.com/help/linkedin/answer/a553474)
+*   **[Learn more if you're having trouble uploading your photo](https://www.linkedin.com/help/linkedin/answer/4981)**
+*   **[Personalize your background with a photo - best practices](https://www.linkedin.com/help/linkedin/answer/a553474)**
 
 - - -
 

@@ -10,7 +10,7 @@ LinkedIn Live allows eligible members and Pages to broadcast live video content 
 
 You can't stream directly from LinkedIn; you'll need a streaming tool to broadcast LinkedIn Lives (Video). The right tool depends on your level of expertise with streaming:
 
-*   **New broadcasters:** Use a third-party broadcast tool. Choose one of our five preferred partners (**[Restream](https://restream.io/linkedin)**, **[Socialive](https://socialive.us/linkedin-live/)**, **[StreamYard](https://streamyard.com/linkedinlive)**, or **[Switcher Studio](https://www.switcherstudio.com/platforms/linkedin)**) or one of your [supported partners](https://developer.bitmovin.com/encoding/docs/bitmovin-approved-contribution-devices).
+*   **New broadcasters:** Use a third-party broadcast tool. Choose one of our five preferred partners ([**Restream**](https://restream.io/linkedin), [**Socialive**](https://socialive.us/linkedin-live/), [**StreamYard**](https://streamyard.com/linkedinlive), or [**Switcher Studio**](https://www.switcherstudio.com/platforms/linkedin)) or one of your [supported partners](https://developer.bitmovin.com/encoding/docs/bitmovin-approved-contribution-devices).
     
 *   **Advanced broadcasters or professional producers:** Connect directly to any streaming software or encoder using a custom stream (RTMP Ingest). Go live from your desktop browser by visiting the [LinkedIn custom stream page](https://www.linkedin.com/video/golive/). You can use the tool of your choice (For example OBS, Elemental, Zoom, etc.) or your own production workflow for streaming.
     
@@ -39,7 +39,7 @@ With either option, you can go live spontaneously or schedule your live stream i
 
 *   All LinkedIn Lives are public and will be recorded. After a stream is complete, it will remain on the feed of your LinkedIn profile or Page as a video that was **Previously recorded live**.
     
-*   We recommend enabling **[two-factor authentication](https://www.linkedin.com/psettings/two-step-verification)** in account settings to protect your account. All broadcasters should turn this setting on.
+*   We recommend enabling [**two-factor authentication**](https://www.linkedin.com/psettings/two-step-verification) in account settings to protect your account. All broadcasters should turn this setting on.
     
 
 If you have any other questions related to LinkedIn Live, please [contact us](https://www.linkedin.com/help/linkedin/ask/PAGES-EVENTS).

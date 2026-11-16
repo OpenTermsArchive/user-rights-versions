@@ -370,7 +370,7 @@ All ads must comply with [LinkedIn’s Advertising Policies](https://www.linked
 
 *   [Ad or Lead Gen Form rejected in review](https://www.linkedin.com/help/lms/answer/a416939)
     
-*   [**Ad guidelines for ad review and approval**](https://www.linkedin.com/help/lms/answer/a468679)
+*   **[Ad guidelines for ad review and approval](https://www.linkedin.com/help/lms/answer/a468679)**
     
 *   [Edit your ad creatives](https://www.linkedin.com/help/lms/answer/a420369)
 

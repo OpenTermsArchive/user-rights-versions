@@ -17,7 +17,7 @@ Instagram app for Android
 
 1.  Tap
     
-    ![](https://static.xx.fbcdn.net/assets/?set=instagram&name=more-vertical&density=2&size=24&variant=outline)
+    ![](https://static.xx.fbcdn.net/assets/?set=meta_brand_design_system_icons_raster&name=three-dots-vertical&density=2&size=24&variant=Outline)
     
     **Options** in the top right of the broadcast.
 2.  Tap **Report...** then follow the on-screen instructions.

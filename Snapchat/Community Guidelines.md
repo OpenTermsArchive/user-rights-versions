@@ -1401,7 +1401,9 @@ On other messaging services or social media platforms. For example, a username p
 
 AI-generated content
 
-Our content ranking algorithm rewards authentic, human-made content over wholly AI-generated content created outside of Snapchat, even when AI-generated content has transparency disclosures. AI-generated content that was created within Snapchat is eligible for recommendation. Our tools always include [transparency indicators](https://values.snap.com/news/ai-on-snapchat-improved-transparency-safety-policy?lang=en-GB). Unoriginal Content
+Our content ranking algorithm rewards authentic, human-made content over wholly AI-generated content created outside of Snapchat, even when AI-generated content has transparency disclosures.  **AI-generated content that was created within Snapchat is eligible for recommendation. Our tools always include** [**transparency indicators**](https://values.snap.com/news/ai-on-snapchat-improved-transparency-safety-policy?lang=en-GB)**.**
+
+Unoriginal Content
 
 *   Posting content that you did not create, and that you have not transformed in a creative way (via commentary, reactions, etc.) 
     

@@ -10021,9 +10021,141 @@ Ads for Prediction Markets may be allowed if the following requirements are met:
 
 - - -
 
-Sorry! The article you are looking for no longer exists or failed to load.  
+Politics, Governments, and Elections
+====================================
 
-Back to home page (0s)
+Last updated: July 2026
+
+Principle
+---------
+
+On TikTok, our community can share political content organically as long as it's in line with our [Community Guidelines](https://www.tiktok.com/community-guidelines/en/). However, we do not allow paid political advertising because the nature of political ads is not something we believe fits the TikTok experience. In addition to our paid political advertising policy, we prohibit advertising of any kind by political figures and entities.
+
+  
+
+Governmental and intergovernmental entities are eligible to advertise on TikTok, provided they work directly with a TikTok sales representative, complete our certification process, and follow all platform policies, including our government advertising policy.
+
+  
+
+Only official entities responsible for overseeing elections are eligible to advertise about elections or referendums. References to an upcoming or current election or referenda, including appeals for votes, voter registration, and promoting participation, are prohibited for all other advertisers.
+
+  
+
+These policies apply across all of our monetization features, including paid ads, creators being compensated for making [branded content](https://www.tiktok.com/legal/page/global/bc-policy/en), including undisclosed advertisements, and the use of other promotional tools on the platform. All advertisers must comply with our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en), [Community Guidelines](https://www.tiktok.com/community-guidelines), and all policies found in our [Business Help Center](https://ads.tiktok.com/help/) governing the use of our services.
+
+  
+
+Paid political advertising
+--------------------------
+
+**Policy**
+
+We do not allow paid political advertising across any of our monetization features, including paid ads, creators being compensated for making [branded political content](https://www.tiktok.com/legal/page/global/bc-policy/en), and the use of other promotional tools on the platform, such as [Promote](https://support.tiktok.com/en/using-tiktok/growing-your-audience/use-promote-to-grow-your-tiktok-audience).
+
+  
+
+**What is not allowed:**
+
+*   Referencing, promoting, or opposing:
+    
+    *   Current executive, legislative, or judicial public officials
+        
+    *   Current candidates or nominees for executive, legislative, or judicial public offices
+        
+    *   Political parties and individuals currently holding leadership positions in political parties
+        
+    *   Political Action Committees and any country-specific equivalents
+        
+*   Advocacy for or against:
+    
+    *   Past, current, or proposed elections
+        
+    *   Referenda or any other ballot measures
+        
+    *   Legislative, judicial, or executive outcomes, processes, or policy proposals, including ads that promote or oppose government policies or officials, track records, forms of governance, or political systems
+        
+*   Referencing, promoting, or selling merchandise that features prohibited individuals, prohibited entities, or prohibited content, including campaign slogans, symbols, or logos
+    
+*   Additional prohibitions and restrictions may apply to comply with local laws, such as the EU’s Transparency and Targeting of Political Advertising Regulation. For example, in the European Union we do not allow ads during election periods if they could influence the outcome of the relevant election.
+    
+
+**What is allowed if certain requirements are met:**
+
+*   Only official entities responsible for overseeing elections and referendums are eligible to advertise about upcoming or current elections or referendums. References to an upcoming or current election or referenda, including appeals for votes, voter registration, and promoting participation, are prohibited for all other advertisers.
+    
+*   Advertisements promoting tourism, cultural events, entertainment productions, or charitable initiatives may include incidental references to Royal Family members with official government capacities. These references must be directly related to the advertised initiative, and advertisements must not directly promote or oppose such figures. Geographic targeting is restricted to the home region of the advertiser.
+    
+
+  
+
+Governments and official entities overseeing elections
+------------------------------------------------------
+
+**Policy**
+
+Government entities, intergovernmental entities, and official entities overseeing elections and referendums may engage with the TikTok community through advertising. Eligible advertisers must work directly with a TikTok sales representative and complete our certification process before launching any advertising campaigns. Advertising is limited to only the approved categories below and must comply with all other policies, including our Paid Political Advertising policy.
+
+  
+
+TikTok reserves the right to deny or restrict advertising services if we determine that an entity or its advertising activity undermines platform integrity, community trust and safety, or the integrity of civil processes.
+
+  
+
+**What is allowed:**
+
+*   Promoting tourism, cultural, or entertainment initiatives
+    
+*   Promoting a significant public interest relating to the welfare or well-being of the general public, such as public health, safety, or education\*
+    
+*   Promoting employment or volunteer opportunities\*
+    
+
+\*These ads can only be targeted within the home region of the advertiser.
+
+  
+
+**What is allowed if certain requirements are met:**
+
+*   Only official entities responsible for overseeing elections are eligible to advertise about elections and referendums. These ads are limited to the procedures and methods for participating in elections or referendums, including logistical information, voter registration, promoting participation, and recruiting for election related employment or volunteer opportunities. For these advertisers, ad targeting based on gender or age is also prohibited.
+    
+
+  
+
+Prohibited individuals and entities
+-----------------------------------
+
+The following individuals and entities are not allowed to advertise on our platform:
+
+*   Current executive, legislative, or judicial public officials
+    
+*   Current candidates or nominees for executive, legislative, or judicial public offices
+    
+*   Political parties and individuals currently holding leadership positions in political parties
+    
+*   Royal Family members with current, official government capacities
+    
+*   Political Action Committees (PACs) or any country-specific equivalents, including political campaign organizations
+    
+*   Entities or individuals acting on behalf of prohibited advertisers
+    
+
+Additional prohibitions or restrictions may apply. Learn more by visiting our [actor policy](https://ads.tiktok.com/help/article/actor-policy?lang=en) and [political figures and entities](https://support.tiktok.com/en/using-tiktok/growing-your-audience/government-politician-and-political-party-accounts) policy.
+
+  
+
+Landing pages
+-------------
+
+Our policies apply to both ad creatives and landing pages. Here are more specific rules which apply to landing pages:
+
+*   The landing pages of advertisers may include references to content, entities, or individuals that are otherwise prohibited by this policy, provided the primary focus of the landing page is not prohibited content, entities, or individuals.
+    
+*   The landing pages of official entities responsible for overseeing elections may include factual information regarding the procedures and methods for participating in elections or referendums.
+    
+
+Additional prohibitions or restrictions may apply. Learn more about our landing page policies by visiting our [Ad Format and Functionality](https://ads.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality) article.
+
+![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 

@@ -853,7 +853,7 @@ _Cancellation Rights_
 
 **Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subject to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
 
-If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the “Cancellation Period”). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
+If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the "Cancellation Period"). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
 
 To exercise your right to cancel, you must inform us of your decision by a clear statement, such as by email, post or through our online support page (see Section 14 for our contact details). You may use the cancellation form available below, but the easiest way to cancel is to follow the cancellation instructions provided in Snapchat or your SPECS account.
 
@@ -861,7 +861,7 @@ You do not have the right to change your mind and cancel the contract if: (i) yo
 
 Your legal right to cancel applies to Paid Features as follows:
 
-*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
+*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days' usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
     
 *   Snapstreak Restores, Additional Lens Submissions, and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
     
@@ -890,23 +890,23 @@ Date
 
 \[\*\] Delete as appropriate
 
-Belgium (in addition to those set out under “United Kingdom, European Union and Norway” above):
+Belgium (in addition to those set out under "United Kingdom, European Union and Norway" above):
 
 Where the Paid Features Terms refer to Snap's right to immediately suspend, discontinue or terminate your access to a Paid Feature, without prior notice or liability to you, this will constitute a unilateral termination of our agreement with you without prior intervention of a court or tribunal.
 
-France (in addition to those set out under “United Kingdom, European Union and Norway” above):
+France (in addition to those set out under "United Kingdom, European Union and Norway" above):
 
 Pursuant to the Code de la Consommation, you are entitled to consumer mediation to resolve disputes between us. You may choose any of the mediators listed at [https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/choisir-un-mediateur-de-la-consommation/mediateurs-references](https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/choisir-un-mediateur-de-la-consommation/mediateurs-references?lang=en-GB) under “Commerce électronique - Vente à distance”. Their contact details are available at the individual mediator websites listed there.
 
-Germany (in addition to those set out under “United Kingdom, European Union and Norway” above):
+Germany (in addition to those set out under "United Kingdom, European Union and Norway" above):
 
 Nothing in these Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Section 327 pp. German Civil Code (BGB) and the provision on general terms and conditions pursuant to Sections 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
 
-The Netherlands (in addition to those set out under “United Kingdom, European Union and Norway” above):
+The Netherlands (in addition to those set out under "United Kingdom, European Union and Norway" above):
 
 Nothing in these Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa – 50 ap DCC and general terms and conditions pursuant to articles 6:231-247 DCC.
 
-United Kingdom (in addition to those set out under “United Kingdom, European Union and Norway” above):
+United Kingdom (in addition to those set out under "United Kingdom, European Union and Norway" above):
 
 Nothing in this section or these Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
 

@@ -10518,7 +10518,7 @@ Enforcement
 
 We reserve the right to take a variety of actions, such as the rejection of ads or suspension of ad accounts, depending on the severity of the violation and circumstances. For more information, see our [TikTok Ad After Conversion Experience Management Guidelines](https://ads.tiktok.com/help/article/commerce-policies?aadvid=1631665799579654&lang=en).
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/csr/img/feedback-icon.be0e957.svg)
+![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 

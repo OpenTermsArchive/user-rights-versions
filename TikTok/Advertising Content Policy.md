@@ -91,11 +91,6 @@ Read the following resources to learn more about our advertising policies.
 *   [TikTok Ad After Conversion Experience Management Guidelines](https://ads.tiktok.com/help/article/commerce-policies)
     
 *   [TikTok Ad After Conversion Experience: Customer Review Guidelines](https://ads.tiktok.com/help/article/tiktok-ad-after-conversion-experience-customer-review-guidelines)
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -462,8 +457,6 @@ The following list details the acceptable languages by market:
 
 \*\*For the US, language requirement is not enforced but recommended.
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Adult content
@@ -647,8 +640,6 @@ In the following markets, Promote is the only form of paid ads that is allowed, 
 
 Albania, Brunei, El Salvador, Ethiopia, Honduras, Kyrgyzstan, Laos, Libya, Mali, Mauritius, Monaco, Myanmar, Nicaragua, Senegal, Tanzania, Uganda
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Alcohol
@@ -691,10 +682,6 @@ Examples of what is not allowed in ad content or on landing pages:
         
 
 **Note:** Select alcoholic beverages are currently undergoing testing in some markets. From time to time, we may invite you to participate in alpha and beta tests in select industries that are otherwise still considered prohibited or restricted. Participants are subject to confidentiality (per section [8.4 of the Commercial Terms of Service](https://ads.tiktok.com/i18n/login?redirect=https%3A%2F%2Fads.tiktok.com%2Fi18n%2Fhome%3Fredirect%3Dhttps%253A%252F%252Fads.tiktok.com%252Fi18n%252Fofficial%252Fpolicy%252Fcommercial-terms-of-service%253Frefer%253Dfrom_help_create)) and may be subject to additional requirements. We may choose to revoke participation or discontinue the alpha or beta tests at any time, and will strive to keep you informed if testing results in any material changes to our advertising policies.
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -745,11 +732,6 @@ We do not allow the promotion, sale, solicitation, or facilitation of access to 
 *   Sale or adoption of rare, protected plants and animal species
     
 *   Pet products related to animal abuse such as shock collars and ultrasonic repellers
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -893,8 +875,6 @@ Prescription drugs may be allowed in select markets\*\* if the following require
 
 \*\*Applicable to: Canada, United States
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Deceptive practices
@@ -968,11 +948,6 @@ We do not allow the promotion of deceptive, false, or misleading claims about a 
 *   Informative ads about how to benefit from public benefits without the promise of high financial gains
     
 *   Ads that do not guarantee a win
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -1146,8 +1121,6 @@ All advertising content must comply with all applicable laws and cultural standa
   
 
 Advertisers are expected to comply with our Terms of Service, Community Guidelines, and all relevant policies outlined in the Business Help Center.
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -4749,11 +4722,6 @@ Examples of what is not allowed:
 *   Unaccredited digital banks that perform any traditional bank-like function
     
 *   Virtual currencies or cryptocurrencies, such as Bitcoin and Ethereum
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -9125,8 +9093,6 @@ In the following markets, Promote is the only form of paid ads that is allowed:
 | Medical-related products or services | Not allowed. |
 | Baby food products | Not allowed. |
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Intellectual Property Infringement
@@ -9358,8 +9324,6 @@ As a TikTok user or advertiser, you are responsible for the content you post. If
 
 Please note that TikTok is not in a position to adjudicate disputes between third parties. In accordance with our legal obligations, we maintain processes to address IP rights infringement reports and related disputes. Users or rightholders may have other ways to seek resolution, such as out-of-court dispute settlement processes or in-court proceedings under laws in their countries.
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Misinformation
@@ -9481,11 +9445,6 @@ We take election integrity extremely seriously and do not allow ads that contain
 *   **Humorous content:** Claims made or content shared that deliberately uses humor, parody, or satire to critique or comment on misinformation
     
 *   **Discussion-based content:** Content that simply outlines, discusses, or explains misinformation or conspiracy theories for informational purposes. This type of content is allowed as long as the content does not actively promote, endorse, or encourage belief in conspiracy theories and is not intended to cause harm or panic
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -9647,11 +9606,6 @@ We are committed to protecting people's privacy. We do not allow content that us
 **Examples of what is not allowed:**
 
 *   Public figures being the victim of or engaging in bullying or harassing, making a false endorsement, or being endorsed.
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -10013,11 +9967,6 @@ Ads for Prediction Markets may be allowed if the following requirements are met:
 *   Odds-based or sportsbook-style betting products
     
 *   Products not licensed or permitted as required by local regulation in the target market
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -10155,8 +10104,6 @@ Our policies apply to both ad creatives and landing pages. Here are more specifi
 
 Additional prohibitions or restrictions may apply. Learn more about our landing page policies by visiting our [Ad Format and Functionality](https://ads.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality) article.
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Suicide and Self-Harm
@@ -10197,8 +10144,6 @@ We may allow educational content from fully vetted organizations, such as govern
   
 
 If you or someone you know is struggling, support is available. Reach out to a suicide prevention [helpline](https://www.tiktok.com/safety/suicide-self-harm/?lang=en) or contact emergency services.
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -10518,8 +10463,6 @@ Enforcement
 
 We reserve the right to take a variety of actions, such as the rejection of ads or suspension of ad accounts, depending on the severity of the violation and circumstances. For more information, see our [TikTok Ad After Conversion Experience Management Guidelines](https://ads.tiktok.com/help/article/commerce-policies?aadvid=1631665799579654&lang=en).
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
-
 - - -
 
 Violence and Dangerous Activities
@@ -10648,11 +10591,6 @@ We do not allow anyone to promote or provide material support to violent or hate
     *   Violent criminal organizations
         
     *   Violent extremists
-        
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -10748,8 +10686,3 @@ Ad content and landing pages must not explicitly shame users about their bodies,
 *   Claims that looking a certain way will make individuals more desirable, successful, happy, or popular
     
 *   Claims that body appearance determines a person’s confidence, self-esteem, emotional wellbeing, desirability, popularity, or social standing
-    
-
-  
-
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)

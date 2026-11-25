@@ -9329,7 +9329,7 @@ Please note that TikTok is not in a position to adjudicate disputes between thir
 Misinformation
 ==============
 
-Last updated: August 2025
+Last updated: November 2026
 
 Principle
 ---------
@@ -9415,26 +9415,24 @@ Climate change and environmental degradation are widely recognized by scientists
 
 ### Election misinformation
 
-We do not allow ads featuring political content across any of our monetization features, including paid ads, creators being compensated to make [branded political content](https://www.tiktok.com/legal/page/global/bc-policy/en), and other promotional tools on the platform. Our [Politics, Governments, and Elections](https://ads.tiktok.com/help/article/tiktok-ads-policy-politics-religion-and-culture/?lang=en) policy outlines specific political content violations, and strict restrictions.
+We do not allow ads featuring political content across any of our monetization features, including paid ads, creators being compensated to make [branded political content](https://www.tiktok.com/legal/page/global/bc-policy/en), and other promotional tools on the platform. Our [Politics, Governments, and Elections](https://ads.tiktok.com/resources/help/article/tiktok-ads-policy-politics-government-and-elections) policy outlines specific political content violations, and strict restrictions.
 
   
 
-We take election integrity extremely seriously and do not allow ads that contain misinformation about civic or electoral processes.
+We do not allow ads that contain misinformation about civic or electoral processes.
 
   
 
 **Examples of what is not allowed:**
 
-*   How, when, and where to vote or register to vote
+*   False or inaccurate information regarding how, when, and where to vote or register to vote.
     
-*   Eligibility requirements of voters to participate in an election, and the qualifications for candidates to run for office
+*   Non-factual or inaccurate eligibility requirements of voters to participate in an election, and the qualifications for candidates to run for office.
     
-*   Laws, processes, and procedures that govern the organization and implementation of elections and other civic processes, such as referendums, ballot propositions, or censuses
+*   False information about laws, processes, and procedures that govern the organization and implementation of elections and other civic processes, such as referendums, ballot propositions, or censuses.
     
-*   Final results or outcome of an election including false declaration of results, voter fraud and falsely accusing election rigging
+*   Misleading claims regarding the final results or outcome of an election including false declaration of results, voter fraud and falsely accusing election rigging.
     
-
-  
 
 **Examples of what is allowed:**
 

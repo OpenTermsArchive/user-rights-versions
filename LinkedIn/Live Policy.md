@@ -12,10 +12,10 @@ You can't stream directly from LinkedIn; you'll need a streaming tool to broadca
 
 *   **New broadcasters:** Use a third-party broadcast tool. Choose one of our five preferred partners (**[Restream](https://restream.io/linkedin)**, **[Socialive](https://socialive.us/linkedin-live/)**, **[StreamYard](https://streamyard.com/linkedinlive)**, or **[Switcher Studio](https://www.switcherstudio.com/platforms/linkedin)**) or one of your [supported partners](https://developer.bitmovin.com/encoding/docs/bitmovin-approved-contribution-devices).
     
-*   **Advanced broadcasters or professional producers:** Connect directly to any streaming software or encoder using a custom stream (RTMP Ingest). Go live from your desktop browser by visiting the [LinkedIn custom stream page](https://www.linkedin.com/video/golive/). You can use the tool of your choice (For example OBS, Elemental, Zoom, etc.) or your own production workflow for streaming.
+*   **Advanced broadcasters or professional producers:** Connect directly to any streaming software or encoder using a custom stream (RTMP Ingest). You can use the tool of your choice (For example OBS, Elemental, Zoom, etc.) or your own production workflow for streaming.
     
 
-With either option, you can go live spontaneously or schedule your live stream in advance. We recommend scheduling your live stream in advance to promote it on or off LinkedIn.
+We recommend scheduling your live stream in advance to promote it on or off LinkedIn.
 
 *   [Getting started with LinkedIn Live](https://business.linkedin.com/marketing-solutions/linkedin-live/getting-started)
     

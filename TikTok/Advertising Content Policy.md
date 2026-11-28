@@ -4728,7 +4728,7 @@ Examples of what is not allowed:
 Gambling and Games
 ==================
 
-Last updated: October 2026
+Last updated: November 2026
 
 Principle
 ---------
@@ -6952,20 +6952,22 @@ Examples of what is not allowed:
 
 *   Casinos & Gambling Venues
     
-*   Fantasy Sports
-    
 *   Gambling Games
     
 *   Offline Gambling Services
     
 
-**Non-casino games are not allowed.**
+**Non-casino games:**
 
-*   Exception: National lotteries are allowed if the following requirements are met:
+*   National lotteries are allowed if the following requirements are met:
     
     *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
     *   Be owned, operated, or regulated by a government entity.
+        
+*   Fantasy sports and daily fantasy sports are allowed if the following requirement is met:
+    
+    *   Work with a TikTok sales representative to determine eligibility and obtain permission to run ads.
         
 
 **Social casino games are allowed if the following requirements are met:**
